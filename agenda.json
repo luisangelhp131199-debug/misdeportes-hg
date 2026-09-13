@@ -1,35 +1,5 @@
 [
     {
-        "evento": "14:45 Eredivisie: PEC Zwolle vs Feyenoord",
-        "opciones": [
-            {
-                "canal": "ESPN 4 MX",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg=",
-                "url_real": "https://tvf90.com/1.php?stream=espn4mx"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
-                "url_real": "https://tvf90.com/1.php?stream=disney11"
-            },
-            {
-                "canal": "ESPN 2 NL",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
-                "url_real": "https://tvf90.com/1.php?stream=espn2_nl"
-            }
-        ]
-    },
-    {
-        "evento": "14:45 Eerste Divisie: Volendam vs Den Bosch",
-        "opciones": [
-            {
-                "canal": "ESPN 3 NL",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zX25s",
-                "url_real": "https://tvf90.com/1.php?stream=espn3_nl"
-            }
-        ]
-    },
-    {
         "evento": "15:15 Ligue 1: Le Mans vs Lens",
         "opciones": [
             {
@@ -151,6 +121,46 @@
                 "canal": "Caracol TV",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWNhcmFjb2w=",
                 "url_real": "https://tvf90.com/1.php?stream=caracol"
+            },
+            {
+                "canal": "Tigo Sports",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4y",
+                "url_real": "https://tvf90.com/1.php?stream=even2"
+            },
+            {
+                "canal": "Tigo Sports HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4y",
+                "url_real": "https://tvf90.com/1.php?stream=even2"
+            }
+        ]
+    },
+    {
+        "evento": "16:00 Copa Mundial Femenina Sub-20 de la FIFA: Portugal vs Costa Rica",
+        "opciones": [
+            {
+                "canal": "Tigo Sports 2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4z",
+                "url_real": "https://tvf90.com/1.php?stream=even3"
+            },
+            {
+                "canal": "TUDN MX",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg=",
+                "url_real": "https://tvf90.com/1.php?stream=tudn_mx"
+            },
+            {
+                "canal": "Tigo Sports 2 HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4z",
+                "url_real": "https://tvf90.com/1.php?stream=even3"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+                "url_real": "https://tvf90.com/2.php?stream=foxsports2_usa"
+            },
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
+                "url_real": "https://tvf90.com/1.php?stream=foxsports2_usa"
             }
         ]
     },
@@ -201,26 +211,6 @@
                 "canal": "Disney+",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2",
                 "url_real": "https://tvf90.com/1.php?stream=disney16"
-            }
-        ]
-    },
-    {
-        "evento": "16:00 Copa Mundial Femenina Sub-20 de la FIFA: Portugal vs Costa Rica",
-        "opciones": [
-            {
-                "canal": "TUDN MX",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg=",
-                "url_real": "https://tvf90.com/1.php?stream=tudn_mx"
-            },
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
-                "url_real": "https://tvf90.com/1.php?stream=foxsports2_usa"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
-                "url_real": "https://tvf90.com/2.php?stream=foxsports2_usa"
             }
         ]
     },
@@ -435,6 +425,31 @@
         ]
     },
     {
+        "evento": "18:00 US Open, dura - Final: Zverev A. vs Shelton B.",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+                "url_real": "https://tvf90.com/canal.php?stream=espn"
+            },
+            {
+                "canal": "ESPN HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW40",
+                "url_real": "https://tvf90.com/1.php?stream=even4"
+            },
+            {
+                "canal": "ESPN 2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/1.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+                "url_real": "https://tvf90.com/hd.php?stream=espn2"
+            }
+        ]
+    },
+    {
         "evento": "18:00 Liga 1: Sport Boys vs Deportivo Garcilaso",
         "opciones": [
             {
@@ -556,21 +571,6 @@
                 "canal": "TNT Sports Chile",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
                 "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "evento": "18:00 US Open, dura - Final: Zverev A. vs Shelton B.",
-        "opciones": [
-            {
-                "canal": "ESPN 2 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-                "url_real": "https://tvf90.com/hd.php?stream=espn2"
-            },
-            {
-                "canal": "ESPN 2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
-                "url_real": "https://tvf90.com/1.php?stream=espn2"
             }
         ]
     },
@@ -763,14 +763,24 @@
         "evento": "19:00 LaLiga: Real Sociedad vs Atlético Madrid",
         "opciones": [
             {
+                "canal": "DSports | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
+                "url_real": "https://tv-90.com/dsportsar.php"
+            },
+            {
                 "canal": "Dsports Argentina",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
                 "url_real": "https://tv-90.com/dsportsar.php"
             },
             {
-                "canal": "DSports | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
-                "url_real": "https://tv-90.com/dsportsar.php"
+                "canal": "DSports Eventos",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
+                "url_real": "https://tvf90.com/1.php?stream=dsports_eventos"
+            },
+            {
+                "canal": "DSports AR",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
+                "url_real": "https://tvf90.com/1.php?stream=dsports_eventos"
             },
             {
                 "canal": "DSports",
@@ -955,6 +965,21 @@
         ]
     },
     {
+        "evento": "20:30 Brasileirão: Flamengo vs Corinthians",
+        "opciones": [
+            {
+                "canal": "Premiere BR",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+                "url_real": "https://tvf90.com/1.php?stream=premiere1"
+            },
+            {
+                "canal": "Premiere BR | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+                "url_real": "https://tvf90.com/2.php?stream=premiere1"
+            }
+        ]
+    },
+    {
         "evento": "20:30 Primera División: Colo-Colo vs Deportes Concepción",
         "opciones": [
             {
@@ -1055,6 +1080,16 @@
         ]
     },
     {
+        "evento": "21:30 Primera División: Rubio Ñú vs Nacional Asunción",
+        "opciones": [
+            {
+                "canal": "Fanatiz 10",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoxMA==",
+                "url_real": "https://tvf90.com/1.php?stream=fanatiz10"
+            }
+        ]
+    },
+    {
         "evento": "22:15 Liga Profesional: Independiente vs San Lorenzo",
         "opciones": [
             {
@@ -1076,6 +1111,16 @@
                 "canal": "ESPN Premium┃OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
                 "url_real": "https://tvf90.com/3.php?stream=espnpremium"
+            }
+        ]
+    },
+    {
+        "evento": "22:30 Primera División: Peñarol vs Albion",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+                "url_real": "https://tvf90.com/1.php?stream=disney4"
             }
         ]
     },
@@ -1318,6 +1363,11 @@
                 "url_real": "https://tvf90.com/canal.php?stream=espnmx"
             },
             {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY=",
+                "url_real": "https://tvf90.com/1.php?stream=disney6"
+            },
+            {
                 "canal": "ESPN MX",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
                 "url_real": "https://tvf90.com/1.php?stream=espnmx"
@@ -1331,6 +1381,26 @@
                 "canal": "ESPN MX | OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA==",
                 "url_real": "https://tvf90.com/3.php?stream=espnmx"
+            }
+        ]
+    },
+    {
+        "evento": "01:00 MLS: San Diego vs Philadelphia Union",
+        "opciones": [
+            {
+                "canal": "MLS 03 | EN",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczNlbg==",
+                "url_real": "https://tvf90.com/1.php?stream=mls3en"
+            },
+            {
+                "canal": "MLS 03 HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bWxzM2Vu",
+                "url_real": "https://futbollibre.ch/2.php?stream=mls3en"
+            },
+            {
+                "canal": "MLS 03 | Español",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczNlbg==",
+                "url_real": "https://tvf90.com/2.php?stream=mls3en"
             }
         ]
     },
