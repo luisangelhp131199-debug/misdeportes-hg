@@ -1,35 +1,5 @@
 [
     {
-        "evento": "15:15 Ligue 1: Le Mans vs Lens",
-        "opciones": [
-            {
-                "canal": "ESPN 4 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-                "url_real": "https://tvf90.com/1.php?stream=espn4"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
-                "url_real": "https://tvf90.com/1.php?stream=disney12"
-            },
-            {
-                "canal": "ESPN 4",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40",
-                "url_real": "https://tvf90.com/1.php?stream=espn4"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40",
-                "url_real": "https://tvf90.com/2.php?stream=espn4"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40",
-                "url_real": "https://tvf90.com/3.php?stream=espn4"
-            }
-        ]
-    },
-    {
         "evento": "15:30 Primera División: Univ. Concepción vs Huachipato",
         "opciones": [
             {
