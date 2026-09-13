@@ -1,90 +1,5 @@
 [
     {
-        "evento": "15:30 Primera División: Univ. Concepción vs Huachipato",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "url_real": "https://tvf90.com/hd.php?stream=tntsportschile"
-            },
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "url_real": "https://tvf90.com/2.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "evento": "15:30 Premier League: Manchester United vs Manchester City",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
-                "url_real": "https://tvf90.com/canal.php?stream=espn"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
-                "url_real": "https://tvf90.com/1.php?stream=disney13"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
-                "url_real": "https://tvf90.com/2.php?stream=espn"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
-                "url_real": "https://tvf90.com/3.php?stream=espn"
-            },
-            {
-                "canal": "Telemundo",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
-                "url_real": "https://tvf90.com/1.php?stream=telemundo"
-            },
-            {
-                "canal": "Telemundo | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8=",
-                "url_real": "https://tvf90.com/hd.php?stream=telemundo"
-            }
-        ]
-    },
-    {
-        "evento": "15:30 Primera B: Magallanes vs Puerto Montt",
-        "opciones": [
-            {
-                "canal": "TNT Sports Chile",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "evento": "15:30 Bundesliga: Elversberg vs Bayern München",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0",
-                "url_real": "https://tvf90.com/1.php?stream=disney14"
-            }
-        ]
-    },
-    {
-        "evento": "15:30 Segunda División: River Plate vs Fénix",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
-                "url_real": "https://tvf90.com/1.php?stream=disney13"
-            }
-        ]
-    },
-    {
         "evento": "16:00 Copa Mundial Femenina Sub-20 de la FIFA: Colombia vs Corea del Norte",
         "opciones": [
             {
@@ -416,6 +331,11 @@
                 "canal": "ESPN 2 | HD",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
                 "url_real": "https://tvf90.com/hd.php?stream=espn2"
+            },
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
+                "url_real": "https://tvf90.com/1.php?stream=disney4"
             }
         ]
     },
