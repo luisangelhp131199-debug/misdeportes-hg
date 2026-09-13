@@ -1,20 +1,5 @@
 [
     {
-        "evento": "19:30 Primeira Liga: Famalicão vs Sporting CP",
-        "opciones": [
-            {
-                "canal": "Dsports 2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy",
-                "url_real": "https://tvf90.com/3.php?stream=dsports2"
-            },
-            {
-                "canal": "Dsports 2 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg==",
-                "url_real": "https://tvf90.com/hd.php?stream=dsports2"
-            }
-        ]
-    },
-    {
         "evento": "20:00 Liga Profesional: Argentinos Juniors vs Gimnasia La Plata",
         "opciones": [
             {
