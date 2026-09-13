@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cine & Películas | MisDeportes-HG</title>
+  <style>
+    :root {
+      --bg-main: #0b0f19;
+      --bg-card: #151c2e;
+      --accent: #00d2ff;
+      --accent-gradient: linear-gradient(135deg, #00d2ff 0%, #3a7bd5 100%);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --border-color: rgba(255, 255, 255, 0.08);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: var(--bg-main);
+      color: var(--text-main);
+      padding: 15px;
+      min-height: 100vh;
+    }
+
+    .container { max-width: 1100px; margin: 0 auto; }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid var(--border-color);
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .logo {
+      font-size: 1.4rem;
+      font-weight: 800;
+      background: var(--accent-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .nav-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.9rem;
+      padding: 6px 12px;
+      border-radius: 6px;
+      transition: 0.2s;
+    }
+
+    .nav-links a:hover { color: var(--accent); background: rgba(255,255,255,0.05); }
+
+    /* Buscador */
+    .search-box {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 12px 16px;
+      border-radius: 10px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-card);
+      color: #fff;
+      font-size: 0.95rem;
+      outline: none;
+    }
+
+    .search-box input:focus { border-color: var(--accent); }
+
+    /* Player Overlay Modal */
+    .player-modal {
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0,0,0,0.85);
+      z-index: 1000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 15px;
+      backdrop-filter: blur(5px);
+    }
+
+    .player-content {
+      width: 100%;
+      max-width: 850px;
+      background: var(--bg-card);
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--border-color);
+      position: relative;
+    }
+
+    .player-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 16px;
+      background: rgba(0,0,0,0.4);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .player-title { font-size: 1rem; font-weight: 700; color: #fff; }
+
+    .btn-close {
+      background: #ef4444;
+      color: #fff;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 700;
+    }
+
+    .player-container {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+      background: #000;
+    }
+
+    .player-container iframe {
+      position: absolute;
+      top:0; left:0; width:100%; height:100%;
+      border:none;
+    }
+
+    .shield-overlay {
+      position: absolute;
+      top:0; left:0; width:100%; height:100%;
+      z-index: 10;
+      cursor: pointer;
+      background: rgba(0, 0, 0, 0.01);
+    }
+
+    /* Grid de Películas */
+    .movies-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 15px;
+    }
+
+    @media (min-width: 600px) {
+      .movies-grid { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 20px; }
+    }
+
+    .movie-card {
+      background: var(--bg-card);
+      border-radius: 10px;
+      overflow: hidden;
+      border: 1px solid var(--border-color);
+      cursor: pointer;
+      transition: all 0.25s ease;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .movie-card:hover {
+      transform: translateY(-5px);
+      border-color: rgba(0, 210, 255, 0.4);
+      box-shadow: 0 8px 20px rgba(0, 210, 255, 0.2);
+    }
+
+    .poster-wrapper {
+      position: relative;
+      width: 100%;
+      padding-top: 145%;
+      background: #1e293b;
+    }
+
+    .poster-wrapper img {
+      position: absolute;
+      top: 0; left: 0; width: 100%; height: 100%;
+      object-fit: cover;
+    }
+
+    .movie-info {
+      padding: 10px;
+      flex-grow: 1;
+      display: flex;
+      align-items: center;
+    }
+
+    .movie-title {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-main);
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      line-height: 1.3;
+    }
+
+    .spinner {
+      border: 3px solid rgba(255,255,255,0.1);
+      border-top: 3px solid var(--accent);
+      border-radius: 50%;
+      width: 35px; height: 35px;
+      animation: spin 1s linear infinite;
+      margin: 40px auto;
+    }
+
+    @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div class="logo">🎬 MisPeliculas HG</div>
+      <div class="nav-links">
+        <a href="index.html">⚽ Deportes</a>
+      </div>
+    </header>
+
+    <div class="search-box">
+      <input type="text" id="input-search" placeholder="🔍 Buscar película..." oninput="filtrarPeliculas()">
+    </div>
+
+    <div id="contenedor-peliculas">
+      <div class="spinner"></div>
+    </div>
+  </div>
+
+  <!-- Modal Reproductor -->
+  <div class="player-modal" id="modal-player">
+    <div class="player-content">
+      <div class="player-header">
+        <div class="player-title" id="modal-titulo">Reproduciendo...</div>
+        <button class="btn-close" onclick="cerrarModal()">✕ Cerrar</button>
+      </div>
+      <div class="player-container" id="box-player"></div>
+    </div>
+  </div>
+
+  <script>
+    window.open = function() { return null; }; // Bloqueo de popups emergentes
+
+    let todasLasPeliculas = [];
+
+    function abrirReproductor(titulo, embedUrl) {
+      document.getElementById('modal-titulo').textContent = titulo;
+      const box = document.getElementById('box-player');
+
+      box.innerHTML = `
+        <div class="shield-overlay" onclick="this.remove()"></div>
+        <iframe 
+          src="${embedUrl}" 
+          allowfullscreen 
+          scrolling="no" 
+          allow="encrypted-media; autoplay; picture-in-picture"
+          referrerpolicy="no-referrer">
+        </iframe>`;
+
+      document.getElementById('modal-player').style.display = 'flex';
+    }
+
+    function cerrarModal() {
+      document.getElementById('box-player').innerHTML = '';
+      document.getElementById('modal-player').style.display = 'none';
+    }
+
+    function renderizarPeliculas(lista) {
+      const contenedor = document.getElementById('contenedor-peliculas');
+      contenedor.innerHTML = '';
+
+      if (!lista || lista.length === 0) {
+        contenedor.innerHTML = '<p style="text-align:center; color: var(--text-muted); grid-column: 1/-1;">No se encontraron películas.</p>';
+        return;
+      }
+
+      const grid = document.createElement('div');
+      grid.className = 'movies-grid';
+
+      lista.forEach(peli => {
+        const card = document.createElement('div');
+        card.className = 'movie-card';
+        card.onclick = () => abrirReproductor(peli.titulo, peli.embed_url);
+
+        card.innerHTML = `
+          <div class="poster-wrapper">
+            <img src="${peli.poster}" alt="${peli.titulo}" loading="lazy" onerror="this.src='https://via.placeholder.com/300x450/151c2e/94a3b8?text=Sin+Poster'">
+          </div>
+          <div class="movie-info">
+            <div class="movie-title">${peli.titulo}</div>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+
+      contenedor.appendChild(grid);
+    }
+
+    function filtrarPeliculas() {
+      const q = document.getElementById('input-search').value.toLowerCase();
+      const filtradas = todasLasPeliculas.filter(p => p.titulo.toLowerCase().includes(q));
+      renderizarPeliculas(filtradas);
+    }
+
+    fetch('peliculas.json')
+      .then(res => res.json())
+      .then(data => {
+        todasLasPeliculas = data;
+        renderizarPeliculas(todasLasPeliculas);
+      })
+      .catch(err => {
+        document.getElementById('contenedor-peliculas').innerHTML = '<p style="text-align:center; color: var(--text-muted);">Error al cargar el catálogo de películas.</p>';
+      });
+  </script>
+
+</body>
+</html>
