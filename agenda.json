@@ -1,30 +1,5 @@
 [
     {
-        "evento": "08:45 MotoGP – GP San Marino y de la Riviera de Rimini – Carrera Moto3/Moto2/MotoGP",
-        "opciones": [
-            {
-                "canal": "ESPN 2 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-                "url_real": "https://tvf90.com/hd.php?stream=espn2"
-            },
-            {
-                "canal": "ESPN 2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
-                "url_real": "https://tvf90.com/1.php?stream=espn2"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
-                "url_real": "https://tvf90.com/2.php?stream=espn2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
-                "url_real": "https://tvf90.com/3.php?stream=espn2"
-            }
-        ]
-    },
-    {
         "evento": "10:15 Eredivisie: Excelsior vs Utrecht",
         "opciones": [
             {
