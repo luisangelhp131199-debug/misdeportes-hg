@@ -1,190 +1,5 @@
 [
     {
-        "evento": "19:00 Primera A: Deportivo Pereira vs Atlético Bucaramanga",
-        "opciones": [
-            {
-                "canal": "Win Sports + | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
-                "url_real": "https://tvf90.com/hd.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports +",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "url_real": "https://tvf90.com/1.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "url_real": "https://tvf90.com/2.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "url_real": "https://tvf90.com/3.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM=",
-                "url_real": "https://tvf90.com/hd.php?stream=winsports"
-            },
-            {
-                "canal": "Win Sports",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "url_real": "https://tvf90.com/3.php?stream=winsports"
-            },
-            {
-                "canal": "Win Sports | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "url_real": "https://tvf90.com/1.php?stream=winsports"
-            },
-            {
-                "canal": "Win Sports ┃OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "url_real": "https://tvf90.com/2.php?stream=winsports"
-            }
-        ]
-    },
-    {
-        "evento": "19:00 LaLiga SmartBank: Tenerife vs Leganés",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
-                "url_real": "https://tvf90.com/1.php?stream=hypermotion1"
-            }
-        ]
-    },
-    {
-        "evento": "19:00 Rugby – Top 14 – Toulouse vs. Bordeaux",
-        "opciones": [
-            {
-                "canal": "ESPN 3 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
-                "url_real": "https://tvf90.com/hd.php?stream=espn3"
-            },
-            {
-                "canal": "ESPN 3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
-                "url_real": "https://tvf90.com/1.php?stream=espn3"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
-                "url_real": "https://tvf90.com/2.php?stream=espn3"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
-                "url_real": "https://tvf90.com/3.php?stream=espn3"
-            }
-        ]
-    },
-    {
-        "evento": "19:00 Primera División: Defensor Sporting vs Deportivo Maldonado",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
-                "url_real": "https://tvf90.com/1.php?stream=disney2"
-            }
-        ]
-    },
-    {
-        "evento": "19:00 Brasileirão: Mirassol vs Vitória",
-        "opciones": [
-            {
-                "canal": "Premiere 2 BR",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMg==",
-                "url_real": "https://tvf90.com/1.php?stream=premiere2"
-            },
-            {
-                "canal": "Premiere 2 BR | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTI=",
-                "url_real": "https://tvf90.com/hd.php?stream=premiere2"
-            }
-        ]
-    },
-    {
-        "evento": "19:00 Primera División: Olimpia vs Sportivo Luqueño",
-        "opciones": [
-            {
-                "canal": "fanatiz 06",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo2",
-                "url_real": "https://tvf90.com/1.php?stream=fanatiz6"
-            }
-        ]
-    },
-    {
-        "evento": "19:00 Primera División: Always Ready vs Guabirá",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
-                "url_real": "https://tvf90.com/plus1.php?stream=even1"
-            }
-        ]
-    },
-    {
-        "evento": "19:00 LaLiga: Real Sociedad vs Atlético Madrid",
-        "opciones": [
-            {
-                "canal": "DirecTV Sports",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
-                "url_real": "https://tv-90.com/dsportsco.php"
-            },
-            {
-                "canal": "DSports | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
-                "url_real": "https://tv-90.com/dsportsar.php"
-            },
-            {
-                "canal": "Dsports Argentina",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
-                "url_real": "https://tv-90.com/dsportsar.php"
-            },
-            {
-                "canal": "DSports Eventos",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
-                "url_real": "https://tvf90.com/1.php?stream=dsports_eventos"
-            },
-            {
-                "canal": "DSports Colombia",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
-                "url_real": "https://tv-90.com/dsportsco.php"
-            },
-            {
-                "canal": "DSports",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "url_real": "https://tvf90.com/1.php?stream=dsports"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "url_real": "https://tvf90.com/1.php?stream=dsports"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "url_real": "https://tvf90.com/2.php?stream=dsports"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
-                "url_real": "https://tvf90.com/canal.php?stream=espndeportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
-                "url_real": "https://tvf90.com/2.php?stream=espndeportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
-                "url_real": "https://tvf90.com/3.php?stream=espndeportes"
-            }
-        ]
-    },
-    {
         "evento": "19:30 Primeira Liga: Famalicão vs Sporting CP",
         "opciones": [
             {
@@ -456,6 +271,16 @@
                 "canal": "Fanatiz 10",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoxMA==",
                 "url_real": "https://tvf90.com/1.php?stream=fanatiz10"
+            }
+        ]
+    },
+    {
+        "evento": "22:00 Costa Rica: Sporting FC vs Saprissa",
+        "opciones": [
+            {
+                "canal": "FOX Costa Rica",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW43",
+                "url_real": "https://tvf90.com/plus.php?stream=even7"
             }
         ]
     },
