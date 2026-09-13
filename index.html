@@ -98,6 +98,16 @@
       border: none;
     }
 
+    /* Escudo Anti-Clics Fantasma */
+    .shield-overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 10;
+      cursor: pointer;
+      background: rgba(0, 0, 0, 0.01);
+    }
+
     .player-placeholder {
       position: absolute;
       top: 0; left: 0; width: 100%; height: 100%;
@@ -141,7 +151,7 @@
       color: var(--text-main);
     }
 
-    .canales-list { display: flex; flex-wrap: wrap; gap: 8px; }
+    .canales-list { display: flex; flex-wrap: gap: 8px; }
 
     .btn-canal {
       background: #1e293b;
@@ -208,7 +218,7 @@
   </div>
 
   <script>
-    // Inactivar apertura de pestañas no solicitadas en la ventana principal
+    // Bloquea redirecciones de la ventana principal
     window.open = function() {
       return null;
     };
@@ -239,15 +249,17 @@
           video.play();
         }
       } else {
-        // Sandbox ajustado con los permisos requeridos para evitar la pantalla roja
+        // Se remueve sandbox para eliminar la pantalla roja.
+        // Se coloca una capa invisible (#shield) que se destruye al primer toque,
+        // interceptando el primer clic redirigido.
         box.innerHTML = `
+          <div id="shield" class="shield-overlay" onclick="this.remove()"></div>
           <iframe 
             src="${urlReal}" 
             allowfullscreen 
             scrolling="no" 
             allow="encrypted-media; autoplay; picture-in-picture"
-            referrerpolicy="no-referrer"
-            sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-pointer-lock">
+            referrerpolicy="no-referrer">
           </iframe>`;
       }
 
