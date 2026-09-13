@@ -1,55 +1,5 @@
 [
     {
-        "evento": "17:45 Liga Profesional: Sarmiento vs Belgrano",
-        "opciones": [
-            {
-                "canal": "ESPN Premium┃HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
-                "url_real": "https://tvf90.com/hd.php?stream=espnpremium"
-            },
-            {
-                "canal": "ESPN Premium",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-                "url_real": "https://tvf90.com/1.php?stream=espnpremium"
-            },
-            {
-                "canal": "ESPN Premium┃OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-                "url_real": "https://tvf90.com/2.php?stream=espnpremium"
-            },
-            {
-                "canal": "ESPN Premium┃OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-                "url_real": "https://tvf90.com/3.php?stream=espnpremium"
-            }
-        ]
-    },
-    {
-        "evento": "17:45 Liga Profesional: Tigre vs Rosario Central",
-        "opciones": [
-            {
-                "canal": "TNT Sports | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://futbollibre.ch/hd.php?stream=tntsports"
-            },
-            {
-                "canal": "TNT Sports",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://tvf90.com/3.php?stream=tntsports"
-            },
-            {
-                "canal": "TNT Sports | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://tvf90.com/1.php?stream=tntsports"
-            },
-            {
-                "canal": "TNT Sports | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://tvf90.com/2.php?stream=tntsports"
-            }
-        ]
-    },
-    {
         "evento": "18:00 US Open, dura - Final: Zverev A. vs Shelton B.",
         "opciones": [
             {
