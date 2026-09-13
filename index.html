@@ -9,7 +9,6 @@
     :root {
       --bg-main: #0b0f19;
       --bg-card: #151c2e;
-      --bg-card-hover: #1e293b;
       --accent: #00d2ff;
       --accent-gradient: linear-gradient(135deg, #00d2ff 0%, #3a7bd5 100%);
       --text-main: #f8fafc;
@@ -27,12 +26,8 @@
       min-height: 100vh;
     }
 
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-    }
+    .container { max-width: 900px; margin: 0 auto; }
 
-    /* Header */
     header {
       display: flex;
       align-items: center;
@@ -80,7 +75,6 @@
       100% { opacity: 1; transform: scale(1); }
     }
 
-    /* Player Box */
     .player-wrapper {
       background: #000;
       border-radius: 16px;
@@ -118,22 +112,17 @@
     }
 
     .player-placeholder svg {
-      width: 50px;
-      height: 50px;
+      width: 50px; height: 50px;
       margin-bottom: 12px;
       fill: var(--accent);
       opacity: 0.8;
     }
 
-    /* Cards Agenda */
     .section-title {
       font-size: 1.1rem;
       font-weight: 700;
       margin-bottom: 15px;
       color: var(--text-main);
-      display: flex;
-      align-items: center;
-      gap: 8px;
     }
 
     .card {
@@ -142,13 +131,7 @@
       padding: 16px;
       margin-bottom: 14px;
       border: 1px solid var(--border-color);
-      transition: all 0.2s ease;
       box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    }
-
-    .card:hover {
-      border-color: rgba(0, 210, 255, 0.3);
-      transform: translateY(-2px);
     }
 
     .evento-titulo {
@@ -156,14 +139,9 @@
       font-weight: 600;
       margin-bottom: 12px;
       color: var(--text-main);
-      line-height: 1.4;
     }
 
-    .canales-list {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
+    .canales-list { display: flex; flex-wrap: wrap; gap: 8px; }
 
     .btn-canal {
       background: #1e293b;
@@ -180,27 +158,18 @@
       transition: all 0.2s ease;
     }
 
-    .btn-canal:hover {
+    .btn-canal:hover, .btn-canal.active {
       background: var(--accent-gradient);
       color: #000;
       border-color: transparent;
       box-shadow: 0 0 12px rgba(0, 210, 255, 0.4);
     }
 
-    .btn-canal.active {
-      background: var(--accent-gradient);
-      color: #000;
-      border-color: transparent;
-      font-weight: 700;
-    }
-
-    /* Spinner */
     .spinner {
       border: 3px solid rgba(255,255,255,0.1);
       border-top: 3px solid var(--accent);
       border-radius: 50%;
-      width: 30px;
-      height: 30px;
+      width: 30px; height: 30px;
       animation: spin 1s linear infinite;
       margin: 20px auto;
     }
@@ -229,25 +198,31 @@
           <svg viewBox="0 0 24 24">
             <path d="M8 5v14l11-7z"/>
           </svg>
-          <p>Selecciona un partido abajo para iniciar la transmisión</p>
+          <p>Selecciona un canal para iniciar la transmisión sin publicidad</p>
         </div>
       </div>
     </div>
 
-    <div class="section-title">
-      📅 Eventos Disponibles
-    </div>
-
-    <div id="contenedor-agenda">
-      <div class="spinner"></div>
-    </div>
+    <div class="section-title">📅 Agenda Deportiva</div>
+    <div id="contenedor-agenda"><div class="spinner"></div></div>
   </div>
 
   <script>
+    // --- ESCUDO ANTI-POPUP/PUB (TIPO BRAVE) ---
+    // 1. Bloquea la creación de pestañas nuevas creadas por scripts invasivos
+    window.open = function() {
+      console.log("Pop-up bloqueado automáticamente por tu web.");
+      return null;
+    };
+
+    // 2. Bloquea clicks redirigidos hacia otras páginas
+    window.onbeforeunload = function(e) {
+      // Evita redirecciones invisibles de la ventana principal
+    };
+
     let hls = null;
 
     function reproducir(urlReal, btnElement) {
-      // Remover clase activo de todos los botones
       document.querySelectorAll('.btn-canal').forEach(b => b.classList.remove('active'));
       if(btnElement) btnElement.classList.add('active');
 
@@ -271,13 +246,15 @@
           video.play();
         }
       } else {
+        // iframe con Sandbox Estricto (Sin permiso de abrir popups)
         box.innerHTML = `
           <iframe 
             src="${urlReal}" 
             allowfullscreen 
             scrolling="no" 
             allow="encrypted-media; autoplay; picture-in-picture"
-            referrerpolicy="no-referrer">
+            referrerpolicy="no-referrer"
+            sandbox="allow-scripts allow-same-origin allow-forms">
           </iframe>`;
       }
 
@@ -320,7 +297,7 @@
         });
       })
       .catch(err => {
-        document.getElementById('contenedor-agenda').innerHTML = '<p style="text-align:center; color: var(--text-muted);">Error al cargar los datos de la agenda.</p>';
+        document.getElementById('contenedor-agenda').innerHTML = '<p style="text-align:center; color: var(--text-muted);">Error al cargar la agenda.</p>';
       });
   </script>
 
