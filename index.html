@@ -198,7 +198,7 @@
           <svg viewBox="0 0 24 24">
             <path d="M8 5v14l11-7z"/>
           </svg>
-          <p>Selecciona un canal para iniciar la transmisión sin publicidad</p>
+          <p>Selecciona un canal para iniciar la transmisión</p>
         </div>
       </div>
     </div>
@@ -208,16 +208,9 @@
   </div>
 
   <script>
-    // --- ESCUDO ANTI-POPUP/PUB (TIPO BRAVE) ---
-    // 1. Bloquea la creación de pestañas nuevas creadas por scripts invasivos
+    // Inactivar apertura de pestañas no solicitadas en la ventana principal
     window.open = function() {
-      console.log("Pop-up bloqueado automáticamente por tu web.");
       return null;
-    };
-
-    // 2. Bloquea clicks redirigidos hacia otras páginas
-    window.onbeforeunload = function(e) {
-      // Evita redirecciones invisibles de la ventana principal
     };
 
     let hls = null;
@@ -246,7 +239,7 @@
           video.play();
         }
       } else {
-        // iframe con Sandbox Estricto (Sin permiso de abrir popups)
+        // Sandbox ajustado con los permisos requeridos para evitar la pantalla roja
         box.innerHTML = `
           <iframe 
             src="${urlReal}" 
@@ -254,7 +247,7 @@
             scrolling="no" 
             allow="encrypted-media; autoplay; picture-in-picture"
             referrerpolicy="no-referrer"
-            sandbox="allow-scripts allow-same-origin allow-forms">
+            sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-pointer-lock">
           </iframe>`;
       }
 
