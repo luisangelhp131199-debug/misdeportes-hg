@@ -1,40 +1,5 @@
 [
     {
-        "evento": "13:30 Bundesliga: RB Leipzig vs Hamburger SV",
-        "opciones": [
-            {
-                "canal": "ESPN 5 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
-                "url_real": "https://tvf90.com/hd.php?stream=espn5"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw",
-                "url_real": "https://tvf90.com/1.php?stream=disney10"
-            },
-            {
-                "canal": "ESPN 5",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
-                "url_real": "https://tvf90.com/1.php?stream=espn5"
-            },
-            {
-                "canal": "ESPN 5 | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
-                "url_real": "https://tvf90.com/2.php?stream=espn5"
-            },
-            {
-                "canal": "ESPN 5 | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
-                "url_real": "https://tvf90.com/3.php?stream=espn5"
-            },
-            {
-                "canal": "Universo",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
-                "url_real": "https://tvf90.com/1.php?stream=universo"
-            }
-        ]
-    },
-    {
         "evento": "14:00 Ciclismo – La Vuelta – Etapa #21",
         "opciones": [
             {
