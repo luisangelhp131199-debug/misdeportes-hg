@@ -1,60 +1,5 @@
 [
     {
-        "evento": "16:30 LaLiga: Getafe vs Deportivo La Coruña",
-        "opciones": [
-            {
-                "canal": "Dsports Argentina",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
-                "url_real": "https://tv-90.com/dsportsar.php"
-            },
-            {
-                "canal": "DSports | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
-                "url_real": "https://tv-90.com/dsportsar.php"
-            },
-            {
-                "canal": "DSports",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "url_real": "https://tvf90.com/1.php?stream=dsports"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "url_real": "https://tvf90.com/1.php?stream=dsports"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "url_real": "https://tvf90.com/2.php?stream=dsports"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
-                "url_real": "https://tvf90.com/canal.php?stream=espndeportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
-                "url_real": "https://tvf90.com/2.php?stream=espndeportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
-                "url_real": "https://tvf90.com/3.php?stream=espndeportes"
-            }
-        ]
-    },
-    {
-        "evento": "16:30 LaLiga SmartBank: Mallorca vs Sabadell",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
-                "url_real": "https://tvf90.com/1.php?stream=hypermotion1"
-            }
-        ]
-    },
-    {
         "evento": "17:00 NFL Red Zone",
         "opciones": [
             {
@@ -553,6 +498,11 @@
         "evento": "19:00 LaLiga: Real Sociedad vs Atlético Madrid",
         "opciones": [
             {
+                "canal": "DirecTV Sports",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
+                "url_real": "https://tv-90.com/dsportsco.php"
+            },
+            {
                 "canal": "DSports | HD",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA==",
                 "url_real": "https://tv-90.com/dsportsar.php"
@@ -568,9 +518,9 @@
                 "url_real": "https://tvf90.com/1.php?stream=dsports_eventos"
             },
             {
-                "canal": "DSports AR",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
-                "url_real": "https://tvf90.com/1.php?stream=dsports_eventos"
+                "canal": "DSports Colombia",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA==",
+                "url_real": "https://tv-90.com/dsportsco.php"
             },
             {
                 "canal": "DSports",
