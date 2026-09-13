@@ -1,0 +1,37 @@
+name: Auto Actualizar Agenda
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Descargar el código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar librerías necesarias
+        run: |
+          pip install playwright beautifulsoup4
+          playwright install chromium
+          playwright install-deps
+
+      - name: Ejecutar script de extracción
+        run: python script.py
+
+      - name: Subir cambios a GitHub
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add agenda.json
+          git commit -m "Auto-actualización de agenda.json" || exit 0
+          git push
