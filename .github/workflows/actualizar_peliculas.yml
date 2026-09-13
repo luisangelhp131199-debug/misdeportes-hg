@@ -1,33 +1,80 @@
-name: Actualizar Peliculas
+import asyncio
+from playwright.async_api import async_playwright
+from bs4 import BeautifulSoup
+import json
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'
+async def extraer_peliculas():
+    url_base = "https://cliver.mom/lastnews"
+    peliculas = []
+    total_paginas = 3  # Puedes subirlo si quieres más cantidad de películas
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repositorio
-        uses: actions/checkout@v4
+    print("Iniciando extracción avanzada para catálogo propio...")
 
-      - name: Configurar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
 
-      - name: Instalar dependencias
-        run: |
-          pip install playwright beautifulsoup4
-          playwright install --with-deps
+        try:
+            for num_pag in range(1, total_paginas + 1):
+                url_pag = f"https://cliver.mom/lastnews/page/{num_pag}/" if num_pag > 1 else url_base
+                print(f"Scrapeando página {num_pag}...")
+                
+                await page.goto(url_pag, wait_until="domcontentloaded", timeout=30000)
+                await page.wait_for_timeout(2000)
 
-      - name: Ejecutar script de scraping
-        run: python scraper_peliculas.py
+                content = await page.content()
+                soup = BeautifulSoup(content, "html.parser")
+                items = soup.select("article, .item, .post, div[class*='item']")
 
-      - name: Guardar y subir cambios
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add peliculas.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualizar catálogo de películas automáticamente" && git push)
+                for item in items:
+                    link_tag = item.find("a")
+                    img_tag = item.find("img")
+                    title_tag = item.find("h2") or item.find(".title") or item.find("span")
+
+                    if link_tag:
+                        link = link_tag.get("href", "")
+                        if link.startswith("/"):
+                            link = "https://cliver.mom" + link
+
+                        title = ""
+                        if title_tag:
+                            title = title_tag.text.strip()
+                        elif img_tag and img_tag.get("alt"):
+                            title = img_tag.get("alt").strip()
+
+                        poster = ""
+                        if img_tag:
+                            poster = (
+                                img_tag.get("data-src") or 
+                                img_tag.get("src") or 
+                                img_tag.get("data-lazy-src") or ""
+                            )
+
+                        if poster.startswith("//"):
+                            poster = "https:" + poster
+                        elif poster.startswith("/"):
+                            poster = "https://cliver.mom" + poster
+
+                        if link and title and len(title) > 2:
+                            if not any(p['url'] == link for p in peliculas):
+                                peliculas.append({
+                                    "titulo": title,
+                                    "poster": poster,
+                                    "url": link
+                                })
+
+        except Exception as e:
+            print(f"Error durante el scraping: {e}")
+
+        await browser.close()
+
+    # Guardar catálogo completo
+    with open("peliculas.json", "w", encoding="utf-8") as f:
+        json.dump(peliculas, f, ensure_ascii=False, indent=2)
+
+    print(f"Catálogo generado con éxito. Total: {len(peliculas)} películas.")
+
+if __name__ == "__main__":
+    asyncio.run(extraer_peliculas())
