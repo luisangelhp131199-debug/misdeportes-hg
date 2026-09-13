@@ -5,7 +5,6 @@ from urllib.parse import parse_qs, urlparse
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 
-
 def decodificar_url(url_embed):
     parsed = urlparse(url_embed)
     params = parse_qs(parsed.query)
@@ -20,28 +19,44 @@ def decodificar_url(url_embed):
             return url_embed
     return url_embed
 
-
 def limpiar_texto(texto):
     texto = re.sub(r"[▶▼▲◄►]", "", texto)
     return " ".join(texto.split()).strip()
 
+async def obtener_m3u8(page, url_embed):
+    m3u8_found = None
+    
+    def handle_request(request):
+        nonlocal m3u8_found
+        url = request.url
+        if ".m3u8" in url and "playlist" in url or "index" in url or "mono" in url:
+            if not m3u8_found:
+                m3u8_found = url
+
+    page.on("request", handle_request)
+    try:
+        await page.goto(url_embed, wait_until="domcontentloaded", timeout=10000)
+        await page.wait_for_timeout(3000)
+    except Exception:
+        pass
+    
+    return m3u8_found
 
 async def obtener_agenda():
     url = "https://futbollibretvhd.org/agenda"
-    print("Iniciando extracción...")
+    print("Iniciando extracción de agenda...")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page(
+        context = await browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
+        page = await context.new_page()
 
         await page.goto(url, wait_until="networkidle")
-        await page.wait_for_timeout(4000)
+        await page.wait_for_timeout(3000)
 
         html = await page.content()
-        await browser.close()
-
         soup = BeautifulSoup(html, "html.parser")
         agenda_data = []
 
@@ -57,24 +72,15 @@ async def obtener_agenda():
                 href = a["href"]
                 texto_limpio = limpiar_texto(a.text)
 
-                if len(texto_limpio) > 1 and not any(
-                    x in href.lower()
-                    for x in ["telegram", "facebook", "twitter", "javascript"]
-                ):
-                    link_completo = (
-                        f"https://futbollibretvhd.org{href}"
-                        if href.startswith("/")
-                        else href
-                    )
+                if len(texto_limpio) > 1 and not any(x in href.lower() for x in ["telegram", "facebook", "twitter", "javascript"]):
+                    link_completo = f"https://futbollibretvhd.org{href}" if href.startswith("/") else href
                     link_real = decodificar_url(link_completo)
 
-                    canales.append(
-                        {
-                            "canal": texto_limpio,
-                            "url_embed": link_completo,
-                            "url_real": link_real,
-                        }
-                    )
+                    canales.append({
+                        "canal": texto_limpio,
+                        "url_embed": link_completo,
+                        "url_real": link_real
+                    })
 
             if canales:
                 item_copy = BeautifulSoup(str(item), "html.parser")
@@ -84,19 +90,18 @@ async def obtener_agenda():
                 nombre_evento = limpiar_texto(item_copy.get_text())
 
                 if nombre_evento:
-                    agenda_data.append(
-                        {"evento": nombre_evento, "opciones": canales}
-                    )
+                    agenda_data.append({
+                        "evento": nombre_evento,
+                        "opciones": canales
+                    })
+
+        await browser.close()
 
         with open("agenda.json", "w", encoding="utf-8") as f:
             json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-        print(
-            f"✅ Se guardaron {len(agenda_data)} eventos en 'agenda.json'."
-        )
-
+        print(f"✅ Se guardaron {len(agenda_data)} eventos en 'agenda.json'.")
 
 if __name__ == "__main__":
     import asyncio
-
     asyncio.run(obtener_agenda())
