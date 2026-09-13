@@ -65,26 +65,28 @@
   <div class="container">
     <h1>📺 Transmisiones en Vivo</h1>
 
-    <div class="player-container">
-      <iframe 
-        id="reproductor" 
-        src="about:blank" 
-        allowfullscreen 
-        scrolling="no" 
-        allow="encrypted-media; autoplay"
-        referrerpolicy="no-referrer"
-        sandbox="allow-scripts allow-same-origin allow-forms">
-      </iframe>
+    <div class="player-container" id="box-player">
+      <p style="color:#aaa; text-align:center; position:absolute; top:45%; width:100%;">Selecciona un canal para reproducir</p>
     </div>
 
     <div id="contenedor-agenda">Cargando la agenda...</div>
   </div>
 
   <script>
-    const reproductor = document.getElementById('reproductor');
-
     function reproducirCanal(url) {
-      reproductor.src = url;
+      const box = document.getElementById('box-player');
+      
+      // Recreamos el iframe limpio cada vez que seleccionas un canal
+      box.innerHTML = `
+        <iframe 
+          src="${url}" 
+          allowfullscreen 
+          scrolling="no" 
+          allow="encrypted-media; autoplay; picture-in-picture"
+          referrerpolicy="no-referrer">
+        </iframe>
+      `;
+      
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
