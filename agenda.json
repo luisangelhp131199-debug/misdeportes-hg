@@ -1,1 +1,272 @@
-[]
+[
+    {
+        "evento": "16:30 Serie A: Torino vs Roma",
+        "opciones": [
+            {
+                "canal": "ESPN 2 | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+                "url_real": "https://tvf90.com/hd.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/1.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/2.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/3.php?stream=espn2"
+            }
+        ]
+    },
+    {
+        "evento": "18:45 Serie A: Internazionale vs Udinese",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
+                "url_real": "https://tvf90.com/canal.php?stream=espn"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
+                "url_real": "https://tvf90.com/2.php?stream=espn"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
+                "url_real": "https://tvf90.com/3.php?stream=espn"
+            }
+        ]
+    },
+    {
+        "evento": "19:00 LaLiga: Villarreal vs Real Betis",
+        "opciones": [
+            {
+                "canal": "ESPN 3 | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
+                "url_real": "https://tvf90.com/hd.php?stream=espn3"
+            },
+            {
+                "canal": "ESPN 3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
+                "url_real": "https://tvf90.com/1.php?stream=espn3"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
+                "url_real": "https://tvf90.com/2.php?stream=espn3"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
+                "url_real": "https://tvf90.com/3.php?stream=espn3"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
+                "url_real": "https://tvf90.com/canal.php?stream=espndeportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+                "url_real": "https://tvf90.com/2.php?stream=espndeportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+                "url_real": "https://tvf90.com/3.php?stream=espndeportes"
+            }
+        ]
+    },
+    {
+        "evento": "19:00 Premier League: Leeds United vs Newcastle United",
+        "opciones": [
+            {
+                "canal": "ESPN 2 | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+                "url_real": "https://tvf90.com/hd.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/1.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/2.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/3.php?stream=espn2"
+            }
+        ]
+    },
+    {
+        "evento": "22:00 Liga Profesional: Banfield vs Barracas Central",
+        "opciones": [
+            {
+                "canal": "TNT Sports | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://futbollibre.ch/hd.php?stream=tntsports"
+            },
+            {
+                "canal": "TNT Sports",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://tvf90.com/3.php?stream=tntsports"
+            },
+            {
+                "canal": "TNT Sports | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://tvf90.com/1.php?stream=tntsports"
+            },
+            {
+                "canal": "TNT Sports | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://tvf90.com/2.php?stream=tntsports"
+            }
+        ]
+    },
+    {
+        "evento": "22:00 Liga Profesional: Deportivo Riestra vs Lanús",
+        "opciones": [
+            {
+                "canal": "ESPN Premium┃HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
+                "url_real": "https://tvf90.com/hd.php?stream=espnpremium"
+            },
+            {
+                "canal": "ESPN Premium",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+                "url_real": "https://tvf90.com/1.php?stream=espnpremium"
+            },
+            {
+                "canal": "ESPN Premium┃OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+                "url_real": "https://tvf90.com/2.php?stream=espnpremium"
+            },
+            {
+                "canal": "ESPN Premium┃OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+                "url_real": "https://tvf90.com/3.php?stream=espnpremium"
+            }
+        ]
+    },
+    {
+        "evento": "23:30 Primera División: Unión La Calera vs Deportes Limache",
+        "opciones": [
+            {
+                "canal": "TNT Sports Premiun CL HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
+                "url_real": "https://tvf90.com/hd.php?stream=tntsportschile"
+            },
+            {
+                "canal": "TNT Sports Premiun CL",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
+            },
+            {
+                "canal": "TNT Sports Premiun CL OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "url_real": "https://tvf90.com/2.php?stream=tntsportschile"
+            }
+        ]
+    },
+    {
+        "evento": "00:00 Serie A: Universidad Católica vs Orense",
+        "opciones": [
+            {
+                "canal": "ECDF LigaPRO | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
+                "url_real": "https://tvf90.com/hd.php?stream=ecdf_ligapro"
+            },
+            {
+                "canal": "ECDF LigaPro",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+                "url_real": "https://tvf90.com/1.php?stream=ecdf_ligapro"
+            },
+            {
+                "canal": "ECDF LigaPro | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+                "url_real": "https://tvf90.com/2.php?stream=ecdf_ligapro"
+            },
+            {
+                "canal": "ECDF LigaPro | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+                "url_real": "https://tvf90.com/3.php?stream=ecdf_ligapro"
+            },
+            {
+                "canal": "ECUAVISA",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY=",
+                "url_real": "https://tvf90.com/1.php?stream=ecdf"
+            },
+            {
+                "canal": "ECUAVISA | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY=",
+                "url_real": "https://tvf90.com/2.php?stream=ecdf"
+            },
+            {
+                "canal": "ECUAVISA | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY=",
+                "url_real": "https://tvf90.com/3.php?stream=ecdf"
+            }
+        ]
+    },
+    {
+        "evento": "00:15 Liga Profesional: Instituto vs Estudiantes Río Cuarto",
+        "opciones": [
+            {
+                "canal": "TNT Sports | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://futbollibre.ch/hd.php?stream=tntsports"
+            },
+            {
+                "canal": "TNT Sports",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://tvf90.com/3.php?stream=tntsports"
+            },
+            {
+                "canal": "TNT Sports | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://tvf90.com/1.php?stream=tntsports"
+            },
+            {
+                "canal": "TNT Sports | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "url_real": "https://tvf90.com/2.php?stream=tntsports"
+            }
+        ]
+    },
+    {
+        "evento": "01:00 Primera A: América de Cali vs Deportivo Pasto",
+        "opciones": [
+            {
+                "canal": "Win Sports + | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+                "url_real": "https://tvf90.com/hd.php?stream=winsports2"
+            },
+            {
+                "canal": "Win Sports +",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "url_real": "https://tvf90.com/1.php?stream=winsports2"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "url_real": "https://tvf90.com/2.php?stream=winsports2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "url_real": "https://tvf90.com/3.php?stream=winsports2"
+            }
+        ]
+    }
+]
