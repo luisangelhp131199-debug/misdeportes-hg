@@ -1,105 +1,5 @@
 [
     {
-        "evento": "20:30 Serie A: Macará vs Emelec",
-        "opciones": [
-            {
-                "canal": "ECDF LigaPRO | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
-                "url_real": "https://tvf90.com/hd.php?stream=ecdf_ligapro"
-            },
-            {
-                "canal": "ECDF LigaPro",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
-                "url_real": "https://tvf90.com/1.php?stream=ecdf_ligapro"
-            },
-            {
-                "canal": "ECDF LigaPro | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
-                "url_real": "https://tvf90.com/2.php?stream=ecdf_ligapro"
-            },
-            {
-                "canal": "ECDF LigaPro | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
-                "url_real": "https://tvf90.com/3.php?stream=ecdf_ligapro"
-            },
-            {
-                "canal": "ECUAVISA",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY=",
-                "url_real": "https://tvf90.com/1.php?stream=ecdf"
-            },
-            {
-                "canal": "ECUAVISA | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY=",
-                "url_real": "https://tvf90.com/2.php?stream=ecdf"
-            },
-            {
-                "canal": "ECUAVISA | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY=",
-                "url_real": "https://tvf90.com/3.php?stream=ecdf"
-            }
-        ]
-    },
-    {
-        "evento": "20:30 Brasileirão: Flamengo vs Corinthians",
-        "opciones": [
-            {
-                "canal": "Premiere BR",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-                "url_real": "https://tvf90.com/1.php?stream=premiere1"
-            },
-            {
-                "canal": "Premiere BR | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-                "url_real": "https://tvf90.com/2.php?stream=premiere1"
-            }
-        ]
-    },
-    {
-        "evento": "20:30 Primera División: Colo-Colo vs Deportes Concepción",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "url_real": "https://tvf90.com/hd.php?stream=tntsportschile"
-            },
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "url_real": "https://tvf90.com/2.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "evento": "20:55 Kings League",
-        "opciones": [
-            {
-                "canal": "ESPN 3 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
-                "url_real": "https://tvf90.com/hd.php?stream=espn3"
-            },
-            {
-                "canal": "ESPN 3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
-                "url_real": "https://tvf90.com/1.php?stream=espn3"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
-                "url_real": "https://tvf90.com/2.php?stream=espn3"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
-                "url_real": "https://tvf90.com/3.php?stream=espn3"
-            }
-        ]
-    },
-    {
         "evento": "21:05 Primera A: Atlético Nacional vs Rionegro Águilas",
         "opciones": [
             {
@@ -256,6 +156,21 @@
                 "canal": "ESPN 4 MX",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg=",
                 "url_real": "https://tvf90.com/1.php?stream=espn4mx"
+            }
+        ]
+    },
+    {
+        "evento": "23:00 MLS: Vancouver Whitecaps vs Austin FC",
+        "opciones": [
+            {
+                "canal": "MLS ES04HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW40",
+                "url_real": "https://tvf90.com/plus.php?stream=even4"
+            },
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+                "url_real": "https://tvf90.com/1.php?stream=disney1"
             }
         ]
     },
