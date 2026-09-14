@@ -1,45 +1,5 @@
 [
     {
-        "evento": "17:00 Super Lig: Gaziantep FK vs Fenerbahçe",
-        "opciones": [
-            {
-                "canal": "ESPN 2 MX",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg=",
-                "url_real": "https://tvf90.com/1.php?stream=espn2mx"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
-                "url_real": "https://tvf90.com/1.php?stream=disney5"
-            },
-            {
-                "canal": "ESPN 5 | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
-                "url_real": "https://tvf90.com/hd.php?stream=espn5"
-            },
-            {
-                "canal": "ESPN 5",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
-                "url_real": "https://tvf90.com/1.php?stream=espn5"
-            },
-            {
-                "canal": "ESPN 5 | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
-                "url_real": "https://tvf90.com/2.php?stream=espn5"
-            },
-            {
-                "canal": "ESPN 5 | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
-                "url_real": "https://tvf90.com/3.php?stream=espn5"
-            },
-            {
-                "canal": "BeIN Sports Ñ",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
-                "url_real": "https://tvf90.com/1.php?stream=beinsportes"
-            }
-        ]
-    },
-    {
         "evento": "18:00 Eerste Divisie: PSV II vs AZ II",
         "opciones": [
             {
