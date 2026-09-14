@@ -1,5 +1,15 @@
 [
     {
+        "evento": "16:00 AFC Champions League Elite: Al Shamal vs Al Ittihad",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+                "url_real": "https://tvf90.com/1.php?stream=disney1"
+            }
+        ]
+    },
+    {
         "evento": "16:30 Serie A: Torino vs Roma",
         "opciones": [
             {
@@ -21,6 +31,31 @@
                 "canal": "ESPN 2 | OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
                 "url_real": "https://tvf90.com/3.php?stream=espn2"
+            },
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM=",
+                "url_real": "https://tvf90.com/1.php?stream=disney3"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
+                "url_real": "https://tvf90.com/hd.php?stream=universo"
+            },
+            {
+                "canal": "Universo",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
+                "url_real": "https://tvf90.com/1.php?stream=universo"
+            }
+        ]
+    },
+    {
+        "evento": "16:30 Serie A: Como vs Parma",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI=",
+                "url_real": "https://tvf90.com/1.php?stream=disney2"
             }
         ]
     },
@@ -36,6 +71,31 @@
                 "canal": "BeIN Sports Ñ",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
                 "url_real": "https://tvf90.com/1.php?stream=beinsportes"
+            },
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU=",
+                "url_real": "https://tvf90.com/1.php?stream=disney5"
+            },
+            {
+                "canal": "ESPN 5 | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ==",
+                "url_real": "https://tvf90.com/hd.php?stream=espn5"
+            },
+            {
+                "canal": "ESPN 5",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41",
+                "url_real": "https://tvf90.com/1.php?stream=espn5"
+            },
+            {
+                "canal": "ESPN 5 | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41",
+                "url_real": "https://tvf90.com/2.php?stream=espn5"
+            },
+            {
+                "canal": "ESPN 5 | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41",
+                "url_real": "https://tvf90.com/3.php?stream=espn5"
             }
         ]
     },
