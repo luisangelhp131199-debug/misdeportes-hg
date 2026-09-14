@@ -1,45 +1,5 @@
 [
     {
-        "evento": "18:00 Eerste Divisie: PSV II vs AZ II",
-        "opciones": [
-            {
-                "canal": "ESPN 2 NL",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
-                "url_real": "https://tvf90.com/1.php?stream=espn2_nl"
-            }
-        ]
-    },
-    {
-        "evento": "18:00 Eerste Divisie: Utrecht II vs Ajax II",
-        "opciones": [
-            {
-                "canal": "ESPN NL",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
-                "url_real": "https://tvf90.com/1.php?stream=espn1_nl"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
-                "url_real": "https://tvf90.com/2.php?stream=espn1_nl"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
-                "url_real": "https://tvf90.com/3.php?stream=espn1_nl"
-            }
-        ]
-    },
-    {
-        "evento": "18:15 AFC Champions League Elite: Al-Ahli vs Pakhtakor",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
-                "url_real": "https://tvf90.com/1.php?stream=disney4"
-            }
-        ]
-    },
-    {
         "evento": "18:30 LaLiga SmartBank: Celta de Vigo II vs Eibar",
         "opciones": [
             {
