@@ -1,70 +1,5 @@
 [
     {
-        "evento": "21:05 Primera A: Atlético Nacional vs Rionegro Águilas",
-        "opciones": [
-            {
-                "canal": "Win Sports + | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
-                "url_real": "https://tvf90.com/hd.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports +",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "url_real": "https://tvf90.com/1.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "url_real": "https://tvf90.com/2.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "url_real": "https://tvf90.com/3.php?stream=winsports2"
-            },
-            {
-                "canal": "Win Sports | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM=",
-                "url_real": "https://tvf90.com/hd.php?stream=winsports"
-            },
-            {
-                "canal": "Win Sports",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "url_real": "https://tvf90.com/3.php?stream=winsports"
-            },
-            {
-                "canal": "Win Sports | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "url_real": "https://tvf90.com/1.php?stream=winsports"
-            },
-            {
-                "canal": "Win Sports ┃OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "url_real": "https://tvf90.com/2.php?stream=winsports"
-            }
-        ]
-    },
-    {
-        "evento": "21:15 Primera División: Universitario de Vinto vs Independiente Petrolero",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
-                "url_real": "https://tvf90.com/plus1.php?stream=even1"
-            }
-        ]
-    },
-    {
-        "evento": "21:30 Primera División: Rubio Ñú vs Nacional Asunción",
-        "opciones": [
-            {
-                "canal": "Fanatiz 10",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoxMA==",
-                "url_real": "https://tvf90.com/1.php?stream=fanatiz10"
-            }
-        ]
-    },
-    {
         "evento": "22:00 Costa Rica: Sporting FC vs Saprissa",
         "opciones": [
             {
@@ -166,11 +101,6 @@
                 "canal": "MLS ES04HD",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA/c3RyZWFtPWV2ZW40",
                 "url_real": "https://tvf90.com/plus.php?stream=even4"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
-                "url_real": "https://tvf90.com/1.php?stream=disney1"
             }
         ]
     },
@@ -291,6 +221,16 @@
                 "canal": "Entel TV PLUS+",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
                 "url_real": "https://tvf90.com/plus1.php?stream=even1"
+            }
+        ]
+    },
+    {
+        "evento": "00:00 NCAA Women’s Soccer: Kansas City vs Memphis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
+                "url_real": "https://tvf90.com/1.php?stream=disney1"
             }
         ]
     },
