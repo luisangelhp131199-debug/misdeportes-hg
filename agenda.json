@@ -1,15 +1,5 @@
 [
     {
-        "evento": "22:30 Primera División: Peñarol vs Albion",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ=",
-                "url_real": "https://tvf90.com/1.php?stream=disney4"
-            }
-        ]
-    },
-    {
         "evento": "23:00 Serie A: Barcelona vs Delfin",
         "opciones": [
             {
