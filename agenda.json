@@ -1,15 +1,5 @@
 [
     {
-        "evento": "23:30 Primera División: Real Tomayapo vs Bolívar",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ==",
-                "url_real": "https://tvf90.com/plus1.php?stream=even1"
-            }
-        ]
-    },
-    {
         "evento": "00:00 NCAA Women’s Soccer: Kansas City vs Memphis",
         "opciones": [
             {
