@@ -120,6 +120,16 @@
         ]
     },
     {
+        "evento": "23:30 Guadalajara Open Akron presented by Santander 2026.",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
+                "url_real": "https://tvf90.com/1.php?stream=disney12"
+            }
+        ]
+    },
+    {
         "evento": "23:30 Primera División: Unión La Calera vs Deportes Limache",
         "opciones": [
             {
@@ -166,6 +176,11 @@
                 "canal": "ESPN 3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
                 "url_real": "https://tvf90.com/1.php?stream=espn3"
+            },
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz",
+                "url_real": "https://tvf90.com/1.php?stream=disney13"
             },
             {
                 "canal": "ESPN 3 | OP2",
