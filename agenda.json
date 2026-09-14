@@ -1,55 +1,5 @@
 [
     {
-        "evento": "18:30 LaLiga SmartBank: Celta de Vigo II vs Eibar",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
-                "url_real": "https://tvf90.com/1.php?stream=hypermotion1"
-            }
-        ]
-    },
-    {
-        "evento": "18:45 Serie A: Internazionale vs Udinese",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu",
-                "url_real": "https://tvf90.com/canal.php?stream=espn"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4=",
-                "url_real": "https://tvf90.com/2.php?stream=espn"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4=",
-                "url_real": "https://tvf90.com/3.php?stream=espn"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY=",
-                "url_real": "https://tvf90.com/1.php?stream=disney6"
-            },
-            {
-                "canal": "ESPN 3 MX",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg=",
-                "url_real": "https://tvf90.com/1.php?stream=espn3mx"
-            },
-            {
-                "canal": "Universo | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw==",
-                "url_real": "https://tvf90.com/hd.php?stream=universo"
-            },
-            {
-                "canal": "Universo",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv",
-                "url_real": "https://tvf90.com/1.php?stream=universo"
-            }
-        ]
-    },
-    {
         "evento": "19:00 LaLiga: Villarreal vs Real Betis",
         "opciones": [
             {
