@@ -1,15 +1,5 @@
 [
     {
-        "evento": "16:00 AFC Champions League Elite: Al Shamal vs Al Ittihad",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE=",
-                "url_real": "https://tvf90.com/1.php?stream=disney1"
-            }
-        ]
-    },
-    {
         "evento": "16:30 Serie A: Torino vs Roma",
         "opciones": [
             {
