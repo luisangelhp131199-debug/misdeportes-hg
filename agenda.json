@@ -310,6 +310,16 @@
         ]
     },
     {
+        "evento": "22:00 Primera División: Torque vs Liverpool",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
+                "url_real": "https://tvf90.com/1.php?stream=disney9"
+            }
+        ]
+    },
+    {
         "evento": "22:00 Liga Profesional: Deportivo Riestra vs Lanús",
         "opciones": [
             {
@@ -331,6 +341,26 @@
                 "canal": "ESPN Premium┃OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
                 "url_real": "https://tvf90.com/3.php?stream=espnpremium"
+            },
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
+                "url_real": "https://tvf90.com/1.php?stream=disney11"
+            }
+        ]
+    },
+    {
+        "evento": "23:00 Brasileirão: Bahia vs Remo",
+        "opciones": [
+            {
+                "canal": "Premiere BR | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+                "url_real": "https://tvf90.com/2.php?stream=premiere1"
+            },
+            {
+                "canal": "Premiere BR",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+                "url_real": "https://tvf90.com/1.php?stream=premiere1"
             }
         ]
     },
@@ -416,6 +446,46 @@
                 "canal": "ESPN 2 | OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
                 "url_real": "https://tvf90.com/3.php?stream=espn2"
+            },
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw",
+                "url_real": "https://tvf90.com/1.php?stream=disney10"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
+                "url_real": "https://tvf90.com/canal.php?stream=espndeportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+                "url_real": "https://tvf90.com/2.php?stream=espndeportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+                "url_real": "https://tvf90.com/3.php?stream=espndeportes"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
+                "url_real": "https://tvf90.com/canal.php?stream=espnmx"
+            },
+            {
+                "canal": "ESPN MX",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA==",
+                "url_real": "https://tvf90.com/1.php?stream=espnmx"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA==",
+                "url_real": "https://tvf90.com/2.php?stream=espnmx"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA==",
+                "url_real": "https://tvf90.com/3.php?stream=espnmx"
             }
         ]
     },
