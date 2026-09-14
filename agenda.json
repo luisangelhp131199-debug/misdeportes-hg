@@ -25,6 +25,61 @@
         ]
     },
     {
+        "evento": "17:00 Super Lig: Gaziantep FK vs Fenerbahçe",
+        "opciones": [
+            {
+                "canal": "ESPN 2 MX",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg=",
+                "url_real": "https://tvf90.com/1.php?stream=espn2mx"
+            },
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
+                "url_real": "https://tvf90.com/1.php?stream=beinsportes"
+            }
+        ]
+    },
+    {
+        "evento": "18:00 Eerste Divisie: PSV II vs AZ II",
+        "opciones": [
+            {
+                "canal": "ESPN 2 NL",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s",
+                "url_real": "https://tvf90.com/1.php?stream=espn2_nl"
+            }
+        ]
+    },
+    {
+        "evento": "18:00 Eerste Divisie: Utrecht II vs Ajax II",
+        "opciones": [
+            {
+                "canal": "ESPN NL",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s",
+                "url_real": "https://tvf90.com/1.php?stream=espn1_nl"
+            },
+            {
+                "canal": "ESPN NL | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s",
+                "url_real": "https://tvf90.com/2.php?stream=espn1_nl"
+            },
+            {
+                "canal": "ESPN NL | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s",
+                "url_real": "https://tvf90.com/3.php?stream=espn1_nl"
+            }
+        ]
+    },
+    {
+        "evento": "18:30 LaLiga SmartBank: Celta de Vigo II vs Eibar",
+        "opciones": [
+            {
+                "canal": "LaLiga TV Hypermotion",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
+                "url_real": "https://tvf90.com/1.php?stream=hypermotion1"
+            }
+        ]
+    },
+    {
         "evento": "18:45 Serie A: Internazionale vs Udinese",
         "opciones": [
             {
@@ -110,6 +165,26 @@
         ]
     },
     {
+        "evento": "21:00 Primera B: Deportes Santa Cruz vs Recoleta",
+        "opciones": [
+            {
+                "canal": "TNT Sports Premiun CL HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
+                "url_real": "https://tvf90.com/hd.php?stream=tntsportschile"
+            },
+            {
+                "canal": "TNT Sports Premiun CL",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
+            },
+            {
+                "canal": "TNT Sports Premiun CL OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "url_real": "https://tvf90.com/2.php?stream=tntsportschile"
+            }
+        ]
+    },
+    {
         "evento": "22:00 Liga Profesional: Banfield vs Barracas Central",
         "opciones": [
             {
@@ -176,6 +251,71 @@
                 "canal": "TNT Sports Premiun CL OP2",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
                 "url_real": "https://tvf90.com/2.php?stream=tntsportschile"
+            }
+        ]
+    },
+    {
+        "evento": "23:30 Primera B: Rangers vs Deportes Iquique",
+        "opciones": [
+            {
+                "canal": "TNT Sports Chile",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
+            },
+            {
+                "canal": "MAX",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1heDE=",
+                "url_real": "https://tvf90.com/1.php?stream=max1"
+            }
+        ]
+    },
+    {
+        "evento": "23:30 MLB – Chicago Cubs vs. Atlanta Braves",
+        "opciones": [
+            {
+                "canal": "ESPN 3 | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw==",
+                "url_real": "https://tvf90.com/hd.php?stream=espn3"
+            },
+            {
+                "canal": "ESPN 3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z",
+                "url_real": "https://tvf90.com/1.php?stream=espn3"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z",
+                "url_real": "https://tvf90.com/2.php?stream=espn3"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z",
+                "url_real": "https://tvf90.com/3.php?stream=espn3"
+            }
+        ]
+    },
+    {
+        "evento": "00:00 NFL – Kansas City Chiefs vs. Denver Broncos",
+        "opciones": [
+            {
+                "canal": "ESPN 2 | HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
+                "url_real": "https://tvf90.com/hd.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/1.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/2.php?stream=espn2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y",
+                "url_real": "https://tvf90.com/3.php?stream=espn2"
             }
         ]
     },
@@ -266,6 +406,16 @@
                 "canal": "Win Sports + | OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
                 "url_real": "https://tvf90.com/3.php?stream=winsports2"
+            }
+        ]
+    },
+    {
+        "evento": "01:00 Liga MX: León vs Atlético San Luis",
+        "opciones": [
+            {
+                "canal": "FOX ONE",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
+                "url_real": "https://tvf90.com/3.php?stream=even8"
             }
         ]
     }
