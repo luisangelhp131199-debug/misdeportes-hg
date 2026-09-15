@@ -1,50 +1,5 @@
 [
     {
-        "evento": "17:00LaLiga: Rayo Vallecano vs EspanyolEspaña",
-        "opciones": [
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP3"
-            },
-            {
-                "canal": "Espn+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=Espn%2B"
-            },
-            {
-                "canal": "Canal 5 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=Canal%205%20MX"
-            }
-        ]
-    },
-    {
         "evento": "18:00LaLiga: Deportivo Alavés vs ValenciaEspaña",
         "opciones": [
             {
