@@ -1,50 +1,5 @@
 [
     {
-        "evento": "19:30LaLiga: Elche vs Real MadridEspaña",
-        "opciones": [
-            {
-                "canal": "DSports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20%7C%20HD"
-            },
-            {
-                "canal": "DirecTV Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DirecTV%20Sports"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "DSports Eventos",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20Eventos"
-            },
-            {
-                "canal": "DSports Colombia",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20Colombia"
-            },
-            {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20%7C%20OP3"
-            },
-            {
-                "canal": "Espn+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=Espn%2B"
-            }
-        ]
-    },
-    {
         "evento": "21:00Guadalajara, dura - Cuartos de final: Kozyreva M. / Lumsden M. vs Guarachi A. / Ninomiya M.Tennis",
         "opciones": [
             {
@@ -110,20 +65,16 @@
         "evento": "22:00Copa Sudamericana: Vasco da Gama vs Santa FeCONMEBOL Sudamericana",
         "opciones": [
             {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%20AR%E2%94%83OP3"
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%202%20%7C%20HD"
             },
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%202"
             }
         ]
     },
@@ -131,20 +82,12 @@
         "evento": "22:00Copa Libertadores: Platense vs FluminenseCopa Libertadores",
         "opciones": [
             {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20HD"
+                "canal": "ESPN HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA%2Fc3RyZWFtPWV2ZW40&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%20HD"
             },
             {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20OP3"
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN"
             },
             {
                 "canal": "Telefe",
@@ -177,15 +120,6 @@
         ]
     },
     {
-        "evento": "22:30MLB: Cleveland Guardians vs Chicago White SoxMLB Preseason",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI4&title=MLB%3A%20Cleveland%20Guardians%20vs%20Chicago%20White%20Sox&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "22:30Serie B: Náutico vs Operário PRBrasil",
         "opciones": [
             {
@@ -199,11 +133,47 @@
         ]
     },
     {
+        "evento": "22:40MLB: Cleveland Guardians vs Chicago White SoxMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=MLB%3A%20Cleveland%20Guardians%20vs%20Chicago%20White%20Sox&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00Campeonato de Clubes del Caribe: Violette AC vs Club SandoCopa del Caribe",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTMw&title=Campeonato%20de%20Clubes%20del%20Caribe%3A%20Violette%20AC%20vs%20Club%20Sando&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NCAA Men's Soccer: Colgate vs SyracuseEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIy&title=NCAA%20Men's%20Soccer%3A%20Colgate%20vs%20Syracuse&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "23:00Campeonato de Clubes del Caribe: Delfines Del Este vs Defence ForceCopa del Caribe",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI5&title=Campeonato%20de%20Clubes%20del%20Caribe%3A%20Delfines%20Del%20Este%20vs%20Defence%20Force&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=Campeonato%20de%20Clubes%20del%20Caribe%3A%20Delfines%20Del%20Este%20vs%20Defence%20Force&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NCAA Men's Soccer: Bucknell vs George MasonEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=NCAA%20Men's%20Soccer%3A%20Bucknell%20vs%20George%20Mason&ch=Disney%2B"
             }
         ]
     },
@@ -257,6 +227,10 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DirecTV%20Sports"
             },
             {
+                "canal": "DSports Eventos",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20Eventos"
+            },
+            {
                 "canal": "DSports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports"
             },
@@ -267,10 +241,6 @@
             {
                 "canal": "DSports Colombia",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20Colombia"
-            },
-            {
-                "canal": "DSports Eventos",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20Eventos"
             }
         ]
     },
