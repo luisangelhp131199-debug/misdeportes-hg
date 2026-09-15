@@ -9,27 +9,21 @@ def limpiar_texto(texto):
     return " ".join(texto.split()).strip()
 
 async def obtener_agenda():
-    url = "https://rusticotv.la/"
-    print("Iniciando extracción robusta de agenda desde Rustico TV...")
+    url = "https://rusticotv.quest/"
+    print(f"Iniciando extracción desde {url}...")
 
     async with async_playwright() as p:
-        # Usamos un navegador visible o headless con argumentos para evitar bloqueos básicos
-        browser = await p.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled", "--no-sandbox"]
-        )
+        browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 800}
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         page = await context.new_page()
 
         try:
-            await page.goto(url, wait_until="domcontentloaded", timeout=45000)
-            # Esperamos a que los elementos dinámicos o la tabla/grilla de partidos aparezcan
-            await page.wait_for_timeout(5000)
+            await page.goto(url, wait_until="networkidle", timeout=40000)
+            await page.wait_for_timeout(3000)
         except Exception as e:
-            print(f"❌ Error al cargar la página: {e}")
+            print(f"Error al cargar la página: {e}")
             await browser.close()
             return
 
@@ -37,15 +31,19 @@ async def obtener_agenda():
         soup = BeautifulSoup(html, "html.parser")
         agenda_data = []
 
-        # ESTRATEGIA NUEVA: 
-        # En lugar de buscar clases estrictas, buscamos cualquier elemento contenedor 
-        # que tenga enlaces internos (que suelen ser los canales o el partido)
-        # Probamos primero con filas de tablas, divs de eventos o artículos.
-        candidatos = soup.find_all(["tr", "div", "article", "li"])
-        print(f"🔍 Analizando {len(candidatos)} elementos en el DOM...")
+        # Buscamos el contenedor principal de la agenda que identificamos en el código fuente (fa-agenda-wrap)
+        contenedor_agenda = soup.find(id="fa-agenda-wrap") or soup.find(class_=re.compile("agenda", re.I))
+        
+        if not contenedor_agenda:
+            print("⚠️ No se encontró el contenedor 'fa-agenda-wrap', usando búsqueda general de partidos...")
+            contenedores = soup.find_all(["div", "tr", "li"], class_=re.compile("match|evento|partido|row", re.I))
+        else:
+            # Buscamos los elementos internos del contenedor de la agenda
+            contenedores = contenedor_agenda.find_all(["div", "tr", "li"])
 
-        for cont in candidatos:
-            # Buscamos enlaces dentro del contenedor que parezcan canales o transmisiones
+        print(f"🔍 Se encontraron {len(contenedores)} bloques candidatos. Procesando...")
+
+        for cont in contenedores:
             enlaces = cont.find_all("a", href=True)
             if not enlaces:
                 continue
@@ -55,12 +53,10 @@ async def obtener_agenda():
                 href = a["href"]
                 texto_canal = limpiar_texto(a.text)
 
-                # Descartamos redes sociales, menús o enlaces vacíos
-                excluir = ["telegram", "whatsapp", "facebook", "twitter", "instagram", "javascript", "#", "inicio", "contacto", "dmca", "aviso"]
-                if len(texto_canal) > 1 and not any(x in href.lower() or x in texto_canal.lower() for x in excluir):
-                    
+                # Filtramos para asegurarnos de que sean enlaces de canales/reproductores
+                if len(texto_canal) > 1 and not any(x in href.lower() for x in ["telegram", "whatsapp", "facebook", "twitter", "javascript", "#", "instagram"]):
                     if href.startswith("/"):
-                        link_completo = f"https://rusticotv.la{href}"
+                        link_completo = f"https://rusticotv.quest{href}"
                     elif href.startswith("http"):
                         link_completo = href
                     else:
@@ -71,17 +67,16 @@ async def obtener_agenda():
                         "url_embed": link_completo
                     })
 
-            # Si encontramos canales válidos en este bloque, procedemos a sacar el nombre del evento
-            if len(canales) > 0:
+            if canales:
+                # Copiamos el bloque para extraer el texto del partido sin los botones de los canales
                 cont_copy = BeautifulSoup(str(cont), "html.parser")
                 for a_tag in cont_copy.find_all("a"):
-                    a_tag.decompose() # Quitamos los botones de canales para dejar solo el texto del partido
+                    a_tag.decompose()
 
                 nombre_evento = limpiar_texto(cont_copy.get_text())
 
-                # Validamos que el texto del evento parezca un partido (que tenga longitud razonable y no sea texto basura de la web)
-                if 5 < len(nombre_evento) < 200:
-                    # Limpiamos duplicados exactos en nuestra lista
+                if len(nombre_evento) > 3:
+                    # Evitamos duplicados exactos
                     if not any(e["evento"] == nombre_evento for e in agenda_data):
                         agenda_data.append({
                             "evento": nombre_evento,
@@ -90,11 +85,10 @@ async def obtener_agenda():
 
         await browser.close()
 
-        # Guardado en JSON
         with open("agenda.json", "w", encoding="utf-8") as f:
             json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-        print(f"✅ ¡Proceso finalizado! Se guardaron {len(agenda_data)} eventos en 'agenda.json'.")
+        print(f"✅ ¡Listo! Se guardaron {len(agenda_data)} eventos de rusticotv.quest en 'agenda.json'.")
 
 if __name__ == "__main__":
     asyncio.run(obtener_agenda())
