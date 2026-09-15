@@ -1,31 +1,15 @@
-import base64
 import json
 import re
-from urllib.parse import parse_qs, urlparse
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 
-def decodificar_url(url_embed):
-    parsed = urlparse(url_embed)
-    params = parse_qs(parsed.query)
-    if "r" in params:
-        b64_str = params["r"][0]
-        try:
-            missing_padding = len(b64_str) % 4
-            if missing_padding:
-                b64_str += "=" * (4 - missing_padding)
-            return base64.b64decode(b64_str).decode("utf-8")
-        except Exception:
-            return url_embed
-    return url_embed
-
 def limpiar_texto(texto):
-    texto = re.sub(r"[▶▼▲◄►]", "", texto)
+    texto = re.sub(r"[▶▼▲◄►•]", "", texto)
     return " ".join(texto.split()).strip()
 
 async def obtener_agenda():
-    url = "https://futbollibretvhd.org/agenda"
-    print("Iniciando extracción de agenda...")
+    url = "https://rusticotv.la/"
+    print("Iniciando extracción de agenda desde Rustico TV...")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -34,54 +18,69 @@ async def obtener_agenda():
         )
         page = await context.new_page()
 
-        await page.goto(url, wait_until="networkidle")
-        await page.wait_for_timeout(3000)
+        try:
+            await page.goto(url, wait_until="networkidle", timeout=30000)
+            await page.wait_for_timeout(3000)
+        except Exception as e:
+            print(f"Error al cargar la página: {e}")
+            await browser.close()
+            return
 
         html = await page.content()
         soup = BeautifulSoup(html, "html.parser")
         agenda_data = []
 
-        items = soup.find_all("li")
+        # Buscamos los bloques de eventos o partidos en Rustico TV
+        # (Suelen agruparse en tarjetas, contenedores de partidos o filas de tablas)
+        contenedores = soup.find_all(["div", "tr", "li"], class_=re.compile("evento|match|partido|game|row", re.I))
+        
+        if not contenedores:
+            # Plan B: Si la estructura cambia, buscamos cualquier lista o bloque con enlaces de canales
+            contenedores = soup.find_all("div", class_=re.compile("col|card|box", re.I))
 
-        for item in items:
-            enlaces = item.find_all("a", href=True)
+        for cont in contenedores:
+            enlaces = cont.find_all("a", href=True)
             if not enlaces:
                 continue
 
             canales = []
             for a in enlaces:
                 href = a["href"]
-                texto_limpio = limpiar_texto(a.text)
+                texto_canal = limpiar_texto(a.text)
 
-                if len(texto_limpio) > 1 and not any(x in href.lower() for x in ["telegram", "facebook", "twitter", "javascript"]):
-                    link_completo = f"https://futbollibretvhd.org{href}" if href.startswith("/") else href
-                    link_real = decodificar_url(link_completo)
-
+                # Filtramos para asegurarnos de que sean enlaces de canales/reproductores y no publicidad
+                if len(texto_canal) > 1 and not any(x in href.lower() for x in ["telegram", "whatsapp", "facebook", "twitter", "javascript", "#"]):
+                    link_completo = f"https://rusticotv.la{href}" if href.startswith("/") else href
+                    
                     canales.append({
-                        "canal": texto_limpio,
+                        "canal": texto_canal,
                         "url_embed": link_completo,
-                        "url_real": link_real
+                        "url_real": link_completo # Rustico carga directo los embeds limpios
                     })
 
             if canales:
-                item_copy = BeautifulSoup(str(item), "html.parser")
-                for a_tag in item_copy.find_all("a"):
+                # Extraemos el texto del evento eliminando los botones de canales
+                cont_copy = BeautifulSoup(str(cont), "html.parser")
+                for a_tag in cont_copy.find_all("a"):
                     a_tag.decompose()
 
-                nombre_evento = limpiar_texto(item_copy.get_text())
+                nombre_evento = limpiar_texto(cont_copy.get_text())
 
-                if nombre_evento:
-                    agenda_data.append({
-                        "evento": nombre_evento,
-                        "opciones": canales
-                    })
+                # Si encontramos un nombre válido y canales asociados, lo guardamos
+                if len(nombre_evento) > 3:
+                    # Evitamos duplicados exactos
+                    if not any(e["evento"] == nombre_evento for e in agenda_data):
+                        agenda_data.append({
+                            "evento": nombre_evento,
+                            "opciones": canales
+                        })
 
         await browser.close()
 
         with open("agenda.json", "w", encoding="utf-8") as f:
             json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-        print(f"✅ Se guardaron {len(agenda_data)} eventos en 'agenda.json'.")
+        print(f"✅ Se guardaron {len(agenda_data)} eventos en 'agenda.json' desde Rustico TV.")
 
 if __name__ == "__main__":
     import asyncio
