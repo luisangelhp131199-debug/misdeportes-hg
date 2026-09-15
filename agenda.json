@@ -1,14 +1,5 @@
 [
     {
-        "evento": "12:15AFC Champions League Elite: Beijing Guoan vs Pohang SteelersAFC Champions League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=AFC%20Champions%20League%20Elite%3A%20Beijing%20Guoan%20vs%20Pohang%20Steelers&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "13:30SP OPEN Quadra 2: Darja Semenistaja vs Hayu KinoshitaTennis",
         "opciones": [
             {
@@ -202,6 +193,88 @@
         ]
     },
     {
+        "evento": "18:15AFC Champions League Elite: Al Hilal vs Al GharafaAFC Champions League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Hilal%20vs%20Al%20Gharafa&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45EFL Cup: West Ham United vs FulhamInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=EFL%20Cup%3A%20West%20Ham%20United%20vs%20Fulham&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00EFL Cup: Liverpool vs Tottenham HotspurInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "ESPN 3 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=ESPN%203%20MX"
+            }
+        ]
+    },
+    {
+        "evento": "19:00EFL Cup: Reading vs BrentfordInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=EFL%20Cup%3A%20Reading%20vs%20Brentford&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00EFL Cup: Ipswich Town vs ArsenalInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=EFL%20Cup%3A%20Ipswich%20Town%20vs%20Arsenal&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00Copa de Italia: Fiorentina vs PisaItalia",
+        "opciones": [
+            {
+                "canal": "DSports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Fiorentina%20vs%20Pisa&ch=DSports%20%2B"
+            },
+            {
+                "canal": "DSports + I OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Fiorentina%20vs%20Pisa&ch=DSports%20%2B%20I%20OP2"
+            },
+            {
+                "canal": "DSports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Fiorentina%20vs%20Pisa&ch=DSports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "DSports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw%3D%3D&title=Copa%20de%20Italia%3A%20Fiorentina%20vs%20Pisa&ch=DSports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
         "evento": "19:00Primera División: Real Oruro vs Real PotosíBolivia",
         "opciones": [
             {
@@ -220,6 +293,26 @@
             {
                 "canal": "DSports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=Espn%2B"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP3"
             }
         ]
     },
@@ -263,6 +356,10 @@
             {
                 "canal": "ESPN AR┃OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=Disney%2B"
             }
         ]
     },
@@ -296,6 +393,10 @@
             {
                 "canal": "Fox Sports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Fox%20Sports"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Disney%2B"
             },
             {
                 "canal": "Fox Sports | OP2",
