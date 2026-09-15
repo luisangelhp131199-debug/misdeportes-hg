@@ -18,6 +18,33 @@
         ]
     },
     {
+        "evento": "13:30SP OPEN Quadra 2Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIz&title=SP%20OPEN%20Quadra%202&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "13:30SP OPEN Quadra 1Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIy&title=SP%20OPEN%20Quadra%201&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "13:30SP OPEN Quadra Central Maria Ester BuenoTennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI0&title=SP%20OPEN%20Quadra%20Central%20Maria%20Ester%20Bueno&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "17:00LaLiga: Rayo Vallecano vs EspanyolEspaña",
         "opciones": [
             {
