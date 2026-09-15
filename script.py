@@ -16,10 +16,13 @@ def decodificar_stream(url_watch):
             match = re.search(r"stream=([^&]+)", url_watch)
             if match:
                 encoded_str = match.group(1)
-                # Padding seguro para base64
+                # Agregar padding faltante para base64 de forma segura
                 padded = encoded_str + "=" * (-len(encoded_str) % 4)
                 decoded_bytes = base64.b64decode(padded)
-                return decoded_bytes.decode("utf-8")
+                url_decodificada = decoded_bytes.decode("utf-8")
+                
+                if url_decodificada.startswith("http"):
+                    return url_decodificada
     except Exception:
         pass
     return url_watch
@@ -70,7 +73,7 @@ async def obtener_agenda():
                     else:
                         continue
                     
-                    # Obtenemos la URL real limpia por debajo
+                    # Decodificamos aquí para guardar la URL final real en el JSON
                     url_limpia = decodificar_stream(link_completo)
 
                     canales.append({
@@ -97,7 +100,7 @@ async def obtener_agenda():
         with open("agenda.json", "w", encoding="utf-8") as f:
             json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-        print(f"✅ ¡Listo! Se guardaron {len(agenda_data)} eventos en 'agenda.json'.")
+        print(f"✅ ¡Listo! Se guardaron {len(agenda_data)} eventos limpios en 'agenda.json'.")
 
 if __name__ == "__main__":
     asyncio.run(obtener_agenda())
