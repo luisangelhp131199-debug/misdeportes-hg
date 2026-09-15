@@ -4,7 +4,7 @@
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=SportsCenter%20AM&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=SportsCenter%20AM&ch=Disney%2B"
             }
         ]
     },
@@ -13,7 +13,7 @@
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=AFC%20Champions%20League%20Elite%3A%20Beijing%20Guoan%20vs%20Pohang%20Steelers&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=AFC%20Champions%20League%20Elite%3A%20Beijing%20Guoan%20vs%20Pohang%20Steelers&ch=Disney%2B"
             }
         ]
     },
@@ -22,31 +22,31 @@
         "opciones": [
             {
                 "canal": "ESPN 2 | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20HD"
             },
             {
                 "canal": "ESPN 2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202"
             },
             {
                 "canal": "ESPN 2 | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20OP2"
             },
             {
                 "canal": "ESPN 2 | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20OP3"
             },
             {
                 "canal": "ESPN Deportes",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes"
             },
             {
                 "canal": "ESPN Deportes | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP2"
             },
             {
                 "canal": "ESPN Deportes | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP3"
             }
         ]
     },
@@ -55,15 +55,15 @@
         "opciones": [
             {
                 "canal": "DSports | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports%20%7C%20HD"
             },
             {
                 "canal": "DSports",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports"
             },
             {
                 "canal": "DSports | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports%20%7C%20OP3"
             }
         ]
     },
@@ -72,23 +72,23 @@
         "opciones": [
             {
                 "canal": "ESPN 4",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204"
             },
             {
                 "canal": "ESPN 4 | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204%20%7C%20OP2"
             },
             {
                 "canal": "ESPN 4 | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204%20%7C%20OP3"
             },
             {
                 "canal": "ESPN 2 MX",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%202%20MX"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%202%20MX"
             },
             {
                 "canal": "ESPN 2 NL",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%202%20NL"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%202%20NL"
             }
         ]
     },
@@ -97,19 +97,19 @@
         "opciones": [
             {
                 "canal": "ESPN 3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203"
             },
             {
                 "canal": "ESPN 3 | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20OP2"
             },
             {
                 "canal": "ESPN 3 | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20OP3"
             },
             {
                 "canal": "ESPN 3 | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20HD"
             }
         ]
     },
@@ -118,7 +118,7 @@
         "opciones": [
             {
                 "canal": "Entel TV PLUS+",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Real%20Oruro%20vs%20Real%20Potos%C3%AD&ch=Entel%20TV%20PLUS%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Real%20Oruro%20vs%20Real%20Potos%C3%AD&ch=Entel%20TV%20PLUS%2B"
             }
         ]
     },
@@ -127,11 +127,11 @@
         "opciones": [
             {
                 "canal": "DSports | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20%7C%20HD"
             },
             {
                 "canal": "DSports",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports"
             }
         ]
     },
@@ -140,15 +140,15 @@
         "opciones": [
             {
                 "canal": "TNT Sports Premiun CL",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL"
             },
             {
                 "canal": "TNT Sports Premiun CL OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL%20OP2"
             },
             {
                 "canal": "TNT Sports Premiun CL HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL%20HD"
             }
         ]
     },
@@ -157,7 +157,7 @@
         "opciones": [
             {
                 "canal": "Entel TV PLUS+",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20ABB%20vs%20The%20Strongest&ch=Entel%20TV%20PLUS%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20ABB%20vs%20The%20Strongest&ch=Entel%20TV%20PLUS%2B"
             }
         ]
     },
@@ -166,15 +166,15 @@
         "opciones": [
             {
                 "canal": "ESPN",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN"
+                "url_real": "https://tvf90.com/canal.php?stream=espn"
             },
             {
                 "canal": "ESPN AR┃OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%20AR%E2%94%83OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%20AR%E2%94%83OP2"
             },
             {
                 "canal": "ESPN AR┃OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%20AR%E2%94%83OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN%20AR%E2%94%83OP3"
             }
         ]
     },
@@ -183,43 +183,43 @@
         "opciones": [
             {
                 "canal": "ESPN 2 | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20HD"
             },
             {
                 "canal": "ESPN 2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202"
             },
             {
                 "canal": "ESPN 2 | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20OP2"
             },
             {
                 "canal": "ESPN 2 | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%202%20%7C%20OP3"
             },
             {
                 "canal": "Telefe",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVmZQ%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Telefe"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVmZQ%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Telefe"
             },
             {
                 "canal": "Telefe | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlZmU%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Telefe%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlZmU%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Telefe%20%7C%20HD"
             },
             {
                 "canal": "Fox Sports",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Fox%20Sports"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Fox%20Sports"
             },
             {
                 "canal": "Fox Sports | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Fox%20Sports%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=Fox%20Sports%20%7C%20OP2"
             },
             {
                 "canal": "ESPN 3 MX",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%203%20MX"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=ESPN%203%20MX"
             },
             {
                 "canal": "BeIN Sports Ñ",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=BeIN%20Sports%20%C3%91"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Copa%20Libertadores%3A%20Platense%20vs%20Fluminense&ch=BeIN%20Sports%20%C3%91"
             }
         ]
     },
@@ -228,11 +228,11 @@
         "opciones": [
             {
                 "canal": "Sportv BR",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Serie%20B%3A%20N%C3%A1utico%20vs%20Oper%C3%A1rio%20PR&ch=Sportv%20BR"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Serie%20B%3A%20N%C3%A1utico%20vs%20Oper%C3%A1rio%20PR&ch=Sportv%20BR"
             },
             {
                 "canal": "Sportv BR HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Serie%20B%3A%20N%C3%A1utico%20vs%20Oper%C3%A1rio%20PR&ch=Sportv%20BR%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Serie%20B%3A%20N%C3%A1utico%20vs%20Oper%C3%A1rio%20PR&ch=Sportv%20BR%20HD"
             }
         ]
     },
@@ -241,15 +241,15 @@
         "opciones": [
             {
                 "canal": "TNT Sports Premiun CL",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL"
             },
             {
                 "canal": "TNT Sports Premiun CL OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL%20OP2"
             },
             {
                 "canal": "TNT Sports Premiun CL HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL%20HD"
             }
         ]
     },
@@ -258,19 +258,19 @@
         "opciones": [
             {
                 "canal": "ESPN 2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202"
             },
             {
                 "canal": "ESPN 2 | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20OP2"
             },
             {
                 "canal": "ESPN 2 | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20OP3"
             },
             {
                 "canal": "ESPN 2 | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20HD"
             }
         ]
     },
@@ -279,19 +279,19 @@
         "opciones": [
             {
                 "canal": "Win Sports +",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B"
             },
             {
                 "canal": "Win Sports + | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B%20%7C%20OP2"
             },
             {
                 "canal": "Win Sports + | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B%20%7C%20OP3"
             },
             {
                 "canal": "Win Sports + | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B%20%7C%20HD"
+                "url_real": "https://tvf90.com/hd.php?stream=winsports2"
             }
         ]
     },
@@ -300,7 +300,7 @@
         "opciones": [
             {
                 "canal": "DSports",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports"
             }
         ]
     },
@@ -309,11 +309,11 @@
         "opciones": [
             {
                 "canal": "Sportv BR HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Brasileiro%20Femenino%3A%20Bahia%20vs%20Corinthians&ch=Sportv%20BR%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Brasileiro%20Femenino%3A%20Bahia%20vs%20Corinthians&ch=Sportv%20BR%20HD"
             },
             {
                 "canal": "Sportv BR",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Brasileiro%20Femenino%3A%20Bahia%20vs%20Corinthians&ch=Sportv%20BR"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Brasileiro%20Femenino%3A%20Bahia%20vs%20Corinthians&ch=Sportv%20BR"
             }
         ]
     },
@@ -322,7 +322,7 @@
         "opciones": [
             {
                 "canal": "ESPN 4 MX",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40bXg%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Dorados%20vs%20Canc%C3%BAn&ch=ESPN%204%20MX"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40bXg%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Dorados%20vs%20Canc%C3%BAn&ch=ESPN%204%20MX"
             }
         ]
     },
@@ -331,35 +331,35 @@
         "opciones": [
             {
                 "canal": "TUDN USA",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA"
             },
             {
                 "canal": "TUDN USA | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA%20%7C%20OP2"
             },
             {
                 "canal": "TUDN USA | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA%20%7C%20OP3"
             },
             {
                 "canal": "TUDN USA | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA%20%7C%20HD"
+                "url_real": "https://tvf90.com/hd.php?stream=tudn"
             },
             {
                 "canal": "ESPN MX | OP2",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX%20%7C%20OP2"
             },
             {
                 "canal": "ESPN MX",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX"
             },
             {
                 "canal": "ESPN MX | OP3",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX%20%7C%20OP3"
             },
             {
                 "canal": "ESPN MX | HD",
-                "url_embed": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=ESPN%20MX%20%7C%20HD"
             }
         ]
     }
