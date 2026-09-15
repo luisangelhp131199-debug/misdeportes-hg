@@ -9,20 +9,11 @@
         ]
     },
     {
-        "evento": "13:30SP OPEN Quadra 2Tennis",
+        "evento": "13:30SP OPEN Quadra 2: Darja Semenistaja vs Hayu KinoshitaTennis",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIz&title=SP%20OPEN%20Quadra%202&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "13:30SP OPEN Quadra Central Maria Ester BuenoTennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI0&title=SP%20OPEN%20Quadra%20Central%20Maria%20Ester%20Bueno&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIz&title=SP%20OPEN%20Quadra%202%3A%20Darja%20Semenistaja%20vs%20Hayu%20Kinoshita&ch=Disney%2B"
             }
         ]
     },
@@ -32,6 +23,61 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIy&title=SP%20OPEN%20Quadra%201%3A%20Lucrezia%20Stefanini%20vs%20Nadia%20Podoroska&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "13:30SP OPEN Quadra Central Maria Ester Bueno: Kostovic T. vs Barros V. L.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI0&title=SP%20OPEN%20Quadra%20Central%20Maria%20Ester%20Bueno%3A%20Kostovic%20T.%20vs%20Barros%20V.%20L.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "16:00AFC Champions League Elite: Al Ain vs Al NassrAFC Champions League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "16:00Copa de Italia: Genoa vs SüdtirolItalia",
+        "opciones": [
+            {
+                "canal": "DSports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B"
+            },
+            {
+                "canal": "DSports + I OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B%20I%20OP2"
+            },
+            {
+                "canal": "DSports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "DSports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw%3D%3D&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B%20%7C%20HD"
             }
         ]
     },
@@ -55,6 +101,10 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%202%20%7C%20OP3"
             },
             {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=Disney%2B"
+            },
+            {
                 "canal": "ESPN Deportes",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes"
             },
@@ -65,6 +115,14 @@
             {
                 "canal": "ESPN Deportes | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP3"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=Espn%2B"
+            },
+            {
+                "canal": "Canal 5 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=LaLiga%3A%20Rayo%20Vallecano%20vs%20Espanyol&ch=Canal%205%20MX"
             }
         ]
     },
@@ -72,16 +130,24 @@
         "evento": "18:00LaLiga: Deportivo Alavés vs ValenciaEspaña",
         "opciones": [
             {
-                "canal": "DSports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports%20%7C%20HD"
+                "canal": "Dsports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202"
             },
             {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports"
+                "canal": "Dsports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202%20%7C%20OP2"
             },
             {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=DSports%20%7C%20OP3"
+                "canal": "Dsports 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202%20%7C%20OP3"
+            },
+            {
+                "canal": "Dsports 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202%20%7C%20HD"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMg%3D%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Espn%2B"
             }
         ]
     },
@@ -99,6 +165,10 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=Disney%2B"
             },
             {
                 "canal": "ESPN 2 MX",
