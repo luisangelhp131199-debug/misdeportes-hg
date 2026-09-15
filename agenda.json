@@ -146,7 +146,7 @@
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTMw&title=Campeonato%20de%20Clubes%20del%20Caribe%3A%20Violette%20AC%20vs%20Club%20Sando&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=Campeonato%20de%20Clubes%20del%20Caribe%3A%20Violette%20AC%20vs%20Club%20Sando&ch=Disney%2B"
             }
         ]
     },
@@ -155,7 +155,7 @@
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIy&title=NCAA%20Men's%20Soccer%3A%20Colgate%20vs%20Syracuse&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Colgate%20vs%20Syracuse&ch=Disney%2B"
             }
         ]
     },
@@ -174,6 +174,15 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=NCAA%20Men's%20Soccer%3A%20Bucknell%20vs%20George%20Mason&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:20Guadalajara, dura - 1/8 de final: Parry D. vs Stearns P.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=Guadalajara%2C%20dura%20-%201%2F8%20de%20final%3A%20Parry%20D.%20vs%20Stearns%20P.&ch=Disney%2B"
             }
         ]
     },
