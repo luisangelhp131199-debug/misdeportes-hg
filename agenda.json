@@ -166,7 +166,7 @@
         "opciones": [
             {
                 "canal": "ESPN",
-                "url_real": "https://tvf90.com/canal.php?stream=espn"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Copa%20Sudamericana%3A%20Vasco%20da%20Gama%20vs%20Santa%20Fe&ch=ESPN"
             },
             {
                 "canal": "ESPN AR┃OP2",
@@ -291,7 +291,7 @@
             },
             {
                 "canal": "Win Sports + | HD",
-                "url_real": "https://tvf90.com/hd.php?stream=winsports2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Boyac%C3%A1%20Chic%C3%B3%20vs%20Alianza&ch=Win%20Sports%20%2B%20%7C%20HD"
             }
         ]
     },
@@ -343,7 +343,7 @@
             },
             {
                 "canal": "TUDN USA | HD",
-                "url_real": "https://tvf90.com/hd.php?stream=tudn"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Liga%20MX%3A%20Puebla%20vs%20Toluca&ch=TUDN%20USA%20%7C%20HD"
             },
             {
                 "canal": "ESPN MX | OP2",
