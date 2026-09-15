@@ -1,103 +1,10 @@
 [
     {
-        "evento": "18:00LaLiga: Deportivo Alavés vs ValenciaEspaña",
-        "opciones": [
-            {
-                "canal": "Dsports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202"
-            },
-            {
-                "canal": "Dsports 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202%20%7C%20OP2"
-            },
-            {
-                "canal": "Dsports 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202%20%7C%20OP3"
-            },
-            {
-                "canal": "Dsports 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Dsports%202%20%7C%20HD"
-            },
-            {
-                "canal": "Espn+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMg%3D%3D&title=LaLiga%3A%20Deportivo%20Alav%C3%A9s%20vs%20Valencia&ch=Espn%2B"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Eredivisie: Ajax vs Willem IIPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%204%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 2 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%202%20MX"
-            },
-            {
-                "canal": "ESPN 2 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%3A%20Ajax%20vs%20Willem%20II&ch=ESPN%202%20NL"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Torneo de Reserva: Argentinos Juniors vs River PlateArgentina",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Torneo%20de%20Reserva%3A%20Argentinos%20Juniors%20vs%20River%20Plate&ch=ESPN%203%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "18:15AFC Champions League Elite: Al Hilal vs Al GharafaAFC Champions League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Hilal%20vs%20Al%20Gharafa&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "18:45EFL Cup: West Ham United vs FulhamInglaterra",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=EFL%20Cup%3A%20West%20Ham%20United%20vs%20Fulham&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00Guadalajara, dura - Cuartos de final: Kozyreva M. / Lumsden M. vs Guarachi A. / Ninomiya M.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Kozyreva%20M.%20%2F%20Lumsden%20M.%20vs%20Guarachi%20A.%20%2F%20Ninomiya%20M.&ch=Disney%2B"
             }
         ]
     },
@@ -179,15 +86,6 @@
         ]
     },
     {
-        "evento": "19:00Guadalajara, dura - 1/8 de final: Bucsa C. vs Udvardy P.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI1&title=Guadalajara%2C%20dura%20-%201%2F8%20de%20final%3A%20Bucsa%20C.%20vs%20Udvardy%20P.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "19:30LaLiga: Elche vs Real MadridEspaña",
         "opciones": [
             {
@@ -233,6 +131,15 @@
         ]
     },
     {
+        "evento": "21:00Guadalajara, dura - Cuartos de final: Kozyreva M. / Lumsden M. vs Guarachi A. / Ninomiya M.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Kozyreva%20M.%20%2F%20Lumsden%20M.%20vs%20Guarachi%20A.%20%2F%20Ninomiya%20M.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "21:00Primera B: San Luis vs AntofagastaChile",
         "opciones": [
             {
@@ -246,6 +153,15 @@
             {
                 "canal": "TNT Sports Premiun CL HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "21:00Guadalajara, dura - 1/8 de final: Bucsa C. vs Udvardy P.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI1&title=Guadalajara%2C%20dura%20-%201%2F8%20de%20final%3A%20Bucsa%20C.%20vs%20Udvardy%20P.&ch=Disney%2B"
             }
         ]
     },
