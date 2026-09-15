@@ -1,5 +1,15 @@
 [
     {
+        "evento": "10:30 SportsCenter AM",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIx",
+                "url_real": "https://tvf90.com/1.php?stream=disney21"
+            }
+        ]
+    },
+    {
         "evento": "17:00 LaLiga: Rayo Vallecano vs Espanyol",
         "opciones": [
             {
