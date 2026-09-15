@@ -195,6 +195,10 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20%7C%20HD"
             },
             {
+                "canal": "DirecTV Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DirecTV%20Sports"
+            },
+            {
                 "canal": "ESPN Deportes",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=ESPN%20Deportes"
             },
@@ -211,8 +215,8 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20Eventos"
             },
             {
-                "canal": "DirecTV Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DirecTV%20Sports"
+                "canal": "DSports Colombia",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20Colombia"
             },
             {
                 "canal": "DSports",
@@ -379,16 +383,28 @@
         "evento": "00:30Copa Sudamericana: São Paulo vs Boca JuniorsCONMEBOL Sudamericana",
         "opciones": [
             {
+                "canal": "DSports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20%7C%20HD"
+            },
+            {
+                "canal": "DirecTV Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DirecTV%20Sports"
+            },
+            {
                 "canal": "DSports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports"
             },
             {
-                "canal": "Dsports Argentina",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=Dsports%20Argentina"
-            },
-            {
                 "canal": "DSports | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "DSports Colombia",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20Colombia"
+            },
+            {
+                "canal": "DSports Eventos",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20Eventos"
             }
         ]
     },
