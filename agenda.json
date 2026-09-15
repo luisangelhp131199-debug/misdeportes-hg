@@ -1,20 +1,5 @@
 [
     {
-        "evento": "23:00 Brasileirão: Bahia vs Remo",
-        "opciones": [
-            {
-                "canal": "Premiere BR | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-                "url_real": "https://tvf90.com/2.php?stream=premiere1"
-            },
-            {
-                "canal": "Premiere BR",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-                "url_real": "https://tvf90.com/1.php?stream=premiere1"
-            }
-        ]
-    },
-    {
         "evento": "23:30 Primera División: Unión La Calera vs Deportes Limache",
         "opciones": [
             {
