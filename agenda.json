@@ -1,35 +1,5 @@
 [
     {
-        "evento": "21:00 Primera B: Deportes Santa Cruz vs Recoleta",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
-                "url_real": "https://tvf90.com/hd.php?stream=tntsportschile"
-            },
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "url_real": "https://tvf90.com/1.php?stream=tntsportschile"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "url_real": "https://tvf90.com/2.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "evento": "21:00 tenis femenino, dobles, del Guadalajara Open 2026",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
-                "url_real": "https://tvf90.com/1.php?stream=disney12"
-            }
-        ]
-    },
-    {
         "evento": "22:00 Liga Profesional: Banfield vs Barracas Central",
         "opciones": [
             {
