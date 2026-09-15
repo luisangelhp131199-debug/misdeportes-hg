@@ -23,25 +23,6 @@ def limpiar_texto(texto):
     texto = re.sub(r"[▶▼▲◄►]", "", texto)
     return " ".join(texto.split()).strip()
 
-async def obtener_m3u8(page, url_embed):
-    m3u8_found = None
-    
-    def handle_request(request):
-        nonlocal m3u8_found
-        url = request.url
-        if ".m3u8" in url and "playlist" in url or "index" in url or "mono" in url:
-            if not m3u8_found:
-                m3u8_found = url
-
-    page.on("request", handle_request)
-    try:
-        await page.goto(url_embed, wait_until="domcontentloaded", timeout=10000)
-        await page.wait_for_timeout(3000)
-    except Exception:
-        pass
-    
-    return m3u8_found
-
 async def obtener_agenda():
     url = "https://futbollibretvhd.org/agenda"
     print("Iniciando extracción de agenda...")
