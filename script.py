@@ -1,6 +1,5 @@
 import asyncio
 import json
-import base64
 import re
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
@@ -8,24 +7,6 @@ from playwright.async_api import async_playwright
 def limpiar_texto(texto):
     texto = re.sub(r"[▶▼▲◄►•]", "", texto)
     return " ".join(texto.split()).strip()
-
-def decodificar_stream(url_watch):
-    """Extrae y decodifica el parámetro stream de Rústico TV para obtener la URL interna limpia"""
-    try:
-        if "stream=" in url_watch:
-            match = re.search(r"stream=([^&]+)", url_watch)
-            if match:
-                encoded_str = match.group(1)
-                # Agregar padding faltante para base64 de forma segura
-                padded = encoded_str + "=" * (-len(encoded_str) % 4)
-                decoded_bytes = base64.b64decode(padded)
-                url_decodificada = decoded_bytes.decode("utf-8")
-                
-                if url_decodificada.startswith("http"):
-                    return url_decodificada
-    except Exception:
-        pass
-    return url_watch
 
 async def obtener_agenda():
     url = "https://rusticotv.quest/"
@@ -73,12 +54,10 @@ async def obtener_agenda():
                     else:
                         continue
                     
-                    # Decodificamos aquí para guardar la URL final real en el JSON
-                    url_limpia = decodificar_stream(link_completo)
-
+                    # Guardamos el enlace completo directamente para mantener la compatibilidad con el reproductor
                     canales.append({
                         "canal": texto_canal,
-                        "url_real": url_limpia
+                        "url_real": link_completo
                     })
 
             if canales:
@@ -100,7 +79,7 @@ async def obtener_agenda():
         with open("agenda.json", "w", encoding="utf-8") as f:
             json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-        print(f"✅ ¡Listo! Se guardaron {len(agenda_data)} eventos limpios en 'agenda.json'.")
+        print(f"✅ ¡Listo! Se guardaron {len(agenda_data)} eventos en 'agenda.json'.")
 
 if __name__ == "__main__":
     asyncio.run(obtener_agenda())
