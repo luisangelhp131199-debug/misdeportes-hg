@@ -165,6 +165,16 @@
         ]
     },
     {
+        "evento": "23:50 Guadalajara, dura - 1/8 de final: Lepchenko V. / Stearns P. vs Dolehide C. / Khromacheva I.",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE3",
+                "url_real": "https://tvf90.com/1.php?stream=disney17"
+            }
+        ]
+    },
+    {
         "evento": "00:00 NFL – Kansas City Chiefs vs. Denver Broncos",
         "opciones": [
             {
@@ -295,6 +305,36 @@
         ]
     },
     {
+        "evento": "01:00 Liga MX: León vs Atlético San Luis",
+        "opciones": [
+            {
+                "canal": "FOX ONE",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
+                "url_real": "https://tvf90.com/3.php?stream=even8"
+            },
+            {
+                "canal": "FOX ONE HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
+                "url_real": "https://tvf90.com/3.php?stream=even8"
+            },
+            {
+                "canal": "FOX HD",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
+                "url_real": "https://tvf90.com/3.php?stream=even8"
+            }
+        ]
+    },
+    {
+        "evento": "01:00 Guadalajara Open presented By Santander / Cancha Mexcovery: M. Frech vs N. Ibino",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2",
+                "url_real": "https://tvf90.com/1.php?stream=disney16"
+            }
+        ]
+    },
+    {
         "evento": "01:00 Primera A: América de Cali vs Deportivo Pasto",
         "opciones": [
             {
@@ -316,16 +356,6 @@
                 "canal": "Win Sports + | OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
                 "url_real": "https://tvf90.com/3.php?stream=winsports2"
-            }
-        ]
-    },
-    {
-        "evento": "01:00 Liga MX: León vs Atlético San Luis",
-        "opciones": [
-            {
-                "canal": "FOX ONE",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWV2ZW44",
-                "url_real": "https://tvf90.com/3.php?stream=even8"
             }
         ]
     }
