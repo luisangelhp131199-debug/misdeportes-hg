@@ -1,5 +1,6 @@
 import asyncio
 import json
+import base64
 import re
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
@@ -7,6 +8,21 @@ from playwright.async_api import async_playwright
 def limpiar_texto(texto):
     texto = re.sub(r"[▶▼▲◄►•]", "", texto)
     return " ".join(texto.split()).strip()
+
+def decodificar_stream(url_watch):
+    """Extrae y decodifica el parámetro stream de Rústico TV para obtener la URL interna limpia"""
+    try:
+        if "stream=" in url_watch:
+            match = re.search(r"stream=([^&]+)", url_watch)
+            if match:
+                encoded_str = match.group(1)
+                # Padding seguro para base64
+                padded = encoded_str + "=" * (-len(encoded_str) % 4)
+                decoded_bytes = base64.b64decode(padded)
+                return decoded_bytes.decode("utf-8")
+    except Exception:
+        pass
+    return url_watch
 
 async def obtener_agenda():
     url = "https://rusticotv.quest/"
@@ -31,17 +47,10 @@ async def obtener_agenda():
         soup = BeautifulSoup(html, "html.parser")
         agenda_data = []
 
-        # Buscamos el contenedor principal de la agenda que identificamos en el código fuente (fa-agenda-wrap)
         contenedor_agenda = soup.find(id="fa-agenda-wrap") or soup.find(class_=re.compile("agenda", re.I))
-        
-        if not contenedor_agenda:
-            print("⚠️ No se encontró el contenedor 'fa-agenda-wrap', usando búsqueda general de partidos...")
-            contenedores = soup.find_all(["div", "tr", "li"], class_=re.compile("match|evento|partido|row", re.I))
-        else:
-            # Buscamos los elementos internos del contenedor de la agenda
-            contenedores = contenedor_agenda.find_all(["div", "tr", "li"])
+        contenedores = contenedor_agenda.find_all(["div", "tr", "li"]) if contenedor_agenda else soup.find_all(["div", "tr", "li"], class_=re.compile("match|evento|partido|row", re.I))
 
-        print(f"🔍 Se encontraron {len(contenedores)} bloques candidatos. Procesando...")
+        print(f"🔍 Procesando {len(contenedores)} bloques...")
 
         for cont in contenedores:
             enlaces = cont.find_all("a", href=True)
@@ -53,7 +62,6 @@ async def obtener_agenda():
                 href = a["href"]
                 texto_canal = limpiar_texto(a.text)
 
-                # Filtramos para asegurarnos de que sean enlaces de canales/reproductores
                 if len(texto_canal) > 1 and not any(x in href.lower() for x in ["telegram", "whatsapp", "facebook", "twitter", "javascript", "#", "instagram"]):
                     if href.startswith("/"):
                         link_completo = f"https://rusticotv.quest{href}"
@@ -62,13 +70,15 @@ async def obtener_agenda():
                     else:
                         continue
                     
+                    # Obtenemos la URL real limpia por debajo
+                    url_limpia = decodificar_stream(link_completo)
+
                     canales.append({
                         "canal": texto_canal,
-                        "url_embed": link_completo
+                        "url_real": url_limpia
                     })
 
             if canales:
-                # Copiamos el bloque para extraer el texto del partido sin los botones de los canales
                 cont_copy = BeautifulSoup(str(cont), "html.parser")
                 for a_tag in cont_copy.find_all("a"):
                     a_tag.decompose()
@@ -76,7 +86,6 @@ async def obtener_agenda():
                 nombre_evento = limpiar_texto(cont_copy.get_text())
 
                 if len(nombre_evento) > 3:
-                    # Evitamos duplicados exactos
                     if not any(e["evento"] == nombre_evento for e in agenda_data):
                         agenda_data.append({
                             "evento": nombre_evento,
@@ -88,7 +97,7 @@ async def obtener_agenda():
         with open("agenda.json", "w", encoding="utf-8") as f:
             json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-        print(f"✅ ¡Listo! Se guardaron {len(agenda_data)} eventos de rusticotv.quest en 'agenda.json'.")
+        print(f"✅ ¡Listo! Se guardaron {len(agenda_data)} eventos en 'agenda.json'.")
 
 if __name__ == "__main__":
     asyncio.run(obtener_agenda())
