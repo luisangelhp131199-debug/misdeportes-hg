@@ -1,51 +1,5 @@
 [
     {
-        "evento": "16:00AFC Champions League Elite: Al Ain vs Al NassrAFC Champions League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX"
-            },
-            {
-                "canal": "ESPN MX | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN MX | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN MX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=AFC%20Champions%20League%20Elite%3A%20Al%20Ain%20vs%20Al%20Nassr&ch=ESPN%20MX%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "16:00Copa de Italia: Genoa vs SüdtirolItalia",
-        "opciones": [
-            {
-                "canal": "DSports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B"
-            },
-            {
-                "canal": "DSports + I OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B%20I%20OP2"
-            },
-            {
-                "canal": "DSports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "DSports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw%3D%3D&title=Copa%20de%20Italia%3A%20Genoa%20vs%20S%C3%BCdtirol&ch=DSports%20%2B%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "17:00LaLiga: Rayo Vallecano vs EspanyolEspaña",
         "opciones": [
             {
@@ -184,15 +138,28 @@
         ]
     },
     {
-        "evento": "19:00EFL Cup: Liverpool vs Tottenham HotspurInglaterra",
+        "evento": "19:00Guadalajara, dura - Cuartos de final: Kozyreva M. / Lumsden M. vs Guarachi A. / Ninomiya M.Tennis",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=Disney%2B"
-            },
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Kozyreva%20M.%20%2F%20Lumsden%20M.%20vs%20Guarachi%20A.%20%2F%20Ninomiya%20M.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00EFL Cup: Liverpool vs Tottenham HotspurInglaterra",
+        "opciones": [
             {
                 "canal": "ESPN",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=ESPN"
+            },
+            {
+                "canal": "ESPN HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1cy5waHA%2Fc3RyZWFtPWV2ZW40&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=ESPN%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=EFL%20Cup%3A%20Liverpool%20vs%20Tottenham%20Hotspur&ch=Disney%2B"
             },
             {
                 "canal": "ESPN AR┃OP2",
@@ -257,15 +224,20 @@
         ]
     },
     {
+        "evento": "19:00Guadalajara, dura - 1/8 de final: Bucsa C. vs Udvardy P.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI1&title=Guadalajara%2C%20dura%20-%201%2F8%20de%20final%3A%20Bucsa%20C.%20vs%20Udvardy%20P.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "19:30LaLiga: Elche vs Real MadridEspaña",
         "opciones": [
             {
                 "canal": "DSports | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20%7C%20HD"
-            },
-            {
-                "canal": "DirecTV Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DirecTV%20Sports"
             },
             {
                 "canal": "ESPN Deportes",
@@ -274,6 +246,10 @@
             {
                 "canal": "DSports Eventos",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DSports%20Eventos"
+            },
+            {
+                "canal": "DirecTV Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Elche%20vs%20Real%20Madrid&ch=DirecTV%20Sports"
             },
             {
                 "canal": "DSports",
