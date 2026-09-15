@@ -1,15 +1,5 @@
 [
     {
-        "evento": "22:30 MLB – Cleveland Guardians vs Chicago White Sox",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0",
-                "url_real": "https://tvf90.com/1.php?stream=disney14"
-            }
-        ]
-    },
-    {
         "evento": "23:00 Brasileirão: Bahia vs Remo",
         "opciones": [
             {
