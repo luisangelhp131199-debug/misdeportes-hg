@@ -1,70 +1,5 @@
 [
     {
-        "evento": "22:00 Liga Profesional: Banfield vs Barracas Central",
-        "opciones": [
-            {
-                "canal": "TNT Sports | HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://futbollibre.ch/hd.php?stream=tntsports"
-            },
-            {
-                "canal": "TNT Sports",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://tvf90.com/3.php?stream=tntsports"
-            },
-            {
-                "canal": "TNT Sports | OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://tvf90.com/1.php?stream=tntsports"
-            },
-            {
-                "canal": "TNT Sports | OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "url_real": "https://tvf90.com/2.php?stream=tntsports"
-            }
-        ]
-    },
-    {
-        "evento": "22:00 Primera División: Torque vs Liverpool",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk=",
-                "url_real": "https://tvf90.com/1.php?stream=disney9"
-            }
-        ]
-    },
-    {
-        "evento": "22:00 Liga Profesional: Deportivo Riestra vs Lanús",
-        "opciones": [
-            {
-                "canal": "ESPN Premium┃HD",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
-                "url_real": "https://tvf90.com/hd.php?stream=espnpremium"
-            },
-            {
-                "canal": "ESPN Premium",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-                "url_real": "https://tvf90.com/1.php?stream=espnpremium"
-            },
-            {
-                "canal": "ESPN Premium┃OP2",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-                "url_real": "https://tvf90.com/2.php?stream=espnpremium"
-            },
-            {
-                "canal": "ESPN Premium┃OP3",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-                "url_real": "https://tvf90.com/3.php?stream=espnpremium"
-            },
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx",
-                "url_real": "https://tvf90.com/1.php?stream=disney11"
-            }
-        ]
-    },
-    {
         "evento": "22:30 MLB – Cleveland Guardians vs Chicago White Sox",
         "opciones": [
             {
@@ -86,16 +21,6 @@
                 "canal": "Premiere BR",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
                 "url_real": "https://tvf90.com/1.php?stream=premiere1"
-            }
-        ]
-    },
-    {
-        "evento": "23:30 Guadalajara Open Akron presented by Santander 2026: Z. Sonmez vs I. Shimanovich",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
-                "url_real": "https://tvf90.com/1.php?stream=disney12"
             }
         ]
     },
@@ -305,6 +230,16 @@
         ]
     },
     {
+        "evento": "00:30 Guadalajara, dura - 1/16 de final: Jacquemot E. vs Samsonova L.",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy",
+                "url_real": "https://tvf90.com/1.php?stream=disney12"
+            }
+        ]
+    },
+    {
         "evento": "01:00 Liga MX: León vs Atlético San Luis",
         "opciones": [
             {
@@ -356,6 +291,16 @@
                 "canal": "Win Sports + | OP3",
                 "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
                 "url_real": "https://tvf90.com/3.php?stream=winsports2"
+            }
+        ]
+    },
+    {
+        "evento": "02:00 Lo Mejor de MotoGP",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_embed": "https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4",
+                "url_real": "https://tvf90.com/1.php?stream=disney18"
             }
         ]
     }
