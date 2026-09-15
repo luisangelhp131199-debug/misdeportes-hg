@@ -7,13 +7,15 @@
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <style>
     :root {
-      --bg-main: #0b0f19;
-      --bg-card: #151c2e;
+      --bg-main: #07090e;
+      --bg-card: #111827;
+      --bg-card-hover: #1f293d;
       --accent: #00d2ff;
       --accent-gradient: linear-gradient(135deg, #00d2ff 0%, #3a7bd5 100%);
       --text-main: #f8fafc;
       --text-muted: #94a3b8;
       --border-color: rgba(255, 255, 255, 0.08);
+      --danger: #ef4444;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -26,63 +28,119 @@
       min-height: 100vh;
     }
 
-    .container { max-width: 900px; margin: 0 auto; }
+    .container { max-width: 950px; margin: 0 auto; }
 
     header {
       display: flex;
       align-items: center;
       justify-content: space-between;
       margin-bottom: 20px;
-      padding: 10px 0;
+      padding: 12px 0;
       border-bottom: 1px solid var(--border-color);
     }
 
     .logo {
-      font-size: 1.4rem;
+      font-size: 1.5rem;
       font-weight: 800;
       background: var(--accent-gradient);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
+      letter-spacing: -0.5px;
     }
 
     .live-badge {
-      background: #ef4444;
-      color: #fff;
+      background: rgba(239, 68, 68, 0.15);
+      border: 1px solid rgba(239, 68, 68, 0.4);
+      color: #fca5a5;
       font-size: 0.75rem;
       font-weight: 700;
-      padding: 4px 10px;
-      border-radius: 20px;
+      padding: 5px 12px;
+      border-radius: 30px;
       display: flex;
       align-items: center;
       gap: 6px;
-      box-shadow: 0 0 10px rgba(239, 68, 68, 0.5);
+      box-shadow: 0 0 15px rgba(239, 68, 68, 0.25);
     }
 
     .live-dot {
-      width: 8px;
-      height: 8px;
-      background-color: #fff;
+      width: 7px;
+      height: 7px;
+      background-color: var(--danger);
       border-radius: 50%;
       animation: pulse 1.5s infinite;
     }
 
     @keyframes pulse {
-      0% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.4; transform: scale(1.2); }
-      100% { opacity: 1; transform: scale(1); }
+      0% { opacity: 1; transform: scale(1); box-shadow: 0 0 0 0 rgba(239,68,68, 0.7); }
+      70% { opacity: 0.4; transform: scale(1.2); box-shadow: 0 0 0 6px rgba(239,68,68, 0); }
+      100% { opacity: 1; transform: scale(1); box-shadow: 0 0 0 0 rgba(239,68,68, 0); }
     }
 
+    /* Barra de control superior (Buscador) */
+    .controls-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 240px;
+      position: relative;
+    }
+
+    .search-box input {
+      width: 100%;
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      padding: 12px 16px 12px 42px;
+      border-radius: 12px;
+      color: var(--text-main);
+      font-size: 0.9rem;
+      outline: none;
+      transition: all 0.3s ease;
+    }
+
+    .search-box input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 15px rgba(0, 210, 255, 0.2);
+    }
+
+    .search-box svg {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 18px;
+      height: 18px;
+      fill: var(--text-muted);
+    }
+
+    /* Reproductor Avanzado */
     .player-wrapper {
       background: #000;
       border-radius: 16px;
       overflow: hidden;
       margin-bottom: 25px;
       border: 1px solid var(--border-color);
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 15px rgba(0, 210, 255, 0.15);
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6), 0 0 20px rgba(0, 210, 255, 0.1);
       position: relative;
+    }
+
+    .player-info-bar {
+      background: rgba(15, 23, 42, 0.9);
+      padding: 8px 16px;
+      font-size: 0.8rem;
+      color: var(--accent);
+      font-weight: 600;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border-color);
     }
 
     .player-container {
@@ -99,7 +157,6 @@
       background: #000;
     }
 
-    /* Escudo Anti-Clics Fantasma */
     .shield-overlay {
       position: absolute;
       top: 0; left: 0;
@@ -116,78 +173,117 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      background: radial-gradient(circle at center, #1e293b 0%, #0b0f19 100%);
+      background: radial-gradient(circle at center, #111827 0%, #07090e 100%);
       color: var(--text-muted);
       text-align: center;
       padding: 20px;
     }
 
     .player-placeholder svg {
-      width: 50px; height: 50px;
+      width: 55px; height: 55px;
       margin-bottom: 12px;
       fill: var(--accent);
-      opacity: 0.8;
+      opacity: 0.85;
+      animation: float 3s ease-in-out infinite;
     }
 
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+
+    /* Listado de Eventos */
     .section-title {
-      font-size: 1.1rem;
+      font-size: 1.15rem;
       font-weight: 700;
       margin-bottom: 15px;
-      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
 
     .card {
       background-color: var(--bg-card);
-      border-radius: 12px;
-      padding: 16px;
-      margin-bottom: 14px;
+      border-radius: 14px;
+      padding: 18px;
+      margin-bottom: 16px;
       border: 1px solid var(--border-color);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+      transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+
+    .card:hover {
+      border-color: rgba(0, 210, 255, 0.25);
     }
 
     .evento-titulo {
-      font-size: 0.95rem;
+      font-size: 1rem;
       font-weight: 600;
-      margin-bottom: 12px;
+      margin-bottom: 14px;
       color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
 
     .canales-list { display: flex; flex-wrap: wrap; gap: 8px; }
 
     .btn-canal {
-      background: #1e293b;
+      background: var(--bg-card-hover);
       color: var(--text-main);
       border: 1px solid var(--border-color);
-      padding: 9px 14px;
-      border-radius: 8px;
+      padding: 10px 15px;
+      border-radius: 10px;
       cursor: pointer;
       font-size: 0.85rem;
       font-weight: 600;
       display: flex;
       align-items: center;
-      gap: 6px;
-      transition: all 0.2s ease;
+      gap: 8px;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     }
 
-    .btn-canal:hover, .btn-canal.active {
+    .btn-canal span {
+      color: var(--accent);
+      font-size: 0.75rem;
+    }
+
+    .btn-canal:hover {
+      background: rgba(0, 210, 255, 0.1);
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+
+    .btn-canal.active {
       background: var(--accent-gradient);
       color: #000;
       border-color: transparent;
-      box-shadow: 0 0 12px rgba(0, 210, 255, 0.4);
+      box-shadow: 0 0 15px rgba(0, 210, 255, 0.4);
+    }
+    
+    .btn-canal.active span {
+      color: #000;
     }
 
     .spinner {
       border: 3px solid rgba(255,255,255,0.1);
       border-top: 3px solid var(--accent);
       border-radius: 50%;
-      width: 30px; height: 30px;
+      width: 35px; height: 35px;
       animation: spin 1s linear infinite;
-      margin: 20px auto;
+      margin: 30px auto;
     }
 
     @keyframes spin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 40px;
+      color: var(--text-muted);
+      font-size: 0.95rem;
     }
   </style>
 </head>
@@ -203,30 +299,50 @@
       </div>
     </header>
 
+    <!-- Barra de Búsqueda Interactiva -->
+    <div class="controls-bar">
+      <div class="search-box">
+        <svg viewBox="0 0 24 24">
+          <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+        <input type="text" id="input-buscar" placeholder="Buscar partido, equipo o torneo..." oninput="filtrarAgenda()">
+      </div>
+    </div>
+
+    <!-- Reproductor Principal -->
     <div class="player-wrapper">
+      <div id="player-info" class="player-info-bar" style="display: none;">
+        <span id="player-status-text">▶ Reproduciendo señal seleccionada</span>
+      </div>
       <div class="player-container" id="box-player">
         <div class="player-placeholder">
           <svg viewBox="0 0 24 24">
-            <path d="M8 5v14l11-7z"/>
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/>
           </svg>
-          <p>Selecciona un canal para iniciar la transmisión</p>
+          <p>Selecciona un partido y un canal de la agenda para comenzar</p>
         </div>
       </div>
     </div>
 
-    <div class="section-title">📅 Agenda Deportiva</div>
+    <div class="section-title">📅 Agenda Deportiva del Día</div>
     <div id="contenedor-agenda"><div class="spinner"></div></div>
   </div>
 
   <script>
     window.open = function() { return null; };
     let hls = null;
+    let agendaGlobal = [];
 
-    function reproducir(urlReal, btnElement) {
+    function reproducir(urlReal, nombreCanal, btnElement) {
       document.querySelectorAll('.btn-canal').forEach(b => b.classList.remove('active'));
       if(btnElement) btnElement.classList.add('active');
 
       const box = document.getElementById('box-player');
+      const infoBar = document.getElementById('player-info');
+      const statusText = document.getElementById('player-status-text');
+
+      infoBar.style.display = 'flex';
+      statusText.innerHTML = `🔥 Reproduciendo: <b>${nombreCanal}</b>`;
       
       if (hls) {
         hls.destroy();
@@ -247,6 +363,7 @@
           video.play();
         }
       } else {
+        // Reproductor de respaldo para los enlaces web protegidos dentro de un contenedor seguro
         box.innerHTML = `
           <div id="shield" class="shield-overlay" onclick="this.remove()"></div>
           <iframe 
@@ -262,44 +379,59 @@
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
+    function renderizarAgenda(datos) {
+      const contenedor = document.getElementById('contenedor-agenda');
+      contenedor.innerHTML = '';
+
+      if (!datos || datos.length === 0) {
+        contenedor.innerHTML = '<div class="no-results">No se encontraron eventos disponibles con ese criterio.</div>';
+        return;
+      }
+
+      datos.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'card';
+
+        const titulo = document.createElement('div');
+        titulo.className = 'evento-titulo';
+        titulo.innerHTML = `⚽ ${item.evento}`;
+
+        const listaCanales = document.createElement('div');
+        listaCanales.className = 'canales-list';
+
+        const opcionesValidas = item.opciones || [];
+        opcionesValidas.forEach(opt => {
+          const btn = document.createElement('button');
+          btn.className = 'btn-canal';
+          btn.innerHTML = `<span>▶</span> ${opt.canal}`;
+          btn.onclick = (e) => reproducir(opt.url_real, `${item.evento} (${opt.canal})`, e.currentTarget);
+          listaCanales.appendChild(btn);
+        });
+
+        card.appendChild(titulo);
+        card.appendChild(listaCanales);
+        contenedor.appendChild(card);
+      });
+    }
+
+    function filtrarAgenda() {
+      const textoBusqueda = document.getElementById('input-buscar').value.toLowerCase();
+      const filtrados = agendaGlobal.filter(item => 
+        item.evento.toLowerCase().includes(textoBusqueda) || 
+        item.opciones.some(op => op.canal.toLowerCase().includes(textoBusqueda))
+      );
+      renderizarAgenda(filtrados);
+    }
+
+    // Carga inicial del archivo JSON generado por GitHub Actions
     fetch('agenda.json')
       .then(res => res.json())
       .then(agenda => {
-        const contenedor = document.getElementById('contenedor-agenda');
-        contenedor.innerHTML = '';
-
-        if (!agenda || agenda.length === 0) {
-          contenedor.innerHTML = '<p style="text-align:center; color: var(--text-muted);">No hay eventos disponibles en este momento.</p>';
-          return;
-        }
-
-        agenda.forEach(item => {
-          const card = document.createElement('div');
-          card.className = 'card';
-
-          const titulo = document.createElement('div');
-          titulo.className = 'evento-titulo';
-          titulo.textContent = item.evento;
-
-          const listaCanales = document.createElement('div');
-          listaCanales.className = 'canales-list';
-
-          const opcionesValidas = item.opciones || [];
-          opcionesValidas.forEach(opt => {
-            const btn = document.createElement('button');
-            btn.className = 'btn-canal';
-            btn.innerHTML = `<span>▶</span> ${opt.canal}`;
-            btn.onclick = (e) => reproducir(opt.url_real, e.currentTarget);
-            listaCanales.appendChild(btn);
-          });
-
-          card.appendChild(titulo);
-          card.appendChild(listaCanales);
-          contenedor.appendChild(card);
-        });
+        agendaGlobal = agenda;
+        renderizarAgenda(agendaGlobal);
       })
       .catch(err => {
-        document.getElementById('contenedor-agenda').innerHTML = '<p style="text-align:center; color: var(--text-muted);">Error al cargar la agenda.</p>';
+        document.getElementById('contenedor-agenda').innerHTML = '<div class="no-results">Error al cargar la agenda deportiva. Intenta recargar más tarde.</div>';
       });
   </script>
 
