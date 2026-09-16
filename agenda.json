@@ -7,14 +7,76 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=Fox%20Sports%202%20USA"
             },
             {
+                "canal": "DSports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=DSports%20%2B"
+            },
+            {
+                "canal": "DSports + I OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=DSports%20%2B%20I%20OP2"
+            },
+            {
+                "canal": "DSports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHNwbHVz&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=DSports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "DSports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=DSports%20%2B%20%7C%20HD"
+            },
+            {
                 "canal": "Fox Sports 2 USA | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "TUDN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=TUDN%20MX"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Estados%20Unidos&ch=Universo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Argentina vs Corea del SurCopa mundial sub20 fifa",
+        "opciones": [
+            {
+                "canal": "Dsports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Argentina%20vs%20Corea%20del%20Sur&ch=Dsports%202"
+            },
+            {
+                "canal": "Dsports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Argentina%20vs%20Corea%20del%20Sur&ch=Dsports%202%20%7C%20OP2"
+            },
+            {
+                "canal": "Dsports 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Argentina%20vs%20Corea%20del%20Sur&ch=Dsports%202%20%7C%20OP3"
+            },
+            {
+                "canal": "Dsports 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Argentina%20vs%20Corea%20del%20Sur&ch=Dsports%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "16:00AFC Champions League Two: Al Wahda vs Al KuwaitAFC Champions League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=AFC%20Champions%20League%20Two%3A%20Al%20Wahda%20vs%20Al%20Kuwait&ch=Disney%2B"
             }
         ]
     },
     {
         "evento": "16:30Copa Mundial Femenina Sub-20 de la FIFA: España vs PortugalCopa mundial sub20 fifa",
         "opciones": [
+            {
+                "canal": "TUDN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Espa%C3%B1a%20vs%20Portugal&ch=TUDN%20MX"
+            },
             {
                 "canal": "Fox Sports 2 USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Espa%C3%B1a%20vs%20Portugal&ch=Fox%20Sports%202%20USA"
@@ -225,6 +287,10 @@
             {
                 "canal": "ESPN 7 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG43&title=UEFA%20Europa%20League%3A%20Sunderland%20vs%20AZ&ch=ESPN%207%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=UEFA%20Europa%20League%3A%20Sunderland%20vs%20AZ&ch=Disney%2B"
             }
         ]
     },
