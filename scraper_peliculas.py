@@ -2,10 +2,10 @@ import asyncio
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 import json
-import os
+import re
 
-async def extraer_peliculas():
-    url_base = "https://cliver.mom/"
+async def extraer_peliculas_mundialtv():
+    url_base = "https://mundialtvweb.blogspot.com/?m=1"
     peliculas = []
 
     print(f"Conectando a {url_base}...")
@@ -18,55 +18,62 @@ async def extraer_peliculas():
 
         try:
             await page.goto(url_base, wait_until="domcontentloaded", timeout=30000)
-            await page.wait_for_timeout(3000)
+            await page.wait_for_timeout(4000)
 
             content = await page.content()
             soup = BeautifulSoup(content, "html.parser")
 
-            # Buscar las tarjetas o contenedores de películas
-            items = soup.select(".item, .movie-item, article, .poster")
+            # Selector típico para las entradas de publicaciones en Blogger
+            posts = soup.select(".post, .post-outer, article, .blog-item")
+            print(f"Entradas encontradas en el blog: {len(posts)}")
 
-            for item in items[:30]:  # Extraer las primeras 30 películas
-                link_tag = item.find("a")
-                img_tag = item.find("img")
-                title_tag = item.find(".title") or item.find("h2") or item.find("h3")
+            for post in posts[:30]:  # Tomamos las primeras 30 publicaciones
+                link_tag = post.find("a")
+                img_tag = post.find("img")
+                title_tag = post.find("h3") or post.find("h2") or post.find(class_="post-title")
 
                 if link_tag and img_tag:
-                    title = title_tag.text.strip() if title_tag else img_tag.get("alt", "Sin título").strip()
+                    title = title_tag.get_text(strip=True) if title_tag else (img_tag.get("alt") or "Sin título").strip()
                     poster = img_tag.get("data-src") or img_tag.get("src") or ""
                     link = link_tag.get("href") or ""
 
-                    if link.startswith("/"):
-                        link = url_base.rstrip("/") + link
-
-                    if title and link:
+                    if title and link and "Sin título" not in title:
                         peliculas.append({
                             "titulo": title,
                             "poster": poster,
                             "url": link
                         })
 
-            print(f"Se encontraron {len(peliculas)} películas.")
+            # Eliminar duplicados basándose en el enlace
+            peliculas_unicas = {p['url']: p for p in peliculas}.values()
+            peliculas = list(peliculas_unicas)
+            print(f"Se procesarán {len(peliculas)} películas/videos únicos.")
 
-            # Extraer servidor de reproductor para cada película encontrada
+            # Entrar a cada enlace para buscar el archivo .mp4 directo
             for idx, pelicula in enumerate(peliculas):
                 try:
-                    print(f"[{idx+1}/{len(peliculas)}] Procesando: {pelicula['titulo']}")
+                    print(f"[{idx+1}/{len(peliculas)}] Buscando MP4 en: {pelicula['titulo']}")
                     await page.goto(pelicula['url'], wait_until="domcontentloaded", timeout=20000)
                     await page.wait_for_timeout(2000)
 
                     p_content = await page.content()
                     p_soup = BeautifulSoup(p_content, "html.parser")
 
-                    # Buscar iframe de video/embed
-                    iframe = p_soup.find("iframe")
-                    if iframe and iframe.get("src"):
-                        embed_src = iframe.get("src")
-                        if embed_src.startswith("//"):
-                            embed_src = "https:" + embed_src
-                        pelicula["embed_url"] = embed_src
-                    else:
-                        pelicula["embed_url"] = pelicula['url']
+                    mp4_url = ""
+
+                    # 1. Buscar en etiquetas <source> o <video>
+                    source_tag = p_soup.find("source", type="video/mp4") or p_soup.find("video")
+                    if source_tag and source_tag.get("src"):
+                        mp4_url = source_tag.get("src")
+
+                    # 2. Si no hay etiqueta video directa, buscar mediante Expresión Regular en el código fuente (muy útil en Blogspot)
+                    if not mp4_url:
+                        match = re.search(r'https?://[^\s<>"]+?\.mp4', p_content)
+                        if match:
+                            mp4_url = match.group(0)
+
+                    # Asignar el enlace .mp4 encontrado, o dejar la URL de respaldo si no hay MP4 visible
+                    pelicula["embed_url"] = mp4_url if mp4_url else pelicula['url']
 
                 except Exception as e:
                     print(f"Error procesando {pelicula['titulo']}: {e}")
@@ -77,14 +84,11 @@ async def extraer_peliculas():
 
         await browser.close()
 
-    # Filtrar solo las películas con datos completos
-    peliculas_validas = [p for p in peliculas if "embed_url" in p]
-
-    # Guardar resultados en JSON
+    # Guardar en peliculas.json
     with open("peliculas.json", "w", encoding="utf-8") as f:
-        json.dump(peliculas_validas, f, ensure_ascii=False, indent=2)
+        json.dump(peliculas, f, ensure_ascii=False, indent=2)
 
-    print("Catálogo actualizado guardado en peliculas.json")
+    print("¡Proceso finalizado! Archivo peliculas.json actualizado con éxito.")
 
 if __name__ == "__main__":
-    asyncio.run(extraer_peliculas())
+    asyncio.run(extraer_peliculas_mundialtv())
