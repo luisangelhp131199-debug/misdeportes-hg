@@ -1,26 +1,5 @@
 [
     {
-        "evento": "00:00MLB – Texas Rangers vs. Boston Red SoxMLB Preseason",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=MLB%20%E2%80%93%20Texas%20Rangers%20vs.%20Boston%20Red%20Sox&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "00:30Copa Sudamericana: São Paulo vs Boca JuniorsCONMEBOL Sudamericana",
         "opciones": [
             {
