@@ -1,49 +1,5 @@
 [
     {
-        "evento": "21:00Guadalajara, dura - Cuartos de final: Kozyreva M. / Lumsden M. vs Guarachi A. / Ninomiya M.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Kozyreva%20M.%20%2F%20Lumsden%20M.%20vs%20Guarachi%20A.%20%2F%20Ninomiya%20M.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "21:00Primera B: San Luis vs AntofagastaChile",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL%20OP2"
-            },
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20San%20Luis%20vs%20Antofagasta&ch=TNT%20Sports%20Premiun%20CL%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "21:00Guadalajara, dura - 1/8 de final: Bucsa C. vs Udvardy P.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI1&title=Guadalajara%2C%20dura%20-%201%2F8%20de%20final%3A%20Bucsa%20C.%20vs%20Udvardy%20P.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "21:15Primera División: ABB vs The StrongestBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20ABB%20vs%20The%20Strongest&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
         "evento": "22:00NCAA Men's Soccer: Penn vs DelawareEstados Unidos",
         "opciones": [
             {
