@@ -293,6 +293,10 @@
             {
                 "canal": "ESPN 4 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40bXg%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Dorados%20vs%20Canc%C3%BAn&ch=ESPN%204%20MX"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Dorados%20vs%20Canc%C3%BAn&ch=Disney%2B"
             }
         ]
     },
