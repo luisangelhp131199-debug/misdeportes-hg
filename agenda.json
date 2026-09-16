@@ -108,6 +108,15 @@
         ]
     },
     {
+        "evento": "17:00MLB: Cleveland Guardians vs Chicago White SoxMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=MLB%3A%20Cleveland%20Guardians%20vs%20Chicago%20White%20Sox&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "17:00LaLiga: Atlético Madrid vs OsasunaEspaña",
         "opciones": [
             {
@@ -166,6 +175,15 @@
             {
                 "canal": "Espn+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMg%3D%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Sevilla&ch=Espn%2B"
+            }
+        ]
+    },
+    {
+        "evento": "17:00Sao Paulo, dura - 1/16 de final: Leme Da Silva N. V. vs Sharma A.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIx&title=Sao%20Paulo%2C%20dura%20-%201%2F16%20de%20final%3A%20Leme%20Da%20Silva%20N.%20V.%20vs%20Sharma%20A.&ch=Disney%2B"
             }
         ]
     },
