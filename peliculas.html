@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Películas HG</title>
+    <title>MundialTV HG</title>
     <style>
         body {
             background-color: #0d1117;
@@ -75,7 +75,7 @@
             overflow: hidden;
             text-overflow: ellipsis;
         }
-        /* Estilos del Modal del reproductor */
+        /* Estilos del Modal */
         #modal-reproductor {
             display: none;
             position: fixed;
@@ -83,7 +83,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0, 0, 0, 0.85);
+            background: rgba(0, 0, 0, 0.88);
             z-index: 9999;
             justify-content: center;
             align-items: center;
@@ -121,35 +121,40 @@
             background: black;
             border-radius: 6px;
             overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
-        .contenedor-video iframe {
+        video {
             width: 100%;
             height: 100%;
-            border: none;
+            outline: none;
         }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>🎬 MisPelículas HG</h1>
+        <h1>📺 MundialTV HG</h1>
     </header>
 
     <div class="buscador-container">
-        <input type="text" id="buscador" placeholder="Buscar película o serie..." onkeyup="filtrarPeliculas()">
+        <input type="text" id="buscador" placeholder="Buscar contenido..." onkeyup="filtrarPeliculas()">
     </div>
 
     <div id="grid" class="grid-peliculas">
-        <!-- Las películas se cargarán automáticamente aquí -->
+        <!-- Las películas se cargan dinámicamente aquí -->
     </div>
 
-    <!-- Modal para Reproductor Propio -->
+    <!-- Modal con Reproductor Nativo HTML5 -->
     <div id="modal-reproductor">
         <div class="modal-contenido">
             <button class="cerrar-modal" onclick="cerrarReproductor()">X</button>
             <h2 id="titulo-modal">Reproduciendo</h2>
-            <div class="contenedor-video" id="contenedor-iframe">
-                <!-- El iframe se inyecta aquí dinámicamente -->
+            <div class="contenedor-video">
+                <video id="videoReproductor" controls autoplay>
+                    Tu navegador no soporta la reproducción de video.
+                </video>
             </div>
         </div>
     </div>
@@ -157,7 +162,7 @@
     <script>
         let listaPeliculas = [];
 
-        // Cargar el archivo peliculas.json generado por GitHub Actions
+        // Cargar el archivo peliculas.json
         fetch('peliculas.json')
             .then(response => response.json())
             .then(data => {
@@ -178,7 +183,9 @@
             peliculas.forEach(pelicula => {
                 const tarjeta = document.createElement('div');
                 tarjeta.className = 'tarjeta';
-                tarjeta.onclick = () => abrirPelicula(pelicula.titulo, pelicula.embed_url || pelicula.url);
+                
+                // Al hacer clic, abre la función del reproductor mandándole el embed_url (el mp4 o link directo)
+                tarjeta.onclick = () => abrirPelicula(pelicula.titulo, pelicula.embed_url);
 
                 tarjeta.innerHTML = `
                     <img src="${pelicula.poster}" alt="${pelicula.titulo}" loading="lazy">
@@ -196,16 +203,18 @@
 
         function abrirPelicula(titulo, urlVideo) {
             document.getElementById('titulo-modal').innerText = titulo;
-            const contenedor = document.getElementById('contenedor-iframe');
+            const videoElem = document.getElementById('videoReproductor');
             
-            // Carga limpia dentro de tu propia interfaz sin salir de la página
-            contenedor.innerHTML = `<iframe src="${urlVideo}" allowfullscreen></iframe>`;
+            videoElem.src = urlVideo;
             document.getElementById('modal-reproductor').style.display = 'flex';
+            videoElem.play().catch(e => console.log("Autoplay bloqueado por el navegador:", e));
         }
 
         function cerrarReproductor() {
+            const videoElem = document.getElementById('videoReproductor');
+            videoElem.pause();
+            videoElem.src = ''; // Detiene la descarga del video al cerrar
             document.getElementById('modal-reproductor').style.display = 'none';
-            document.getElementById('contenedor-iframe').innerHTML = '';
         }
     </script>
 </body>
