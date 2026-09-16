@@ -209,11 +209,20 @@
         ]
     },
     {
-        "evento": "18:45Carabao Cup: Everton vs WolvesInglaterra",
+        "evento": "18:30Guadalajara, dura - Cuartos de final: Cavalle-Reimers Y. / Salden L. vs Kobori M. / Plipuech P.Tennis",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=Carabao%20Cup%3A%20Everton%20vs%20Wolves&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Cavalle-Reimers%20Y.%20%2F%20Salden%20L.%20vs%20Kobori%20M.%20%2F%20Plipuech%20P.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45EFL Cup: Everton vs Wolverhampton WanderersInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=EFL%20Cup%3A%20Everton%20vs%20Wolverhampton%20Wanderers&ch=Disney%2B"
             }
         ]
     },
