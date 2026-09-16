@@ -188,12 +188,12 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20%7C%20HD"
             },
             {
-                "canal": "DirecTV Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DirecTV%20Sports"
-            },
-            {
                 "canal": "DSports Eventos",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=DSports%20Eventos"
+            },
+            {
+                "canal": "Directv Eventos",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Copa%20Sudamericana%3A%20S%C3%A3o%20Paulo%20vs%20Boca%20Juniors&ch=Directv%20Eventos"
             },
             {
                 "canal": "DSports",
