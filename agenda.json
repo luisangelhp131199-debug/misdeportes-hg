@@ -1,22 +1,5 @@
 [
     {
-        "evento": "23:30Primera B: Unión Española vs Deportes TemucoChile",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL%20OP2"
-            },
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20Uni%C3%B3n%20Espa%C3%B1ola%20vs%20Deportes%20Temuco&ch=TNT%20Sports%20Premiun%20CL%20HD"
-            }
-        ]
-    },
-    {
         "evento": "00:00MLB – Texas Rangers vs. Boston Red SoxMLB Preseason",
         "opciones": [
             {
