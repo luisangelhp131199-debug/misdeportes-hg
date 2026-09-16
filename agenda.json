@@ -271,48 +271,6 @@
         ]
     },
     {
-        "evento": "19:00UEFA Europa League: Anderlecht vs Olympique LyonnaisUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Milan vs BenficaUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "19:00Carabao Cup: Manchester United vs Brighton &amp; Hove AlbionInglaterra",
         "opciones": [
             {
@@ -376,11 +334,70 @@
         ]
     },
     {
+        "evento": "19:00UEFA Europa League: Anderlecht vs Olympique LyonnaisUEFA Europa League",
+        "opciones": [
+            {
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=ESPN%203%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=UEFA%20Europa%20League%3A%20Anderlecht%20vs%20Olympique%20Lyonnais&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00UEFA Europa League: Milan vs BenficaUEFA Europa League",
+        "opciones": [
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=UEFA%20Europa%20League%3A%20Milan%20vs%20Benfica&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "19:00UEFA Europa League: Sturm Graz vs RennesUEFA Europa League",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=UEFA%20Europa%20League%3A%20Sturm%20Graz%20vs%20Rennes&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00UEFA Europa League: Hapoel Be'er Sheva vs Dinamo ZagrebUEFA Europa League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEz&title=UEFA%20Europa%20League%3A%20Hapoel%20Be'er%20Sheva%20vs%20Dinamo%20Zagreb&ch=Disney%2B"
             }
         ]
     },
@@ -398,6 +415,10 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Europa%20League%3A%20Bayer%20Leverkusen%20vs%20Celje&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=UEFA%20Europa%20League%3A%20Bayer%20Leverkusen%20vs%20Celje&ch=Disney%2B"
             }
         ]
     },
@@ -432,19 +453,65 @@
         ]
     },
     {
-        "evento": "22:00Copa Libertadores: LDU Quito vs PalmeirasCopa Libertadores",
+        "evento": "19:30LaLiga: Levante vs Athletic ClubEspaña",
         "opciones": [
             {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=ESPN"
+                "canal": "Dsports Argentina",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Levante%20vs%20Athletic%20Club&ch=Dsports%20Argentina"
             },
             {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=ESPN%20AR%E2%94%83OP2"
+                "canal": "DSports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Levante%20vs%20Athletic%20Club&ch=DSports"
             },
             {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=ESPN%20AR%E2%94%83OP3"
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Levante%20vs%20Athletic%20Club&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzNA%3D%3D&title=LaLiga%3A%20Levante%20vs%20Athletic%20Club&ch=Espn%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:30LaLiga: Barcelona vs Racing SantanderEspaña",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=LaLiga%3A%20Barcelona%20vs%20Racing%20Santander&ch=Disney%2B"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMw%3D%3D&title=LaLiga%3A%20Barcelona%20vs%20Racing%20Santander&ch=Espn%2B"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Barcelona%20vs%20Racing%20Santander&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Barcelona%20vs%20Racing%20Santander&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Barcelona%20vs%20Racing%20Santander&ch=ESPN%20Deportes%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "22:00Copa Sudamericana: Atlético Mineiro vs SantosCONMEBOL Sudamericana",
+        "opciones": [
+            {
+                "canal": "Dsports Argentina",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=Copa%20Sudamericana%3A%20Atl%C3%A9tico%20Mineiro%20vs%20Santos&ch=Dsports%20Argentina"
+            },
+            {
+                "canal": "DSports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Sudamericana%3A%20Atl%C3%A9tico%20Mineiro%20vs%20Santos&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Sudamericana%3A%20Atl%C3%A9tico%20Mineiro%20vs%20Santos&ch=DSports%20%7C%20OP3"
             }
         ]
     },
@@ -470,11 +537,57 @@
         ]
     },
     {
+        "evento": "22:00Copa Libertadores: LDU Quito vs PalmeirasCopa Libertadores",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=Disney%2B"
+            },
+            {
+                "canal": "Fox Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=Fox%20Sports"
+            },
+            {
+                "canal": "Fox Sports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=Fox%20Sports%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 4 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40bXg%3D&title=Copa%20Libertadores%3A%20LDU%20Quito%20vs%20Palmeiras&ch=ESPN%204%20MX"
+            }
+        ]
+    },
+    {
         "evento": "22:30Primera División: Nacional Potosí vs Always ReadyBolivia",
         "opciones": [
             {
                 "canal": "Entel TV PLUS+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Nacional%20Potos%C3%AD%20vs%20Always%20Ready&ch=Entel%20TV%20PLUS%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:30Brasileirão: Botafogo vs GrêmioBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Botafogo%20vs%20Gr%C3%AAmio&ch=Premiere%20BR"
+            },
+            {
+                "canal": "Premiere BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Botafogo%20vs%20Gr%C3%AAmio&ch=Premiere%20BR%20%7C%20HD"
             }
         ]
     },
