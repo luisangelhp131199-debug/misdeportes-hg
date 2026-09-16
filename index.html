@@ -42,7 +42,7 @@
         }
         .grid-peliculas {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
             gap: 15px;
             padding: 15px;
             max-width: 1200px;
@@ -63,7 +63,7 @@
         }
         .tarjeta img {
             width: 100%;
-            height: 200px;
+            height: 220px;
             object-fit: cover;
             background-color: #21262d;
         }
@@ -71,11 +71,14 @@
             padding: 10px;
             font-size: 0.85rem;
             text-align: center;
-            white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            height: 35px;
         }
-        /* Estilos del Modal */
+        /* Modal del reproductor */
         #modal-reproductor {
             display: none;
             position: fixed;
@@ -83,7 +86,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0, 0, 0, 0.88);
+            background: rgba(0, 0, 0, 0.9);
             z-index: 9999;
             justify-content: center;
             align-items: center;
@@ -139,14 +142,14 @@
     </header>
 
     <div class="buscador-container">
-        <input type="text" id="buscador" placeholder="Buscar contenido..." onkeyup="filtrarPeliculas()">
+        <input type="text" id="buscador" placeholder="Buscar película o serie..." onkeyup="filtrarPeliculas()">
     </div>
 
     <div id="grid" class="grid-peliculas">
         <!-- Las películas se cargan dinámicamente aquí -->
     </div>
 
-    <!-- Modal con Reproductor Nativo HTML5 -->
+    <!-- Modal Reproductor -->
     <div id="modal-reproductor">
         <div class="modal-contenido">
             <button class="cerrar-modal" onclick="cerrarReproductor()">X</button>
@@ -162,8 +165,8 @@
     <script>
         let listaPeliculas = [];
 
-        // Cargar el archivo peliculas.json
-        fetch('peliculas.json')
+        // Forzamos la lectura fresca del JSON con ?v= para evitar caché
+        fetch('peliculas.json?v=' + new Date().getTime())
             .then(response => response.json())
             .then(data => {
                 listaPeliculas = data;
@@ -176,7 +179,7 @@
             grid.innerHTML = '';
 
             if (peliculas.length === 0) {
-                grid.innerHTML = '<p style="text-align:center; grid-column:1/-1; color:#8b949e;">No se encontraron resultados</p>';
+                grid.innerHTML = '<p style="text-align:center; grid-column:1/-1; color:#8b949e;">No se encontraron resultados en el JSON</p>';
                 return;
             }
 
@@ -184,11 +187,15 @@
                 const tarjeta = document.createElement('div');
                 tarjeta.className = 'tarjeta';
                 
-                // Al hacer clic, abre la función del reproductor mandándole el embed_url (el mp4 o link directo)
-                tarjeta.onclick = () => abrirPelicula(pelicula.titulo, pelicula.embed_url);
+                // Si el embed_url es un .mp4 lo reproduce, si no, usa la url principal
+                let videoLink = pelicula.embed_url && pelicula.embed_url.includes('.mp4') 
+                    ? pelicula.embed_url 
+                    : pelicula.url;
+
+                tarjeta.onclick = () => abrirPelicula(pelicula.titulo, videoLink);
 
                 tarjeta.innerHTML = `
-                    <img src="${pelicula.poster}" alt="${pelicula.titulo}" loading="lazy">
+                    <img src="${pelicula.poster}" alt="${pelicula.titulo}" loading="lazy" onerror="this.src='https://via.placeholder.com/150?text=Sin+Imagen'">
                     <div class="info">${pelicula.titulo}</div>
                 `;
                 grid.appendChild(tarjeta);
@@ -205,15 +212,23 @@
             document.getElementById('titulo-modal').innerText = titulo;
             const videoElem = document.getElementById('videoReproductor');
             
-            videoElem.src = urlVideo;
-            document.getElementById('modal-reproductor').style.display = 'flex';
-            videoElem.play().catch(e => console.log("Autoplay bloqueado por el navegador:", e));
+            // Verificamos si es un enlace de video directo o una página web
+            if (urlVideo.endsWith('.mp4') || urlVideo.includes('.mp4?')) {
+                videoElem.style.display = 'block';
+                videoElem.src = urlVideo;
+                document.getElementById('modal-reproductor').style.display = 'flex';
+                videoElem.play().catch(e => console.log("Autoplay restringido:", e));
+            } else {
+                // Si es un enlace de Blogspot normal que no dio MP4, lo abrimos en pestaña nueva o aviso
+                alert("Este contenido requiere abrirse desde su fuente original.");
+                window.open(urlVideo, '_blank');
+            }
         }
 
         function cerrarReproductor() {
             const videoElem = document.getElementById('videoReproductor');
             videoElem.pause();
-            videoElem.src = ''; // Detiene la descarga del video al cerrar
+            videoElem.src = '';
             document.getElementById('modal-reproductor').style.display = 'none';
         }
     </script>
