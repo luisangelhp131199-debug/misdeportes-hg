@@ -1,96 +1,5 @@
 [
     {
-        "evento": "16:30Copa Mundial Femenina Sub-20 de la FIFA: Polonia vs ColombiaCopa mundial sub20 fifa",
-        "opciones": [
-            {
-                "canal": "Dsports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202"
-            },
-            {
-                "canal": "Dsports 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202%20%7C%20OP2"
-            },
-            {
-                "canal": "Dsports 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202%20%7C%20HD"
-            },
-            {
-                "canal": "Dsports 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202%20%7C%20OP3"
-            },
-            {
-                "canal": "TUDN MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=TUDN%20MX"
-            },
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Fox%20Sports%202%20USA"
-            }
-        ]
-    },
-    {
-        "evento": "16:45UEFA Europa League: OFI vs HoffenheimUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Europa%20League%3A%20OFI%20vs%20Hoffenheim&ch=ESPN%204"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Europa%20League%3A%20OFI%20vs%20Hoffenheim&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Europa%20League%3A%20OFI%20vs%20Hoffenheim&ch=ESPN%204%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=UEFA%20Europa%20League%3A%20OFI%20vs%20Hoffenheim&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:45UEFA Europa League: Levski Sofia vs SalzburgUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=Disney%2B"
-            },
-            {
-                "canal": "TUDN USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA"
-            },
-            {
-                "canal": "TUDN USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA%20%7C%20OP2"
-            },
-            {
-                "canal": "TUDN USA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA%20%7C%20OP3"
-            },
-            {
-                "canal": "TUDN USA | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "17:00LaLiga: Real Betis vs GetafeEspaña",
         "opciones": [
             {
@@ -173,6 +82,15 @@
             {
                 "canal": "Paramount+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXBhcmFtb3VudDE%3D&title=EFL%20Cup%3A%20Manchester%20City%20vs%20Norwich%20City&ch=Paramount%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00MLB – Colorado Rockies vs. San Diego PadresMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=MLB%20%E2%80%93%20Colorado%20Rockies%20vs.%20San%20Diego%20Padres&ch=Disney%2B"
             }
         ]
     },
