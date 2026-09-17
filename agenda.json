@@ -1,14 +1,5 @@
 [
     {
-        "evento": "12:15AFC Champions League Two: Shanghai Shenhua vs Tampines RoversAFC Champions League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=AFC%20Champions%20League%20Two%3A%20Shanghai%20Shenhua%20vs%20Tampines%20Rovers&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Inglaterra vs NigeriaCopa mundial sub20 fifa",
         "opciones": [
             {
@@ -55,7 +46,7 @@
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Candiotto%20A.%20%2F%20Fullana%20L.%20vs%20Dang%20Y.%20%2F%20You%20X.&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Candiotto%20A.%20%2F%20Fullana%20L.%20vs%20Dang%20Y.%20%2F%20You%20X.&ch=Disney%2B"
             }
         ]
     },
@@ -65,6 +56,49 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Dabrowski%20G.%20%2F%20Stefani%20L.%20vs%20Pereira%20R.%20%2F%20Souza%20M.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "15:00Golf – BMW PGA Championship – Primera VueltaGolf",
+        "opciones": [
+            {
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "15:10WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Avanesyan E. vs Charaeva A.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Avanesyan%20E.%20vs%20Charaeva%20A.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "16:00WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Lamens S. vs Sierra S.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Lamens%20S.%20vs%20Sierra%20S.&ch=Disney%2B"
             }
         ]
     },
