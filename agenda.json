@@ -168,16 +168,16 @@
         "evento": "00:00Campeones Cup: Inter Miami vs Cruz AzulLeague Cup",
         "opciones": [
             {
-                "canal": "Canal 5 MX HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA%3D%3D&title=Campeones%20Cup%3A%20Inter%20Miami%20vs%20Cruz%20Azul&ch=Canal%205%20MX%20HD"
-            },
-            {
                 "canal": "Canal 5 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=Campeones%20Cup%3A%20Inter%20Miami%20vs%20Cruz%20Azul&ch=Canal%205%20MX"
             },
             {
                 "canal": "TUDN MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Campeones%20Cup%3A%20Inter%20Miami%20vs%20Cruz%20Azul&ch=TUDN%20MX"
+            },
+            {
+                "canal": "Canal 5 MX HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA%3D%3D&title=Campeones%20Cup%3A%20Inter%20Miami%20vs%20Cruz%20Azul&ch=Canal%205%20MX%20HD"
             }
         ]
     },
