@@ -1,57 +1,5 @@
 [
     {
-        "evento": "17:00LaLiga: Real Betis vs GetafeEspaña",
-        "opciones": [
-            {
-                "canal": "Dsports Argentina",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=Dsports%20Argentina"
-            },
-            {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports%20%7C%20OP2"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports%20%7C%20OP3"
-            },
-            {
-                "canal": "Espn+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=Espn%2B"
-            }
-        ]
-    },
-    {
-        "evento": "17:45WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Salkova D. vs Stoiana M.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Salkova%20D.%20vs%20Stoiana%20M.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "17:45WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Blinkova A. vs Valdmannova V.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Blinkova%20A.%20vs%20Valdmannova%20V.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "17:45WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Ortenzi J. vs Badosa P.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Ortenzi%20J.%20vs%20Badosa%20P.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "18:00Torneo de Reserva: Estudiantes Rio Cuarto vs EstudiantesArgentina",
         "opciones": [
             {
@@ -268,6 +216,24 @@
         ]
     },
     {
+        "evento": "19:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: McAdoo R. / Osborne A. vs Barros V. L. / Leme Da Silva N. V.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20McAdoo%20R.%20%2F%20Osborne%20A.%20vs%20Barros%20V.%20L.%20%2F%20Leme%20Da%20Silva%20N.%20V.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Mikulskyte J. / Smith A. vs Strakhova V. / Tikhonova A.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Mikulskyte%20J.%20%2F%20Smith%20A.%20vs%20Strakhova%20V.%20%2F%20Tikhonova%20A.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "19:30LaLiga: Málaga vs VillarrealEspaña",
         "opciones": [
             {
@@ -303,6 +269,15 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Ohio%20vs%20Western%20Mich.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "20:30WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Lys E. vs Podoroska N.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Lys%20E.%20vs%20Podoroska%20N.&ch=Disney%2B"
             }
         ]
     },
