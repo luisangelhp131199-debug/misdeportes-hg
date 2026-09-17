@@ -1,48 +1,5 @@
 [
     {
-        "evento": "15:00Golf – BMW PGA Championship – Primera VueltaGolf",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "15:10WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Avanesyan E. vs Charaeva A.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Avanesyan%20E.%20vs%20Charaeva%20A.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:00WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Leme Da Silva N. V. vs Quevedo K.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Leme%20Da%20Silva%20N.%20V.%20vs%20Quevedo%20K.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "16:30Copa Mundial Femenina Sub-20 de la FIFA: Polonia vs ColombiaCopa mundial sub20 fifa",
         "opciones": [
             {
@@ -155,6 +112,33 @@
             {
                 "canal": "Espn+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=Espn%2B"
+            }
+        ]
+    },
+    {
+        "evento": "17:45WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Salkova D. vs Stoiana M.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Salkova%20D.%20vs%20Stoiana%20M.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "17:45WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Blinkova A. vs Valdmannova V.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Blinkova%20A.%20vs%20Valdmannova%20V.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "17:45WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Ortenzi J. vs Badosa P.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Ortenzi%20J.%20vs%20Badosa%20P.&ch=Disney%2B"
             }
         ]
     },
