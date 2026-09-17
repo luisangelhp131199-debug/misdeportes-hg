@@ -1,26 +1,5 @@
 [
     {
-        "evento": "18:00Torneo de Reserva: Estudiantes Rio Cuarto vs EstudiantesArgentina",
-        "opciones": [
-            {
-                "canal": "TNT Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Torneo%20de%20Reserva%3A%20Estudiantes%20Rio%20Cuarto%20vs%20Estudiantes&ch=TNT%20Sports"
-            },
-            {
-                "canal": "TNT Sports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Torneo%20de%20Reserva%3A%20Estudiantes%20Rio%20Cuarto%20vs%20Estudiantes&ch=TNT%20Sports%20%7C%20OP2"
-            },
-            {
-                "canal": "TNT Sports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Torneo%20de%20Reserva%3A%20Estudiantes%20Rio%20Cuarto%20vs%20Estudiantes&ch=TNT%20Sports%20%7C%20OP3"
-            },
-            {
-                "canal": "TNT Sports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Torneo%20de%20Reserva%3A%20Estudiantes%20Rio%20Cuarto%20vs%20Estudiantes&ch=TNT%20Sports%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "18:30EFL Cup: Manchester City vs Norwich CityInglaterra",
         "opciones": [
             {
