@@ -3,20 +3,20 @@
         "evento": "11:00Golf – BMW PGA Championship – Primera VueltaGolf",
         "opciones": [
             {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%202"
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203"
             },
             {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%202%20%7C%20OP2"
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP2"
             },
             {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%202%20%7C%20OP3"
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP3"
             },
             {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%202%20%7C%20HD"
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20HD"
             }
         ]
     },
@@ -26,6 +26,19 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=AFC%20Champions%20League%20Two%3A%20Shanghai%20Shenhua%20vs%20Tampines%20Rovers&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Inglaterra vs NigeriaCopa mundial sub20 fifa",
+        "opciones": [
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
             }
         ]
     },
