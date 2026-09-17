@@ -329,6 +329,15 @@
         ]
     },
     {
+        "evento": "19:00League One: AFC Wimbledon vs Milton Keynes DonsInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=League%20One%3A%20AFC%20Wimbledon%20vs%20Milton%20Keynes%20Dons&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "19:00UEFA Europa League: Juventus vs NECUEFA Europa League",
         "opciones": [
             {
@@ -400,6 +409,15 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=UEFA%20Europa%20League%3A%20Lillestr%C3%B8m%20vs%20Torreense&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Bucsa C. vs Bejlek S.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Bucsa%20C.%20vs%20Bejlek%20S.&ch=Disney%2B"
             }
         ]
     },
