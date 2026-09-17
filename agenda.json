@@ -1,18 +1,5 @@
 [
     {
-        "evento": "18:30EFL Cup: Manchester City vs Norwich CityInglaterra",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=EFL%20Cup%3A%20Manchester%20City%20vs%20Norwich%20City&ch=Disney%2B"
-            },
-            {
-                "canal": "Paramount+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXBhcmFtb3VudDE%3D&title=EFL%20Cup%3A%20Manchester%20City%20vs%20Norwich%20City&ch=Paramount%2B"
-            }
-        ]
-    },
-    {
         "evento": "19:00MLB – Colorado Rockies vs. San Diego PadresMLB Preseason",
         "opciones": [
             {
@@ -266,6 +253,15 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=NCAA%20Women's%20Volleyball%3A%20Cal%20state%20Fullerton%20vs%20Tulane&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "21:55WTA - DOBLES - Guadalajara, dura - Semifinales: Bucsa C. / Melichar-Martinez N. vs Kozyreva M. / Lumsden M.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=WTA%20-%20DOBLES%20-%20Guadalajara%2C%20dura%20-%20Semifinales%3A%20Bucsa%20C.%20%2F%20Melichar-Martinez%20N.%20vs%20Kozyreva%20M.%20%2F%20Lumsden%20M.&ch=Disney%2B"
             }
         ]
     },
