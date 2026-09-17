@@ -37,21 +37,76 @@
         "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Inglaterra vs NigeriaCopa mundial sub20 fifa",
         "opciones": [
             {
+                "canal": "Dsports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202"
+            },
+            {
+                "canal": "TUDN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=TUDN%20MX"
+            },
+            {
                 "canal": "Fox Sports 2 USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA"
             },
             {
                 "canal": "Fox Sports 2 USA | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "TUDN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=TUDN"
             }
         ]
     },
     {
-        "evento": "14:00WTA - DOBLES - Sao Paulo, dura - 1/8 de finalTennis",
+        "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Francia vs CanadáCopa mundial sub20 fifa",
+        "opciones": [
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=Universo%20%7C%20HD"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=Universo"
+            },
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=Fox%20Sports%202%20USA"
+            }
+        ]
+    },
+    {
+        "evento": "14:00WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Candiotto A. / Fullana L. vs Dang Y. / You X.Tennis",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Candiotto%20A.%20%2F%20Fullana%20L.%20vs%20Dang%20Y.%20%2F%20You%20X.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "14:00WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Dabrowski G. / Stefani L. vs Pereira R. / Souza M.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Dabrowski%20G.%20%2F%20Stefani%20L.%20vs%20Pereira%20R.%20%2F%20Souza%20M.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "16:30Copa Mundial Femenina Sub-20 de la FIFA: Polonia vs ColombiaCopa mundial sub20 fifa",
+        "opciones": [
+            {
+                "canal": "Dsports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202"
+            },
+            {
+                "canal": "TUDN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=TUDN%20MX"
+            },
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Fox%20Sports%202%20USA"
             }
         ]
     },
