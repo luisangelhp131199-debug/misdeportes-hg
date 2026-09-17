@@ -207,15 +207,6 @@
         ]
     },
     {
-        "evento": "19:00WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Bucsa C. vs Bejlek S.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Bucsa%20C.%20vs%20Bejlek%20S.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "19:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: McAdoo R. / Osborne A. vs Barros V. L. / Leme Da Silva N. V.Tennis",
         "opciones": [
             {
@@ -282,11 +273,20 @@
         ]
     },
     {
+        "evento": "20:30WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Frech M. vs Jovic I.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Frech%20M.%20vs%20Jovic%20I.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "21:00NCAA Women's Volleyball: Cal state Fullerton vs TulaneEstados Unidos",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=NCAA%20Women's%20Volleyball%3A%20Cal%20state%20Fullerton%20vs%20Tulane&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=NCAA%20Women's%20Volleyball%3A%20Cal%20state%20Fullerton%20vs%20Tulane&ch=Disney%2B"
             }
         ]
     },
