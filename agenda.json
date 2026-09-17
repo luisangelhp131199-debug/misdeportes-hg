@@ -1,23 +1,5 @@
 [
     {
-        "evento": "20:00NCAA Women's Soccer: Villanova vs DelawareEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Villanova%20vs%20Delaware&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "20:00NCAA Women's Soccer: Ohio vs Western Mich.Estados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Ohio%20vs%20Western%20Mich.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "20:30WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Lys E. vs Podoroska N.Tennis",
         "opciones": [
             {
@@ -86,6 +68,15 @@
             {
                 "canal": "Entel TV PLUS+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Real%20Tomayapo%20vs%20Oriente%20Petrolero&ch=Entel%20TV%20PLUS%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00Campeonato de Clubes del Caribe: Cibao vs Portmore UnitedCopa del Caribe",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Campeonato%20de%20Clubes%20del%20Caribe%3A%20Cibao%20vs%20Portmore%20United&ch=Disney%2B"
             }
         ]
     },
