@@ -1,178 +1,5 @@
 [
     {
-        "evento": "19:00MLB – Colorado Rockies vs. San Diego PadresMLB Preseason",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=MLB%20%E2%80%93%20Colorado%20Rockies%20vs.%20San%20Diego%20Padres&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Crystal Palace vs Lech PoznańUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Crystal%20Palace%20vs%20Lech%20Pozna%C5%84&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Crystal%20Palace%20vs%20Lech%20Pozna%C5%84&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Europa%20League%3A%20Crystal%20Palace%20vs%20Lech%20Pozna%C5%84&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Europa%20League%3A%20Crystal%20Palace%20vs%20Lech%20Pozna%C5%84&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=UEFA%20Europa%20League%3A%20Crystal%20Palace%20vs%20Lech%20Pozna%C5%84&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Beşiktaş vs Olympique MarseilleUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Be%C5%9Fikta%C5%9F%20vs%20Olympique%20Marseille&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Be%C5%9Fikta%C5%9F%20vs%20Olympique%20Marseille&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=UEFA%20Europa%20League%3A%20Be%C5%9Fikta%C5%9F%20vs%20Olympique%20Marseille&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=UEFA%20Europa%20League%3A%20Be%C5%9Fikta%C5%9F%20vs%20Olympique%20Marseille&ch=ESPN%203%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=UEFA%20Europa%20League%3A%20Be%C5%9Fikta%C5%9F%20vs%20Olympique%20Marseille&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Real Sociedad vs AFC BournemouthUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 7",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG43&title=UEFA%20Europa%20League%3A%20Real%20Sociedad%20vs%20AFC%20Bournemouth&ch=ESPN%207"
-            },
-            {
-                "canal": "ESPN 7 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG43&title=UEFA%20Europa%20League%3A%20Real%20Sociedad%20vs%20AFC%20Bournemouth&ch=ESPN%207%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 7 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG43&title=UEFA%20Europa%20League%3A%20Real%20Sociedad%20vs%20AFC%20Bournemouth&ch=ESPN%207%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=UEFA%20Europa%20League%3A%20Real%20Sociedad%20vs%20AFC%20Bournemouth&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Viktoria Plzeň vs Union Saint-GilloiseUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=UEFA%20Europa%20League%3A%20Viktoria%20Plze%C5%88%20vs%20Union%20Saint-Gilloise&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00League One: AFC Wimbledon vs Milton Keynes DonsInglaterra",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=League%20One%3A%20AFC%20Wimbledon%20vs%20Milton%20Keynes%20Dons&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Juventus vs NECUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=Disney%2B"
-            },
-            {
-                "canal": "TUDN USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA"
-            },
-            {
-                "canal": "TUDN USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA%20%7C%20OP2"
-            },
-            {
-                "canal": "TUDN USA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA%20%7C%20OP3"
-            },
-            {
-                "canal": "TUDN USA | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA%20%7C%20HD"
-            },
-            {
-                "canal": "Unimas",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaW1hcw%3D%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=Unimas"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Celtic vs FerencvárosUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "ESPN 5",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=UEFA%20Europa%20League%3A%20Celtic%20vs%20Ferencv%C3%A1ros&ch=ESPN%205"
-            },
-            {
-                "canal": "ESPN 5 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=UEFA%20Europa%20League%3A%20Celtic%20vs%20Ferencv%C3%A1ros&ch=ESPN%205%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 5 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=UEFA%20Europa%20League%3A%20Celtic%20vs%20Ferencv%C3%A1ros&ch=ESPN%205%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 5 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=UEFA%20Europa%20League%3A%20Celtic%20vs%20Ferencv%C3%A1ros&ch=ESPN%205%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=UEFA%20Europa%20League%3A%20Celtic%20vs%20Ferencv%C3%A1ros&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Europa League: Lillestrøm vs TorreenseUEFA Europa League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=UEFA%20Europa%20League%3A%20Lillestr%C3%B8m%20vs%20Torreense&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "19:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: McAdoo R. / Osborne A. vs Barros V. L. / Leme Da Silva N. V.Tennis",
         "opciones": [
             {
@@ -257,11 +84,38 @@
         ]
     },
     {
+        "evento": "21:50Hockey: Miami ( oh ) vs LongwoodHokey",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=Hockey%3A%20Miami%20(%20oh%20)%20vs%20Longwood&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "21:55WTA - DOBLES - Guadalajara, dura - Semifinales: Bucsa C. / Melichar-Martinez N. vs Kozyreva M. / Lumsden M.Tennis",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=WTA%20-%20DOBLES%20-%20Guadalajara%2C%20dura%20-%20Semifinales%3A%20Bucsa%20C.%20%2F%20Melichar-Martinez%20N.%20vs%20Kozyreva%20M.%20%2F%20Lumsden%20M.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:00NCAA Women's Soccer: Coastal Carolina vs Queens University of ChaEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=NCAA%20Women's%20Soccer%3A%20Coastal%20Carolina%20vs%20Queens%20University%20of%20Cha&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:10NCAA Women's Volleyball: VCU vs DelawareEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=NCAA%20Women's%20Volleyball%3A%20VCU%20vs%20Delaware&ch=Disney%2B"
             }
         ]
     },
