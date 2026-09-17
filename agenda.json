@@ -467,6 +467,23 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=Disney%2B"
+            },
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=BeIN%20Sports%20%C3%91"
+            }
+        ]
+    },
+    {
+        "evento": "00:30Copa Centroamericana de CONCACAF: Alajuelense vs MarathónCopa Centroamericana",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=Copa%20Centroamericana%20de%20CONCACAF%3A%20Alajuelense%20vs%20Marath%C3%B3n&ch=Disney%2B"
             }
         ]
     },
@@ -521,6 +538,15 @@
             {
                 "canal": "ESPN MX | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=ESPN%20MX%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "03:15Copa Centroamericana de CONCACAF: Olimpia vs FirpoCopa Centroamericana",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Copa%20Centroamericana%20de%20CONCACAF%3A%20Olimpia%20vs%20Firpo&ch=Disney%2B"
             }
         ]
     }
