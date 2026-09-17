@@ -1,23 +1,5 @@
 [
     {
-        "evento": "14:00WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Candiotto A. / Fullana L. vs Dang Y. / You X.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Candiotto%20A.%20%2F%20Fullana%20L.%20vs%20Dang%20Y.%20%2F%20You%20X.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "14:00WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Dabrowski G. / Stefani L. vs Pereira R. / Souza M.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Dabrowski%20G.%20%2F%20Stefani%20L.%20vs%20Pereira%20R.%20%2F%20Souza%20M.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "15:00Golf – BMW PGA Championship – Primera VueltaGolf",
         "opciones": [
             {
@@ -156,11 +138,15 @@
         "opciones": [
             {
                 "canal": "Dsports Argentina",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=Dsports%20Argentina"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=Dsports%20Argentina"
             },
             {
                 "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports%20%7C%20OP2"
             },
             {
                 "canal": "DSports | OP3",
