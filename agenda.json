@@ -45,6 +45,14 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=TUDN%20MX"
             },
             {
+                "canal": "Dsports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202%20%7C%20OP2"
+            },
+            {
+                "canal": "Dsports 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202%20%7C%20OP3"
+            },
+            {
                 "canal": "Fox Sports 2 USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA"
             },
@@ -55,6 +63,10 @@
             {
                 "canal": "TUDN",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=TUDN"
+            },
+            {
+                "canal": "Dsports 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202%20%7C%20HD"
             }
         ]
     },
