@@ -61,10 +61,6 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
             },
             {
-                "canal": "TUDN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=TUDN"
-            },
-            {
                 "canal": "Dsports 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202%20%7C%20HD"
             }
@@ -74,16 +70,8 @@
         "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Francia vs CanadáCopa mundial sub20 fifa",
         "opciones": [
             {
-                "canal": "Universo | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=Universo%20%7C%20HD"
-            },
-            {
-                "canal": "Universo",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=Universo"
-            },
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=Fox%20Sports%202%20USA"
+                "canal": "FOX ONE",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWV2ZW44&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=FOX%20ONE"
             }
         ]
     },
