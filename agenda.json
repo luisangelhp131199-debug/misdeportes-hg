@@ -1,44 +1,5 @@
 [
     {
-        "evento": "23:00WTA - INDIVIDUALES - Sao Paulo, dura - 1/16 de final: Mikulskyte J. vs Badosa P.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F16%20de%20final%3A%20Mikulskyte%20J.%20vs%20Badosa%20P.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "23:10MLB: New York Mets vs Baltimore OriolesMLB Preseason",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=MLB%3A%20New%20York%20Mets%20vs%20Baltimore%20Orioles&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "23:15Primera A: Once Caldas vs Deportes TolimaColombia",
-        "opciones": [
-            {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Once%20Caldas%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Once%20Caldas%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Once%20Caldas%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Once%20Caldas%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "00:00Copa Ecuador: LDU Portoviejo vs DelfinEcuador",
         "opciones": [
             {
