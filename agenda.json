@@ -1,44 +1,5 @@
 [
     {
-        "evento": "19:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: McAdoo R. / Osborne A. vs Barros V. L. / Leme Da Silva N. V.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20McAdoo%20R.%20%2F%20Osborne%20A.%20vs%20Barros%20V.%20L.%20%2F%20Leme%20Da%20Silva%20N.%20V.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Mikulskyte J. / Smith A. vs Strakhova V. / Tikhonova A.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Mikulskyte%20J.%20%2F%20Smith%20A.%20vs%20Strakhova%20V.%20%2F%20Tikhonova%20A.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:30LaLiga: Málaga vs VillarrealEspaña",
-        "opciones": [
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=ESPN%204"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=ESPN%204%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "20:00NCAA Women's Soccer: Villanova vs DelawareEstados Unidos",
         "opciones": [
             {
