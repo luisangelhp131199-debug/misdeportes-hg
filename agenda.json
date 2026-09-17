@@ -1,14 +1,5 @@
 [
     {
-        "evento": "20:40Guadalajara, dura - 1/8 de final: Sonmez Z. vs Jovic I.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=Guadalajara%2C%20dura%20-%201%2F8%20de%20final%3A%20Sonmez%20Z.%20vs%20Jovic%20I.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "22:00Copa Sudamericana: Atlético Mineiro vs SantosCONMEBOL Sudamericana",
         "opciones": [
             {
@@ -98,6 +89,24 @@
             {
                 "canal": "Premiere BR | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Botafogo%20vs%20Gr%C3%AAmio&ch=Premiere%20BR%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:00WTA - INDIVIDUALES - Sao Paulo, dura - 1/16 de final: Mikulskyte J. vs Badosa P.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F16%20de%20final%3A%20Mikulskyte%20J.%20vs%20Badosa%20P.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:10MLB: New York Mets vs Baltimore OriolesMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=MLB%3A%20New%20York%20Mets%20vs%20Baltimore%20Orioles&ch=Disney%2B"
             }
         ]
     },
