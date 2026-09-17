@@ -1,47 +1,5 @@
 [
     {
-        "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Inglaterra vs NigeriaCopa mundial sub20 fifa",
-        "opciones": [
-            {
-                "canal": "Dsports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202"
-            },
-            {
-                "canal": "TUDN MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=TUDN%20MX"
-            },
-            {
-                "canal": "Dsports 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202%20%7C%20OP2"
-            },
-            {
-                "canal": "Dsports 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202%20%7C%20OP3"
-            },
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            },
-            {
-                "canal": "Dsports 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Dsports%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Francia vs CanadáCopa mundial sub20 fifa",
-        "opciones": [
-            {
-                "canal": "FOX ONE",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWV2ZW44&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Francia%20vs%20Canad%C3%A1&ch=FOX%20ONE"
-            }
-        ]
-    },
-    {
         "evento": "14:00WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Candiotto A. / Fullana L. vs Dang Y. / You X.Tennis",
         "opciones": [
             {
@@ -94,11 +52,11 @@
         ]
     },
     {
-        "evento": "16:00WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Lamens S. vs Sierra S.Tennis",
+        "evento": "16:00WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Leme Da Silva N. V. vs Quevedo K.Tennis",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Lamens%20S.%20vs%20Sierra%20S.&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Leme%20Da%20Silva%20N.%20V.%20vs%20Quevedo%20K.&ch=Disney%2B"
             }
         ]
     },
