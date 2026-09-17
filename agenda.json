@@ -17,6 +17,10 @@
             {
                 "canal": "ESPN 3 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=Disney%2B"
             }
         ]
     },
@@ -39,6 +43,15 @@
             {
                 "canal": "Fox Sports 2 USA | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Inglaterra%20vs%20Nigeria&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            }
+        ]
+    },
+    {
+        "evento": "14:00WTA - DOBLES - Sao Paulo, dura - 1/8 de finalTennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final&ch=Disney%2B"
             }
         ]
     },
@@ -225,6 +238,27 @@
             {
                 "canal": "Win Sports + | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Atl%C3%A9tico%20Bucaramanga%20vs%20Medell%C3%ADn&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "00:00NFL – Buffalo Bills vs. Detroit LionsNFL",
+        "opciones": [
+            {
+                "canal": "ESPN 5",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=NFL%20%E2%80%93%20Buffalo%20Bills%20vs.%20Detroit%20Lions&ch=ESPN%205"
+            },
+            {
+                "canal": "ESPN 5 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=NFL%20%E2%80%93%20Buffalo%20Bills%20vs.%20Detroit%20Lions&ch=ESPN%205%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 5 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=NFL%20%E2%80%93%20Buffalo%20Bills%20vs.%20Detroit%20Lions&ch=ESPN%205%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 5 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=NFL%20%E2%80%93%20Buffalo%20Bills%20vs.%20Detroit%20Lions&ch=ESPN%205%20%7C%20HD"
             }
         ]
     },
