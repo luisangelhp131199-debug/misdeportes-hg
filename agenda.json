@@ -1,27 +1,5 @@
 [
     {
-        "evento": "22:30Primera División: Nacional Potosí vs Always ReadyBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Nacional%20Potos%C3%AD%20vs%20Always%20Ready&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:30Brasileirão: Botafogo vs GrêmioBrasil",
-        "opciones": [
-            {
-                "canal": "Premiere BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Botafogo%20vs%20Gr%C3%AAmio&ch=Premiere%20BR"
-            },
-            {
-                "canal": "Premiere BR | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Botafogo%20vs%20Gr%C3%AAmio&ch=Premiere%20BR%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "23:00WTA - INDIVIDUALES - Sao Paulo, dura - 1/16 de final: Mikulskyte J. vs Badosa P.Tennis",
         "opciones": [
             {
