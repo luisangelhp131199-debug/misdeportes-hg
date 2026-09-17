@@ -1,30 +1,5 @@
 [
     {
-        "evento": "11:00Golf – BMW PGA Championship – Primera VueltaGolf",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=ESPN%203%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Primera%20Vuelta&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "12:15AFC Champions League Two: Shanghai Shenhua vs Tampines RoversAFC Champions League",
         "opciones": [
             {
@@ -101,6 +76,18 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202"
             },
             {
+                "canal": "Dsports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202%20%7C%20OP2"
+            },
+            {
+                "canal": "Dsports 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202%20%7C%20HD"
+            },
+            {
+                "canal": "Dsports 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=Dsports%202%20%7C%20OP3"
+            },
+            {
                 "canal": "TUDN MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG5fbXg%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Polonia%20vs%20Colombia&ch=TUDN%20MX"
             },
@@ -124,6 +111,10 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Europa%20League%3A%20OFI%20vs%20Hoffenheim&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=UEFA%20Europa%20League%3A%20OFI%20vs%20Hoffenheim&ch=Disney%2B"
             }
         ]
     },
@@ -145,6 +136,47 @@
             {
                 "canal": "ESPN 3 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=ESPN%203%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=Disney%2B"
+            },
+            {
+                "canal": "TUDN USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA"
+            },
+            {
+                "canal": "TUDN USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "TUDN USA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA%20%7C%20OP3"
+            },
+            {
+                "canal": "TUDN USA | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=UEFA%20Europa%20League%3A%20Levski%20Sofia%20vs%20Salzburg&ch=TUDN%20USA%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "17:00LaLiga: Real Betis vs GetafeEspaña",
+        "opciones": [
+            {
+                "canal": "Dsports Argentina",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=Dsports%20Argentina"
+            },
+            {
+                "canal": "DSports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%20Real%20Betis%20vs%20Getafe&ch=Espn%2B"
             }
         ]
     },
@@ -170,6 +202,19 @@
         ]
     },
     {
+        "evento": "18:30EFL Cup: Manchester City vs Norwich CityInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=EFL%20Cup%3A%20Manchester%20City%20vs%20Norwich%20City&ch=Disney%2B"
+            },
+            {
+                "canal": "Paramount+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXBhcmFtb3VudDE%3D&title=EFL%20Cup%3A%20Manchester%20City%20vs%20Norwich%20City&ch=Paramount%2B"
+            }
+        ]
+    },
+    {
         "evento": "19:00UEFA Europa League: Crystal Palace vs Lech PoznańUEFA Europa League",
         "opciones": [
             {
@@ -187,6 +232,10 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Europa%20League%3A%20Crystal%20Palace%20vs%20Lech%20Pozna%C5%84&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=UEFA%20Europa%20League%3A%20Crystal%20Palace%20vs%20Lech%20Pozna%C5%84&ch=Disney%2B"
             }
         ]
     },
@@ -208,6 +257,10 @@
             {
                 "canal": "ESPN 3 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=UEFA%20Europa%20League%3A%20Be%C5%9Fikta%C5%9F%20vs%20Olympique%20Marseille&ch=ESPN%203%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=UEFA%20Europa%20League%3A%20Be%C5%9Fikta%C5%9F%20vs%20Olympique%20Marseille&ch=Disney%2B"
             }
         ]
     },
@@ -225,6 +278,19 @@
             {
                 "canal": "ESPN 7 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG43&title=UEFA%20Europa%20League%3A%20Real%20Sociedad%20vs%20AFC%20Bournemouth&ch=ESPN%207%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=UEFA%20Europa%20League%3A%20Real%20Sociedad%20vs%20AFC%20Bournemouth&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00UEFA Europa League: Viktoria Plzeň vs Union Saint-GilloiseUEFA Europa League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=UEFA%20Europa%20League%3A%20Viktoria%20Plze%C5%88%20vs%20Union%20Saint-Gilloise&ch=Disney%2B"
             }
         ]
     },
@@ -242,6 +308,30 @@
             {
                 "canal": "ESPN AR┃OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=Disney%2B"
+            },
+            {
+                "canal": "TUDN USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA"
+            },
+            {
+                "canal": "TUDN USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "TUDN USA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA%20%7C%20OP3"
+            },
+            {
+                "canal": "TUDN USA | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=TUDN%20USA%20%7C%20HD"
+            },
+            {
+                "canal": "Unimas",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaW1hcw%3D%3D&title=UEFA%20Europa%20League%3A%20Juventus%20vs%20NEC&ch=Unimas"
             }
         ]
     },
@@ -263,6 +353,40 @@
             {
                 "canal": "ESPN 5 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=UEFA%20Europa%20League%3A%20Celtic%20vs%20Ferencv%C3%A1ros&ch=ESPN%205%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=UEFA%20Europa%20League%3A%20Celtic%20vs%20Ferencv%C3%A1ros&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00UEFA Europa League: Lillestrøm vs TorreenseUEFA Europa League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=UEFA%20Europa%20League%3A%20Lillestr%C3%B8m%20vs%20Torreense&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:30LaLiga: Málaga vs VillarrealEspaña",
+        "opciones": [
+            {
+                "canal": "ESPN 4",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=ESPN%204"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 4 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=ESPN%204%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 4 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20M%C3%A1laga%20vs%20Villarreal&ch=ESPN%204%20%7C%20OP3"
             }
         ]
     },
@@ -314,6 +438,14 @@
             {
                 "canal": "ESPN 5 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=NFL%20%E2%80%93%20Buffalo%20Bills%20vs.%20Detroit%20Lions&ch=ESPN%205%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEz&title=NFL%20%E2%80%93%20Buffalo%20Bills%20vs.%20Detroit%20Lions&ch=Disney%2B"
+            },
+            {
+                "canal": "Fox Sports 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czM%3D&title=NFL%20%E2%80%93%20Buffalo%20Bills%20vs.%20Detroit%20Lions&ch=Fox%20Sports%203"
             }
         ]
     },
@@ -361,6 +493,34 @@
             {
                 "canal": "ESPN AR┃OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=Disney%2B"
+            },
+            {
+                "canal": "Fox Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=Fox%20Sports"
+            },
+            {
+                "canal": "Fox Sports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=Fox%20Sports%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=ESPN%20MX"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=ESPN%20MX%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=ESPN%20MX%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Copa%20Libertadores%3A%20Flamengo%20vs%20Independiente%20del%20Valle&ch=ESPN%20MX%20%7C%20HD"
             }
         ]
     }
