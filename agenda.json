@@ -1,23 +1,5 @@
 [
     {
-        "evento": "00:30Primera División: Blooming vs Universitario de VintoBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Blooming%20vs%20Universitario%20de%20Vinto&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "00:30Copa Centroamericana de CONCACAF: Cartaginés vs Deportivo SaprissaCopa Centroamericana",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=Copa%20Centroamericana%20de%20CONCACAF%3A%20Cartagin%C3%A9s%20vs%20Deportivo%20Saprissa&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "01:20Primera A: Inter Bogotá vs Atlético NacionalColombia",
         "opciones": [
             {
