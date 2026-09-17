@@ -371,6 +371,33 @@
         ]
     },
     {
+        "evento": "20:00NCAA Women's Soccer: Villanova vs DelawareEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Villanova%20vs%20Delaware&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "20:00NCAA Women's Soccer: Ohio vs Western Mich.Estados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Ohio%20vs%20Western%20Mich.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "21:00NCAA Women's Volleyball: Cal state Fullerton vs TulaneEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=NCAA%20Women's%20Volleyball%3A%20Cal%20state%20Fullerton%20vs%20Tulane&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "22:30Primera División: Real Tomayapo vs Oriente PetroleroBolivia",
         "opciones": [
             {
