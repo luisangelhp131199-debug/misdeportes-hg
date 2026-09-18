@@ -1,55 +1,5 @@
 [
     {
-        "evento": "18:30Bundesliga: Bayern München vs Union BerlinAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Sportv%20BR%20HD"
-            },
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Sportv%20BR"
-            },
-            {
-                "canal": "Telemundo",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Telemundo"
-            },
-            {
-                "canal": "Telemundo | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Telemundo%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "18:30LaLiga SmartBank: Albacete vs CórdobaEspaña",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Albacete%20vs%20C%C3%B3rdoba&ch=LaLiga%20TV%20Hypermotion"
-            }
-        ]
-    },
-    {
         "evento": "18:45Serie A: Monza vs SassuoloItalia",
         "opciones": [
             {
