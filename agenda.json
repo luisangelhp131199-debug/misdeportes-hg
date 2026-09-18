@@ -1,10 +1,44 @@
 [
     {
+        "evento": "15:30Golf – BMW PGA Championship – Segunda VueltaGolf",
+        "opciones": [
+            {
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Segunda%20Vuelta&ch=ESPN%203"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Segunda%20Vuelta&ch=ESPN%203%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Segunda%20Vuelta&ch=ESPN%203%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Segunda%20Vuelta&ch=ESPN%203%20%7C%20HD"
+            }
+        ]
+    },
+    {
         "evento": "16:302. Bundesliga: Wolfsburg vs Darmstadt 98Alemania",
         "opciones": [
             {
                 "canal": "Fox Sports 2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Wolfsburg%20vs%20Darmstadt%2098&ch=Fox%20Sports%202"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=2.%20Bundesliga%3A%20Wolfsburg%20vs%20Darmstadt%2098&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "16:302. Bundesliga: Greuther Fürth vs MagdeburgAlemania",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=2.%20Bundesliga%3A%20Greuther%20F%C3%BCrth%20vs%20Magdeburg&ch=Disney%2B"
             }
         ]
     },
@@ -30,16 +64,40 @@
         "evento": "18:30Bundesliga: Bayern München vs Union BerlinAlemania",
         "opciones": [
             {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN"
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Disney%2B"
             },
             {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%20AR%E2%94%83OP2"
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202"
             },
             {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%20AR%E2%94%83OP3"
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Sportv BR HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Sportv%20BR%20HD"
+            },
+            {
+                "canal": "Sportv BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Sportv%20BR"
+            },
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Telemundo"
+            },
+            {
+                "canal": "Telemundo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Bundesliga%3A%20Bayern%20M%C3%BCnchen%20vs%20Union%20Berlin&ch=Telemundo%20%7C%20HD"
             }
         ]
     },
@@ -70,6 +128,18 @@
             {
                 "canal": "ESPN 3 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Serie%20A%3A%20Monza%20vs%20Sassuolo&ch=ESPN%203%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Serie%20A%3A%20Monza%20vs%20Sassuolo&ch=Disney%2B"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Serie%20A%3A%20Monza%20vs%20Sassuolo&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Serie%20A%3A%20Monza%20vs%20Sassuolo&ch=Universo%20%7C%20HD"
             }
         ]
     },
@@ -87,6 +157,14 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Ligue%201%3A%20Monaco%20vs%20Lens&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=Ligue%201%3A%20Monaco%20vs%20Lens&ch=Disney%2B"
+            },
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Ligue%201%3A%20Monaco%20vs%20Lens&ch=BeIN%20Sports%20%C3%91"
             }
         ]
     },
