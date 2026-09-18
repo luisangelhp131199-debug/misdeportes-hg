@@ -1,14 +1,5 @@
 [
     {
-        "evento": "21:50Hockey: Miami ( oh ) vs LongwoodHokey",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=Hockey%3A%20Miami%20(%20oh%20)%20vs%20Longwood&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "21:55WTA - DOBLES - Guadalajara, dura - Semifinales: Bucsa C. / Melichar-Martinez N. vs Kozyreva M. / Lumsden M.Tennis",
         "opciones": [
             {
@@ -148,18 +139,6 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=ESPN%202%20%7C%20HD"
             },
             {
                 "canal": "BeIN Sports Ñ",
