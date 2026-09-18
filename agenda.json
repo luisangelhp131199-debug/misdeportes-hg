@@ -1,23 +1,5 @@
 [
     {
-        "evento": "18:00Eerste Divisie: RKC Waalwijk vs MVVPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 3 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zX25s&title=Eerste%20Divisie%3A%20RKC%20Waalwijk%20vs%20MVV&ch=ESPN%203%20NL"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Eredivisie: Groningen vs PEC ZwollePaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 2 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%3A%20Groningen%20vs%20PEC%20Zwolle&ch=ESPN%202%20NL"
-            }
-        ]
-    },
-    {
         "evento": "18:30Bundesliga: Bayern München vs Union BerlinAlemania",
         "opciones": [
             {
