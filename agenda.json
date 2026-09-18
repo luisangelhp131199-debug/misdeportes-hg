@@ -1,27 +1,5 @@
 [
     {
-        "evento": "16:302. Bundesliga: Wolfsburg vs Darmstadt 98Alemania",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Wolfsburg%20vs%20Darmstadt%2098&ch=Fox%20Sports%202"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=2.%20Bundesliga%3A%20Wolfsburg%20vs%20Darmstadt%2098&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:302. Bundesliga: Greuther Fürth vs MagdeburgAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=2.%20Bundesliga%3A%20Greuther%20F%C3%BCrth%20vs%20Magdeburg&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "17:00WTA - DOBLES - Sao Paulo, dura - Cuartos de final: Barros V. L. / Leme Da Silva N. V. vs Strakhova V. / Tikhonova A.Tennis",
         "opciones": [
             {
@@ -239,6 +217,15 @@
             {
                 "canal": "Espn+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%2014%3A00%20Espanyol%20vs%20Elche&ch=Espn%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00Hockey Femenino: Princenton vs pennsylvaniaHokey",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=Hockey%20Femenino%3A%20Princenton%20vs%20pennsylvania&ch=Disney%2B"
             }
         ]
     },
