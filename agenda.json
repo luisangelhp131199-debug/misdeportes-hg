@@ -52,11 +52,29 @@
         ]
     },
     {
+        "evento": "17:00WTA - DOBLES - Sao Paulo, dura - Cuartos de final: Barros V. L. / Leme Da Silva N. V. vs Strakhova V. / Tikhonova A.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%20Cuartos%20de%20final%3A%20Barros%20V.%20L.%20%2F%20Leme%20Da%20Silva%20N.%20V.%20vs%20Strakhova%20V.%20%2F%20Tikhonova%20A.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "17:00Super Lig: Kasımpaşa vs KonyasporTurquía",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Super%20Lig%3A%20Kas%C4%B1mpa%C5%9Fa%20vs%20Konyaspor&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "17:30vóley femenino universitario de Estados Unidos (NCAA): Central Michigan Chippewas vs. Florida International PanthersEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=v%C3%B3ley%20femenino%20universitario%20de%20Estados%20Unidos%20(NCAA)%3A%20Central%20Michigan%20Chippewas%20vs.%20Florida%20International%20Panthers&ch=Disney%2B"
             }
         ]
     },
@@ -187,32 +205,45 @@
         ]
     },
     {
-        "evento": "19:00Premier League: Brentford vs ChelseaInglaterra",
+        "evento": "19:00Championship: Bristol City vs WatfordInglaterra",
         "opciones": [
             {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=ESPN%202"
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Championship%3A%20Bristol%20City%20vs%20Watford&ch=Disney%2B"
             },
             {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=ESPN%202%20%7C%20HD"
+                "canal": "ESPN 2 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Championship%3A%20Bristol%20City%20vs%20Watford&ch=ESPN%202%20MX"
             }
         ]
     },
     {
-        "evento": "19:00Championship: Bristol City vs WatfordInglaterra",
+        "evento": "19:00Premier League: Brentford vs ChelseaInglaterra",
         "opciones": [
             {
-                "canal": "Fox Sports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=Championship%3A%20Bristol%20City%20vs%20Watford&ch=Fox%20Sports%202"
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=Premier%20League%3A%20Brentford%20vs%20Chelsea&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00Primera División: Sportivo Trinidense vs GuaraníParaguay",
+        "opciones": [
+            {
+                "canal": "fanatiz 01",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXox&title=Primera%20Divisi%C3%B3n%3A%20Sportivo%20Trinidense%20vs%20Guaran%C3%AD&ch=fanatiz%2001"
             }
         ]
     },
@@ -226,6 +257,18 @@
             {
                 "canal": "DSports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%2014%3A00%20Espanyol%20vs%20Elche&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%2014%3A00%20Espanyol%20vs%20Elche&ch=DSports%20%7C%20OP2"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%2014%3A00%20Espanyol%20vs%20Elche&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%2014%3A00%20Espanyol%20vs%20Elche&ch=Espn%2B"
             }
         ]
     },
@@ -268,6 +311,10 @@
             {
                 "canal": "ESPN Premium┃HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Defensa%20y%20Justicia&ch=ESPN%20Premium%E2%94%83HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=Liga%20Profesional%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Defensa%20y%20Justicia&ch=Disney%2B"
             }
         ]
     },
@@ -293,6 +340,15 @@
             {
                 "canal": "Win Sports + | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Rionegro%20%C3%81guilas%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "21:30Primera División: Nacional Asunción vs 2 de MayoParaguay",
+        "opciones": [
+            {
+                "canal": "fanatiz 02",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXoy&title=Primera%20Divisi%C3%B3n%3A%20Nacional%20Asunci%C3%B3n%20vs%202%20de%20Mayo&ch=fanatiz%2002"
             }
         ]
     },
@@ -327,6 +383,19 @@
         ]
     },
     {
+        "evento": "23:30Major League Soccer: New York City vs New York RBEstados Unidos",
+        "opciones": [
+            {
+                "canal": "MLS 01 | EN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM%3D&title=Major%20League%20Soccer%3A%20New%20York%20City%20vs%20New%20York%20RB&ch=MLS%2001%20%7C%20EN"
+            },
+            {
+                "canal": "MLS 01 | Español",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1sczFlcw%3D%3D&title=Major%20League%20Soccer%3A%20New%20York%20City%20vs%20New%20York%20RB&ch=MLS%2001%20%7C%20Espa%C3%B1ol"
+            }
+        ]
+    },
+    {
         "evento": "00:15Liga Profesional: Racing Club vs SarmientoArgentina",
         "opciones": [
             {
@@ -344,6 +413,10 @@
             {
                 "canal": "TNT Sports | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Racing%20Club%20vs%20Sarmiento&ch=TNT%20Sports%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Liga%20Profesional%3A%20Racing%20Club%20vs%20Sarmiento&ch=Disney%2B"
             }
         ]
     },
