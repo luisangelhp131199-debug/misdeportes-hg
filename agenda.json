@@ -1,23 +1,5 @@
 [
     {
-        "evento": "23:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Ovcharenko E. / Pigossi L. vs Stoiana M. / Valdmannova V.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Ovcharenko%20E.%20%2F%20Pigossi%20L.%20vs%20Stoiana%20M.%20%2F%20Valdmannova%20V.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "23:30Fútbol Americano - NCAA: Pittsburgh vs SyracuseAmistosos Paises",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=F%C3%BAtbol%20Americano%20-%20NCAA%3A%20Pittsburgh%20vs%20Syracuse&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "23:55WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Kostyuk M. vs Samsonova L.Tennis",
         "opciones": [
             {
