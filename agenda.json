@@ -1,32 +1,5 @@
 [
     {
-        "evento": "21:55WTA - DOBLES - Guadalajara, dura - Semifinales: Bucsa C. / Melichar-Martinez N. vs Kozyreva M. / Lumsden M.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=WTA%20-%20DOBLES%20-%20Guadalajara%2C%20dura%20-%20Semifinales%3A%20Bucsa%20C.%20%2F%20Melichar-Martinez%20N.%20vs%20Kozyreva%20M.%20%2F%20Lumsden%20M.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:00NCAA Women's Soccer: Coastal Carolina vs Queens University of ChaEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=NCAA%20Women's%20Soccer%3A%20Coastal%20Carolina%20vs%20Queens%20University%20of%20Cha&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:10NCAA Women's Volleyball: VCU vs DelawareEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=NCAA%20Women's%20Volleyball%3A%20VCU%20vs%20Delaware&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "22:30Primera División: Real Tomayapo vs Oriente PetroleroBolivia",
         "opciones": [
             {
@@ -139,6 +112,14 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Copa%20Sudamericana%3A%20Torque%20vs%20Cienciano&ch=ESPN%20AR%E2%94%83OP3"
             },
             {
                 "canal": "BeIN Sports Ñ",
