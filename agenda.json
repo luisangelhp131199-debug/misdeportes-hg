@@ -1,23 +1,5 @@
 [
     {
-        "evento": "20:30WTA - INDIVIDUALES - Sao Paulo, dura - 1/8 de final: Lys E. vs Podoroska N.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Lys%20E.%20vs%20Podoroska%20N.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "20:30WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Frech M. vs Jovic I.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Frech%20M.%20vs%20Jovic%20I.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "21:00NCAA Women's Volleyball: Cal state Fullerton vs TulaneEstados Unidos",
         "opciones": [
             {
@@ -98,6 +80,33 @@
             {
                 "canal": "Win Sports + | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Atl%C3%A9tico%20Bucaramanga%20vs%20Medell%C3%ADn&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:30WTA - DOBLES - Sao Paulo, dura - 1/8 de final: Ovcharenko E. / Pigossi L. vs Stoiana M. / Valdmannova V.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%201%2F8%20de%20final%3A%20Ovcharenko%20E.%20%2F%20Pigossi%20L.%20vs%20Stoiana%20M.%20%2F%20Valdmannova%20V.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:30Fútbol Americano - NCAA: Pittsburgh vs SyracuseAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=F%C3%BAtbol%20Americano%20-%20NCAA%3A%20Pittsburgh%20vs%20Syracuse&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:55WTA - INDIVIDUALES - Guadalajara, dura - Cuartos de final: Kostyuk M. vs Samsonova L.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Cuartos%20de%20final%3A%20Kostyuk%20M.%20vs%20Samsonova%20L.&ch=Disney%2B"
             }
         ]
     },
