@@ -80,11 +80,47 @@
         ]
     },
     {
+        "evento": "22:00NCAA Men's Soccer: Coastal Carolina vs Ga. SouthernEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Coastal%20Carolina%20vs%20Ga.%20Southern&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:30NCAA Women's Hockey: Brown vs. YaleHokey",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=NCAA%20Women's%20Hockey%3A%20Brown%20vs.%20Yale&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "22:30WTA - INDIVIDUALES - Sao Paulo, dura - Cuartos de final: Podoroska N. vs Lamens S.Tennis",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%20Cuartos%20de%20final%3A%20Podoroska%20N.%20vs%20Lamens%20S.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:30NCAA Women's volleyball: Boston College vs. QuinnipiacEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=NCAA%20Women's%20volleyball%3A%20Boston%20College%20vs.%20Quinnipiac&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:30NCAA Women's volleyball: Providence vs. HarvardAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=NCAA%20Women's%20volleyball%3A%20Providence%20vs.%20Harvard&ch=Disney%2B"
             }
         ]
     },
