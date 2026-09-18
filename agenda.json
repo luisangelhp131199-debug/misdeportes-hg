@@ -1,23 +1,5 @@
 [
     {
-        "evento": "17:00WTA - DOBLES - Sao Paulo, dura - Cuartos de final: Barros V. L. / Leme Da Silva N. V. vs Strakhova V. / Tikhonova A.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=WTA%20-%20DOBLES%20-%20Sao%20Paulo%2C%20dura%20-%20Cuartos%20de%20final%3A%20Barros%20V.%20L.%20%2F%20Leme%20Da%20Silva%20N.%20V.%20vs%20Strakhova%20V.%20%2F%20Tikhonova%20A.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "17:00Super Lig: Kasımpaşa vs KonyasporTurquía",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Super%20Lig%3A%20Kas%C4%B1mpa%C5%9Fa%20vs%20Konyaspor&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "17:30vóley femenino universitario de Estados Unidos (NCAA): Central Michigan Chippewas vs. Florida International PanthersEstados Unidos",
         "opciones": [
             {
