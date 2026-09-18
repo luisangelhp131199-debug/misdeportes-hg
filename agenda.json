@@ -1,26 +1,5 @@
 [
     {
-        "evento": "20:00Liga 1: Alianza Atlético vs Comerciantes UnidosPerú",
-        "opciones": [
-            {
-                "canal": "Liga1MAX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Alianza%20Atl%C3%A9tico%20vs%20Comerciantes%20Unidos&ch=Liga1MAX"
-            },
-            {
-                "canal": "Liga1Max | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Alianza%20Atl%C3%A9tico%20vs%20Comerciantes%20Unidos&ch=Liga1Max%20%7C%20OP2"
-            },
-            {
-                "canal": "Liga1Max | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Alianza%20Atl%C3%A9tico%20vs%20Comerciantes%20Unidos&ch=Liga1Max%20%7C%20OP3"
-            },
-            {
-                "canal": "Liga1MAX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Alianza%20Atl%C3%A9tico%20vs%20Comerciantes%20Unidos&ch=Liga1MAX%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "21:00Liga Profesional: Central Córdoba SdE vs Defensa y JusticiaArgentina",
         "opciones": [
             {
@@ -125,6 +104,15 @@
         ]
     },
     {
+        "evento": "23:00NCAA Men's Soccer: James Madison vs UCFEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=NCAA%20Men's%20Soccer%3A%20James%20Madison%20vs%20UCF&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "23:00Primera División: Independiente Petrolero vs San Antonio Bulo BuloBolivia",
         "opciones": [
             {
@@ -151,6 +139,33 @@
             {
                 "canal": "ESPN 5 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=MLB%20%E2%80%93%20Tampa%20Bay%20Rays%20vs.%20Boston%20Red%20Sox&ch=ESPN%205%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:10MLB: Baltimore Orioles vs Milwaukee BrewersMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=MLB%3A%20Baltimore%20Orioles%20vs%20Milwaukee%20Brewers&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:10WTA - INDIVIDUALES - Guadalajara, dura - Semifinales: Bucsa C. vs Jovic I.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Semifinales%3A%20Bucsa%20C.%20vs%20Jovic%20I.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:15NCAA Women's volleyball: Loyola Maryland vs. ArmyAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=NCAA%20Women's%20volleyball%3A%20Loyola%20Maryland%20vs.%20Army&ch=Disney%2B"
             }
         ]
     },
