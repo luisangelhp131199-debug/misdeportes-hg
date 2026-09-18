@@ -52,6 +52,15 @@
         ]
     },
     {
+        "evento": "17:00Super Lig: Kasımpaşa vs KonyasporTurquía",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Super%20Lig%3A%20Kas%C4%B1mpa%C5%9Fa%20vs%20Konyaspor&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "18:00Eerste Divisie: RKC Waalwijk vs MVVPaises Bajos",
         "opciones": [
             {
