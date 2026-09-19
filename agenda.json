@@ -1,70 +1,5 @@
 [
     {
-        "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Corea del Sur vs ItaliaCopa mundial sub20 fifa",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Corea%20del%20Sur%20vs%20Italia&ch=Fox%20Sports%202%20USA"
-            }
-        ]
-    },
-    {
-        "evento": "13:00Serie A: Bologna vs TorinoItalia",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Serie%20A%3A%20Bologna%20vs%20Torino&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Bologna%20vs%20Torino&ch=ESPN%20MX"
-            },
-            {
-                "canal": "ESPN MX | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Bologna%20vs%20Torino&ch=ESPN%20MX%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN MX | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Bologna%20vs%20Torino&ch=ESPN%20MX%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN MX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Serie%20A%3A%20Bologna%20vs%20Torino&ch=ESPN%20MX%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "13:00Segunda División: Fénix vs Deportivo ColoniaUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=Segunda%20Divisi%C3%B3n%3A%20F%C3%A9nix%20vs%20Deportivo%20Colonia&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "13:00Serie A: Udinese vs CagliariItalia",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=Serie%20A%3A%20Udinese%20vs%20Cagliari&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "13:00Copa Intercontinental de la FIFA: Mamelodi Sundowns vs Al-AhliCopa mundial sub20 fifa",
-        "opciones": [
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Copa%20Intercontinental%20de%20la%20FIFA%3A%20Mamelodi%20Sundowns%20vs%20Al-Ahli&ch=Sportv%20BR%20HD"
-            },
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Copa%20Intercontinental%20de%20la%20FIFA%3A%20Mamelodi%20Sundowns%20vs%20Al-Ahli&ch=Sportv%20BR"
-            }
-        ]
-    },
-    {
         "evento": "13:30Bundesliga: Borussia M'gladbach vs Mainz 05Alemania",
         "opciones": [
             {
@@ -334,6 +269,24 @@
             {
                 "canal": "Telemundo | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=Telemundo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "16:00Fútbol Americano - NCAA: Arkansas vs GeorgiaEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=F%C3%BAtbol%20Americano%20-%20NCAA%3A%20Arkansas%20vs%20Georgia&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "16:00WTA - INDIVIDUALES - Sao Paulo, dura - Semifinales: Quevedo K. vs Blinkova A.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%20Semifinales%3A%20Quevedo%20K.%20vs%20Blinkova%20A.&ch=Disney%2B"
             }
         ]
     },
