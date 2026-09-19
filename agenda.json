@@ -1,39 +1,5 @@
 [
     {
-        "evento": "19:30Brasileiro Femenino: São Paulo vs FlamengoBrasil",
-        "opciones": [
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Brasileiro%20Femenino%3A%20S%C3%A3o%20Paulo%20vs%20Flamengo&ch=Sportv%20BR%20HD"
-            },
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Brasileiro%20Femenino%3A%20S%C3%A3o%20Paulo%20vs%20Flamengo&ch=Sportv%20BR"
-            }
-        ]
-    },
-    {
-        "evento": "19:45Liga Profesional: Unión Santa Fe vs IndependienteArgentina",
-        "opciones": [
-            {
-                "canal": "ESPN Premium",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Uni%C3%B3n%20Santa%20Fe%20vs%20Independiente&ch=ESPN%20Premium"
-            },
-            {
-                "canal": "ESPN Premium┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Uni%C3%B3n%20Santa%20Fe%20vs%20Independiente&ch=ESPN%20Premium%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN Premium┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Uni%C3%B3n%20Santa%20Fe%20vs%20Independiente&ch=ESPN%20Premium%E2%94%83OP3"
-            },
-            {
-                "canal": "ESPN Premium┃HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Uni%C3%B3n%20Santa%20Fe%20vs%20Independiente&ch=ESPN%20Premium%E2%94%83HD"
-            }
-        ]
-    },
-    {
         "evento": "20:00Brasileirão: Mirassol vs BotafogoBrasil",
         "opciones": [
             {
@@ -211,16 +177,28 @@
         "evento": "22:00Liga Profesional: River Plate vs HuracánArgentina",
         "opciones": [
             {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuNA%3D%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20HD"
+            },
+            {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=Disney%2B"
             },
             {
-                "canal": "ESPN Premium",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium"
-            },
-            {
                 "canal": "ESPN Premium┃OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN"
+            },
+            {
+                "canal": "ESPN Premium",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium"
             },
             {
                 "canal": "ESPN Premium┃OP3",
@@ -229,14 +207,6 @@
             {
                 "canal": "ESPN Premium┃HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium%E2%94%83HD"
-            },
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20AR%E2%94%83OP2"
             },
             {
                 "canal": "ESPN AR┃OP3",
@@ -303,12 +273,12 @@
         "evento": "23:00Liga MX: Atlas vs Pumas UNAMMéxico",
         "opciones": [
             {
-                "canal": "Canal 5 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=Liga%20MX%3A%20Atlas%20vs%20Pumas%20UNAM&ch=Canal%205%20MX"
-            },
-            {
                 "canal": "Canal 5 MX HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA%3D%3D&title=Liga%20MX%3A%20Atlas%20vs%20Pumas%20UNAM&ch=Canal%205%20MX%20HD"
+            },
+            {
+                "canal": "Canal 5 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=Liga%20MX%3A%20Atlas%20vs%20Pumas%20UNAM&ch=Canal%205%20MX"
             },
             {
                 "canal": "TUDN USA",
@@ -438,6 +408,10 @@
         "evento": "01:10Liga MX: Monterrey vs Cruz AzulMéxico",
         "opciones": [
             {
+                "canal": "Canal 5 MX HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA%3D%3D&title=Liga%20MX%3A%20Monterrey%20vs%20Cruz%20Azul&ch=Canal%205%20MX%20HD"
+            },
+            {
                 "canal": "Canal 5 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=Liga%20MX%3A%20Monterrey%20vs%20Cruz%20Azul&ch=Canal%205%20MX"
             },
@@ -517,6 +491,10 @@
     {
         "evento": "03:15Liga MX: América vs GuadalajaraMéxico",
         "opciones": [
+            {
+                "canal": "Canal 5 MX HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA%3D%3D&title=Liga%20MX%3A%20Am%C3%A9rica%20vs%20Guadalajara&ch=Canal%205%20MX%20HD"
+            },
             {
                 "canal": "Canal 5 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=Liga%20MX%3A%20Am%C3%A9rica%20vs%20Guadalajara&ch=Canal%205%20MX"
