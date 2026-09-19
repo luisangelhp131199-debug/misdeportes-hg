@@ -393,6 +393,10 @@
             {
                 "canal": "DSports | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Athletic%20Club%20vs%20Deportivo%20Alav%C3%A9s&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMg%3D%3D&title=LaLiga%3A%20Athletic%20Club%20vs%20Deportivo%20Alav%C3%A9s&ch=Espn%2B"
             }
         ]
     },
