@@ -1,27 +1,5 @@
 [
     {
-        "evento": "15:00Primera División: Boston River vs ProgresoUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=Primera%20Divisi%C3%B3n%3A%20Boston%20River%20vs%20Progreso&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "15:15Ligue 1: Paris vs StrasbourgFrancia",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=Ligue%201%3A%20Paris%20vs%20Strasbourg&ch=Disney%2B"
-            },
-            {
-                "canal": "BeIN Sports Ñ",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Ligue%201%3A%20Paris%20vs%20Strasbourg&ch=BeIN%20Sports%20%C3%91"
-            }
-        ]
-    },
-    {
         "evento": "16:00Serie A: Roma vs InternazionaleItalia",
         "opciones": [
             {
@@ -338,11 +316,33 @@
         ]
     },
     {
+        "evento": "18:30Primera División: Cerro vs PeñarolUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Primera%20Divisi%C3%B3n%3A%20Cerro%20vs%20Pe%C3%B1arol&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "18:302. Bundesliga: Dynamo Dresden vs Hertha BSCAlemania",
         "opciones": [
             {
                 "canal": "Fox Sports 2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Dynamo%20Dresden%20vs%20Hertha%20BSC&ch=Fox%20Sports%202"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=2.%20Bundesliga%3A%20Dynamo%20Dresden%20vs%20Hertha%20BSC&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45Ligue 1: Le Mans vs LorientFrancia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEz&title=Ligue%201%3A%20Le%20Mans%20vs%20Lorient&ch=Disney%2B"
             }
         ]
     },
@@ -364,6 +364,61 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=ESPN%20MX"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=ESPN%20MX%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=ESPN%20MX%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=ESPN%20MX%20%7C%20HD"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Serie%20A%3A%20Venezia%20vs%20Lazio&ch=Universo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:45Ligue 1: Angers SCO vs TroyesFrancia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=Ligue%201%3A%20Angers%20SCO%20vs%20Troyes&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45Ligue 1: Olympique Lyonnais vs RennesFrancia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=Ligue%201%3A%20Olympique%20Lyonnais%20vs%20Rennes&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45Ligue 1: Toulouse vs Le HavreFrancia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=Ligue%201%3A%20Toulouse%20vs%20Le%20Havre&ch=Disney%2B"
             }
         ]
     },
@@ -381,6 +436,19 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Rugby%20%E2%80%93%20Top%2014%20%E2%80%93%20RC%20Vannes%20vs.%20Toulouse&ch=ESPN%204%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "19:00Brasileirão: Atlético Mineiro vs ChapecoenseBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Atl%C3%A9tico%20Mineiro%20vs%20Chapecoense&ch=Premiere%20BR"
+            },
+            {
+                "canal": "Premiere BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Atl%C3%A9tico%20Mineiro%20vs%20Chapecoense&ch=Premiere%20BR%20%7C%20HD"
             }
         ]
     },
@@ -435,6 +503,43 @@
         ]
     },
     {
+        "evento": "19:00LaLiga: Sevilla vs BarcelonaEspaña",
+        "opciones": [
+            {
+                "canal": "DSports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20HD"
+            },
+            {
+                "canal": "DirecTV Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DirecTV%20Sports"
+            },
+            {
+                "canal": "DSports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP2"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes%20%7C%20OP3"
+            }
+        ]
+    },
+    {
         "evento": "19:00Primera A: Millonarios vs Boyacá ChicóColombia",
         "opciones": [
             {
@@ -478,31 +583,6 @@
         ]
     },
     {
-        "evento": "19:00LaLiga: Sevilla vs BarcelonaEspaña",
-        "opciones": [
-            {
-                "canal": "DSports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20HD"
-            },
-            {
-                "canal": "DirecTV Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DirecTV%20Sports"
-            },
-            {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP2"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "19:30Brasileiro Femenino: São Paulo vs FlamengoBrasil",
         "opciones": [
             {
@@ -533,6 +613,32 @@
             {
                 "canal": "ESPN Premium┃HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Uni%C3%B3n%20Santa%20Fe%20vs%20Independiente&ch=ESPN%20Premium%E2%94%83HD"
+            }
+        ]
+    },
+    {
+        "evento": "20:00Brasileirão: Mirassol vs BotafogoBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere 3 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMw%3D%3D&title=Brasileir%C3%A3o%3A%20Mirassol%20vs%20Botafogo&ch=Premiere%203%20BR"
+            },
+            {
+                "canal": "Premiere 3 BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM%3D&title=Brasileir%C3%A3o%3A%20Mirassol%20vs%20Botafogo&ch=Premiere%203%20BR%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "20:30UFC: Joshua Van vs Alexandre PantojaUFC",
+        "opciones": [
+            {
+                "canal": "Paramount+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXBhcmFtb3VudDE%3D&title=UFC%3A%20Joshua%20Van%20vs%20Alexandre%20Pantoja&ch=Paramount%2B"
+            },
+            {
+                "canal": "Paramount+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXBhcmFtb3VudDI%3D&title=UFC%3A%20Joshua%20Van%20vs%20Alexandre%20Pantoja&ch=Paramount%2B"
             }
         ]
     },
