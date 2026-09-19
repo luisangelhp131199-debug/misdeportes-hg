@@ -1,55 +1,5 @@
 [
     {
-        "evento": "21:00Liga Profesional: Central Córdoba SdE vs Defensa y JusticiaArgentina",
-        "opciones": [
-            {
-                "canal": "ESPN Premium",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Defensa%20y%20Justicia&ch=ESPN%20Premium"
-            },
-            {
-                "canal": "ESPN Premium┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Defensa%20y%20Justicia&ch=ESPN%20Premium%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN Premium┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Defensa%20y%20Justicia&ch=ESPN%20Premium%E2%94%83OP3"
-            },
-            {
-                "canal": "ESPN Premium┃HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Defensa%20y%20Justicia&ch=ESPN%20Premium%E2%94%83HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=Liga%20Profesional%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Defensa%20y%20Justicia&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "21:00Primera A: Rionegro Águilas vs Deportivo PereiraColombia",
-        "opciones": [
-            {
-                "canal": "Win Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0cw%3D%3D&title=Primera%20A%3A%20Rionegro%20%C3%81guilas%20vs%20Deportivo%20Pereira&ch=Win%20Sports"
-            },
-            {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Rionegro%20%C3%81guilas%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Rionegro%20%C3%81guilas%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Rionegro%20%C3%81guilas%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Rionegro%20%C3%81guilas%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "21:30Primera División: Nacional Asunción vs 2 de MayoParaguay",
         "opciones": [
             {
