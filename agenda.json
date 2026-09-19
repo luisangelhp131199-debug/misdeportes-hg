@@ -1,18 +1,5 @@
 [
     {
-        "evento": "20:00Brasileirão: Mirassol vs BotafogoBrasil",
-        "opciones": [
-            {
-                "canal": "Premiere 3 BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMw%3D%3D&title=Brasileir%C3%A3o%3A%20Mirassol%20vs%20Botafogo&ch=Premiere%203%20BR"
-            },
-            {
-                "canal": "Premiere 3 BR | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM%3D&title=Brasileir%C3%A3o%3A%20Mirassol%20vs%20Botafogo&ch=Premiere%203%20BR%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "20:30UFC: Joshua Van vs Alexandre PantojaUFC",
         "opciones": [
             {
