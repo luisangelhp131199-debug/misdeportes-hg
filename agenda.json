@@ -1,38 +1,5 @@
 [
     {
-        "evento": "00:30Serie A: Aucas vs MacaráEcuador",
-        "opciones": [
-            {
-                "canal": "ECDF LigaPro",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Aucas%20vs%20Macar%C3%A1&ch=ECDF%20LigaPro"
-            },
-            {
-                "canal": "ECDF LigaPro | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Aucas%20vs%20Macar%C3%A1&ch=ECDF%20LigaPro%20%7C%20OP2"
-            },
-            {
-                "canal": "ECDF LigaPro | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Aucas%20vs%20Macar%C3%A1&ch=ECDF%20LigaPro%20%7C%20OP3"
-            },
-            {
-                "canal": "ECDF LigaPRO | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8%3D&title=Serie%20A%3A%20Aucas%20vs%20Macar%C3%A1&ch=ECDF%20LigaPRO%20%7C%20HD"
-            },
-            {
-                "canal": "ECUAVISA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Aucas%20vs%20Macar%C3%A1&ch=ECUAVISA"
-            },
-            {
-                "canal": "ECUAVISA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Aucas%20vs%20Macar%C3%A1&ch=ECUAVISA%20%7C%20OP2"
-            },
-            {
-                "canal": "ECUAVISA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Aucas%20vs%20Macar%C3%A1&ch=ECUAVISA%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "01:00ESPN Knockout – Devon Lozej vs. Davi BittencourtBoxeo",
         "opciones": [
             {
