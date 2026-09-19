@@ -1,204 +1,5 @@
 [
     {
-        "evento": "16:00Serie A: Roma vs InternazionaleItalia",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX"
-            },
-            {
-                "canal": "ESPN MX | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN MX | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN MX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX%20%7C%20HD"
-            },
-            {
-                "canal": "Telemundo",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=Telemundo"
-            },
-            {
-                "canal": "Telemundo | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=Telemundo%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "16:00Fútbol Americano - NCAA: Arkansas vs GeorgiaEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=F%C3%BAtbol%20Americano%20-%20NCAA%3A%20Arkansas%20vs%20Georgia&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:00WTA - INDIVIDUALES - Sao Paulo, dura - Semifinales: Quevedo K. vs Blinkova A.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=WTA%20-%20INDIVIDUALES%20-%20Sao%20Paulo%2C%20dura%20-%20Semifinales%3A%20Quevedo%20K.%20vs%20Blinkova%20A.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:00Segunda División: Miramar Misiones vs Uruguay MontevideoUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=Segunda%20Divisi%C3%B3n%3A%20Miramar%20Misiones%20vs%20Uruguay%20Montevideo&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:30LaLiga: Celta de Vigo vs Racing SantanderEspaña",
-        "opciones": [
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%204"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%204%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=Disney%2B"
-            },
-            {
-                "canal": "Espn+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMw%3D%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=Espn%2B"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%20Deportes%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "16:30LaLiga SmartBank: Eldense vs EibarEspaña",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMg%3D%3D&title=LaLiga%20SmartBank%3A%20Eldense%20vs%20Eibar&ch=LaLiga%20TV%20Hypermotion%202"
-            }
-        ]
-    },
-    {
-        "evento": "16:30Premier League: Nottingham Forest vs Coventry CityInglaterra",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=Disney%2B"
-            },
-            {
-                "canal": "MAX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1heDM%3D&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=MAX"
-            }
-        ]
-    },
-    {
-        "evento": "16:30Bundesliga: Stuttgart vs Borussia DortmundAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Bundesliga%3A%20Stuttgart%20vs%20Borussia%20Dortmund&ch=Disney%2B"
-            },
-            {
-                "canal": "Universo",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Bundesliga%3A%20Stuttgart%20vs%20Borussia%20Dortmund&ch=Universo"
-            },
-            {
-                "canal": "Universo | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Bundesliga%3A%20Stuttgart%20vs%20Borussia%20Dortmund&ch=Universo%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "16:30Copa Mundial Femenina Sub-20 de la FIFA: Brasil vs EspañaCopa mundial sub20 fifa",
-        "opciones": [
-            {
-                "canal": "Sportv 2 BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0djI%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Brasil%20vs%20Espa%C3%B1a&ch=Sportv%202%20BR"
-            }
-        ]
-    },
-    {
-        "evento": "16:30LaLiga SmartBank: CD Castellon vs TenerifeEspaña",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20CD%20Castellon%20vs%20Tenerife&ch=LaLiga%20TV%20Hypermotion"
-            }
-        ]
-    },
-    {
-        "evento": "16:45Eredivisie: Sparta Rotterdam vs HeerenveenPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20Sparta%20Rotterdam%20vs%20Heerenveen&ch=ESPN%20NL"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20Sparta%20Rotterdam%20vs%20Heerenveen&ch=ESPN%20NL%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20Sparta%20Rotterdam%20vs%20Heerenveen&ch=ESPN%20NL%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "17:00Super Lig: Trabzonspor vs GalatasarayTurquía",
         "opciones": [
             {
@@ -518,16 +319,20 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
             },
             {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "Dsports...",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=Dsports..."
+            },
+            {
                 "canal": "DSports | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP2"
             },
             {
                 "canal": "DSports | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes"
             },
             {
                 "canal": "ESPN Deportes | OP2",
