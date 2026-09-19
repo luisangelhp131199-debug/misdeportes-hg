@@ -183,6 +183,24 @@
         ]
     },
     {
+        "evento": "23:30NCAA Men's Soccer: Kentucky vs MarshallEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Kentucky%20vs%20Marshall&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "00:00boxeo profesional: Isaac “Pitbull” Cruz vs. Néstor BravoBoxeo",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=boxeo%20profesional%3A%20Isaac%20%E2%80%9CPitbull%E2%80%9D%20Cruz%20vs.%20N%C3%A9stor%20Bravo&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "00:15Liga Profesional: Racing Club vs SarmientoArgentina",
         "opciones": [
             {
@@ -241,6 +259,31 @@
         ]
     },
     {
+        "evento": "01:00ESPN Knockout – Devon Lozej vs. Davi BittencourtBoxeo",
+        "opciones": [
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
         "evento": "01:00Liga MX: Puebla vs AtlanteMéxico",
         "opciones": [
             {
@@ -290,27 +333,6 @@
             {
                 "canal": "ESPN MX | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Liga%20MX%3A%20Puebla%20vs%20Atlante&ch=ESPN%20MX%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "01:00ESPN Knockout – Devon Lozej vs. Davi BittencourtBoxeo",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202%20%7C%20HD"
             }
         ]
     },
