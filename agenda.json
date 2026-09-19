@@ -1,152 +1,5 @@
 [
     {
-        "evento": "19:00Brasileirão: Atlético Mineiro vs ChapecoenseBrasil",
-        "opciones": [
-            {
-                "canal": "Premiere BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Atl%C3%A9tico%20Mineiro%20vs%20Chapecoense&ch=Premiere%20BR"
-            },
-            {
-                "canal": "Premiere BR | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Atl%C3%A9tico%20Mineiro%20vs%20Chapecoense&ch=Premiere%20BR%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "19:00Serie A: Manta vs OrenseEcuador",
-        "opciones": [
-            {
-                "canal": "ECDF LigaPro",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Manta%20vs%20Orense&ch=ECDF%20LigaPro"
-            },
-            {
-                "canal": "ECDF LigaPro | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Manta%20vs%20Orense&ch=ECDF%20LigaPro%20%7C%20OP2"
-            },
-            {
-                "canal": "ECDF LigaPro | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Manta%20vs%20Orense&ch=ECDF%20LigaPro%20%7C%20OP3"
-            },
-            {
-                "canal": "ECDF LigaPRO | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8%3D&title=Serie%20A%3A%20Manta%20vs%20Orense&ch=ECDF%20LigaPRO%20%7C%20HD"
-            },
-            {
-                "canal": "ECUAVISA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Manta%20vs%20Orense&ch=ECUAVISA"
-            },
-            {
-                "canal": "ECUAVISA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Manta%20vs%20Orense&ch=ECUAVISA%20%7C%20OP2"
-            },
-            {
-                "canal": "ECUAVISA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Manta%20vs%20Orense&ch=ECUAVISA%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "19:00Eredivisie: Willem II vs Fortuna SittardPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20Willem%20II%20vs%20Fortuna%20Sittard&ch=ESPN%20NL"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20Willem%20II%20vs%20Fortuna%20Sittard&ch=ESPN%20NL%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20Willem%20II%20vs%20Fortuna%20Sittard&ch=ESPN%20NL%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "19:00LaLiga: Sevilla vs BarcelonaEspaña",
-        "opciones": [
-            {
-                "canal": "DSports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20HD"
-            },
-            {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
-            },
-            {
-                "canal": "DSports Eventos",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20Eventos"
-            },
-            {
-                "canal": "DirecTV Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DirecTV%20Sports"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP2"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=ESPN%20Deportes%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "19:00Primera A: Millonarios vs Boyacá ChicóColombia",
-        "opciones": [
-            {
-                "canal": "Win Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0cw%3D%3D&title=Primera%20A%3A%20Millonarios%20vs%20Boyac%C3%A1%20Chic%C3%B3&ch=Win%20Sports"
-            },
-            {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Millonarios%20vs%20Boyac%C3%A1%20Chic%C3%B3&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Millonarios%20vs%20Boyac%C3%A1%20Chic%C3%B3&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Millonarios%20vs%20Boyac%C3%A1%20Chic%C3%B3&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Millonarios%20vs%20Boyac%C3%A1%20Chic%C3%B3&ch=Win%20Sports%20%2B%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "19:00Copa de la División Profesional: Always Ready vs ABBBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Always%20Ready%20vs%20ABB&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00LaLiga SmartBank: Cádiz vs GironaEspaña",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20C%C3%A1diz%20vs%20Girona&ch=LaLiga%20TV%20Hypermotion"
-            }
-        ]
-    },
-    {
         "evento": "19:30Brasileiro Femenino: São Paulo vs FlamengoBrasil",
         "opciones": [
             {
@@ -317,23 +170,40 @@
         ]
     },
     {
-        "evento": "22:00ATP - INDIVIDUALES - Copa Davis - Grupo Mundial - Fase previa: Auger-Aliassime F. vs Rinderknech A.Tennis",
+        "evento": "21:45Copa Davis: Ignacio Buse vs Adolfo Daniel VallejoTennis",
+        "opciones": [
+            {
+                "canal": "DSports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Copa%20Davis%3A%20Ignacio%20Buse%20vs%20Adolfo%20Daniel%20Vallejo&ch=DSports%20%7C%20HD"
+            },
+            {
+                "canal": "DirecTV Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Copa%20Davis%3A%20Ignacio%20Buse%20vs%20Adolfo%20Daniel%20Vallejo&ch=DirecTV%20Sports"
+            },
+            {
+                "canal": "Dsports...",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Copa%20Davis%3A%20Ignacio%20Buse%20vs%20Adolfo%20Daniel%20Vallejo&ch=Dsports..."
+            }
+        ]
+    },
+    {
+        "evento": "22:00Copa Davis - Grupo Mundial - Fase previa: Auger-Aliassime F. vs Rinderknech A.Tennis",
         "opciones": [
             {
                 "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports%20%7C%20OP2"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports"
             },
             {
                 "canal": "DSports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports%20%7C%20HD"
+            },
+            {
+                "canal": "DSports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports%20%7C%20OP2"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Copa%20Davis%20-%20Grupo%20Mundial%20-%20Fase%20previa%3A%20Auger-Aliassime%20F.%20vs%20Rinderknech%20A.&ch=DSports%20%7C%20OP3"
             }
         ]
     },
@@ -437,6 +307,10 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=Liga%20MX%3A%20Atlas%20vs%20Pumas%20UNAM&ch=Canal%205%20MX"
             },
             {
+                "canal": "Canal 5 MX HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA%3D%3D&title=Liga%20MX%3A%20Atlas%20vs%20Pumas%20UNAM&ch=Canal%205%20MX%20HD"
+            },
+            {
                 "canal": "TUDN USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Atlas%20vs%20Pumas%20UNAM&ch=TUDN%20USA"
             },
@@ -472,6 +346,15 @@
             {
                 "canal": "Win Sports + | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Deportivo%20Cali%20vs%20C%C3%BAcuta%20Deportivo&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:30Brasileirão: Vasco da Gama vs CoritibaBrasil",
+        "opciones": [
+            {
+                "canal": "Amazon Prime 1",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWFtYXpvbl9wcmltZTE%3D&title=Brasileir%C3%A3o%3A%20Vasco%20da%20Gama%20vs%20Coritiba&ch=Amazon%20Prime%201"
             }
         ]
     },
