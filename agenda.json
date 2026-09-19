@@ -1,26 +1,5 @@
 [
     {
-        "evento": "10:20Copa Intercontinental Sub-20: Real Madrid vs Santiago WanderersAmistosos Paises",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Intercontinental%20Sub-20%3A%20Real%20Madrid%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Intercontinental%20Sub-20%3A%20Real%20Madrid%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL%20OP2"
-            },
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Copa%20Intercontinental%20Sub-20%3A%20Real%20Madrid%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Copa%20Intercontinental%20Sub-20%3A%20Real%20Madrid%20vs%20Santiago%20Wanderers&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "11:00Golf – BMW PGA Championship – Tercera VueltaGolf",
         "opciones": [
             {
@@ -312,6 +291,24 @@
         ]
     },
     {
+        "evento": "14:00Premier League: Everton vs Ipswich TownInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Premier%20League%3A%20Everton%20vs%20Ipswich%20Town&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "14:00Championship: Wrexham vs SouthamptonInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=Championship%3A%20Wrexham%20vs%20Southampton&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "14:00Premier League: Brighton & Hove Albion vs ArsenalInglaterra",
         "opciones": [
             {
@@ -325,6 +322,18 @@
             {
                 "canal": "ESPN AR┃OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Premier%20League%3A%20Brighton%20%26%20Hove%20Albion%20vs%20Arsenal&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Premier%20League%3A%20Brighton%20%26%20Hove%20Albion%20vs%20Arsenal&ch=Telemundo"
+            },
+            {
+                "canal": "Telemundo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Premier%20League%3A%20Brighton%20%26%20Hove%20Albion%20vs%20Arsenal&ch=Telemundo%20%7C%20HD"
+            },
+            {
+                "canal": "MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1heDE%3D&title=Premier%20League%3A%20Brighton%20%26%20Hove%20Albion%20vs%20Arsenal&ch=MAX"
             }
         ]
     },
@@ -334,6 +343,10 @@
             {
                 "canal": "ESPN 2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Premier%20League%3A%20Newcastle%20United%20vs%20Hull%20City&ch=ESPN%202"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=Premier%20League%3A%20Newcastle%20United%20vs%20Hull%20City&ch=Disney%2B"
             },
             {
                 "canal": "ESPN 2 | OP2",
@@ -346,6 +359,10 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Premier%20League%3A%20Newcastle%20United%20vs%20Hull%20City&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1heDI%3D&title=Premier%20League%3A%20Newcastle%20United%20vs%20Hull%20City&ch=MAX"
             }
         ]
     },
