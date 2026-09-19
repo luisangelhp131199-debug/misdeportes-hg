@@ -1,43 +1,5 @@
 [
     {
-        "evento": "18:00Liga 1: FC Cajamarca vs CuscoPerú",
-        "opciones": [
-            {
-                "canal": "Liga1MAX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20FC%20Cajamarca%20vs%20Cusco&ch=Liga1MAX"
-            },
-            {
-                "canal": "Liga1Max | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20FC%20Cajamarca%20vs%20Cusco&ch=Liga1Max%20%7C%20OP2"
-            },
-            {
-                "canal": "Liga1Max | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20FC%20Cajamarca%20vs%20Cusco&ch=Liga1Max%20%7C%20OP3"
-            },
-            {
-                "canal": "Liga1MAX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20FC%20Cajamarca%20vs%20Cusco&ch=Liga1MAX%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Eredivisie: Ajax vs ExcelsiorPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 4 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40bXg%3D&title=Eredivisie%3A%20Ajax%20vs%20Excelsior&ch=ESPN%204%20MX"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Eredivisie%3A%20Ajax%20vs%20Excelsior&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 2 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%3A%20Ajax%20vs%20Excelsior&ch=ESPN%202%20NL"
-            }
-        ]
-    },
-    {
         "evento": "18:30Primera División: Cerro vs PeñarolUruguay",
         "opciones": [
             {
