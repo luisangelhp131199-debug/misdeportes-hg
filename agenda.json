@@ -1,49 +1,5 @@
 [
     {
-        "evento": "13:30Bundesliga: Borussia M'gladbach vs Mainz 05Alemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=Bundesliga%3A%20Borussia%20M'gladbach%20vs%20Mainz%2005&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "13:30Bundesliga: Hamburger SV vs KölnAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=Bundesliga%3A%20Hamburger%20SV%20vs%20K%C3%B6ln&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "13:30Bundesliga: Eintracht Frankfurt vs FreiburgAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEz&title=Bundesliga%3A%20Eintracht%20Frankfurt%20vs%20Freiburg&ch=Disney%2B"
-            },
-            {
-                "canal": "Universo",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Bundesliga%3A%20Eintracht%20Frankfurt%20vs%20Freiburg&ch=Universo"
-            },
-            {
-                "canal": "Universo | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Bundesliga%3A%20Eintracht%20Frankfurt%20vs%20Freiburg&ch=Universo%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "13:30Bundesliga: Werder Bremen vs AugsburgAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=Bundesliga%3A%20Werder%20Bremen%20vs%20Augsburg&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "14:00Premier League: Everton vs Ipswich TownInglaterra",
         "opciones": [
             {
