@@ -1,57 +1,5 @@
 [
     {
-        "evento": "14:30Eerste Divisie: Vitesse vs PSV IIPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20Vitesse%20vs%20PSV%20II&ch=ESPN%20NL"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20Vitesse%20vs%20PSV%20II&ch=ESPN%20NL%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20Vitesse%20vs%20PSV%20II&ch=ESPN%20NL%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "14:30Eredivisie Femenina: Ajax vs AZPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 2 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%20Femenina%3A%20Ajax%20vs%20AZ&ch=ESPN%202%20NL"
-            }
-        ]
-    },
-    {
-        "evento": "14:30Eredivisie: ADO Den Haag vs CambuurPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 3 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zX25s&title=Eredivisie%3A%20ADO%20Den%20Haag%20vs%20Cambuur&ch=ESPN%203%20NL"
-            }
-        ]
-    },
-    {
-        "evento": "14:30Rugby – Top 14 – La Rochelle vs. Racing 92Rugby",
-        "opciones": [
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=Rugby%20%E2%80%93%20Top%2014%20%E2%80%93%20La%20Rochelle%20vs.%20Racing%2092&ch=ESPN%204"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=Rugby%20%E2%80%93%20Top%2014%20%E2%80%93%20La%20Rochelle%20vs.%20Racing%2092&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Rugby%20%E2%80%93%20Top%2014%20%E2%80%93%20La%20Rochelle%20vs.%20Racing%2092&ch=ESPN%204%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "15:00Primera División: Boston River vs ProgresoUruguay",
         "opciones": [
             {
