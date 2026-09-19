@@ -1,14 +1,5 @@
 [
     {
-        "evento": "22:00NCAA Men's Soccer: Coastal Carolina vs Ga. SouthernEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Coastal%20Carolina%20vs%20Ga.%20Southern&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "22:30NCAA Women's Hockey: Brown vs. YaleHokey",
         "opciones": [
             {
@@ -230,6 +221,15 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Semifinales%3A%20Samsonova%20L.%20vs%20Stearns%20P.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "01:00Fútbol Americano - NCAA: Wake Forest vs MiamiEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=F%C3%BAtbol%20Americano%20-%20NCAA%3A%20Wake%20Forest%20vs%20Miami&ch=Disney%2B"
             }
         ]
     },
