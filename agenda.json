@@ -1,39 +1,5 @@
 [
     {
-        "evento": "00:00boxeo profesional: Isaac “Pitbull” Cruz vs. Néstor BravoBoxeo",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=boxeo%20profesional%3A%20Isaac%20%E2%80%9CPitbull%E2%80%9D%20Cruz%20vs.%20N%C3%A9stor%20Bravo&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "00:15Liga Profesional: Racing Club vs SarmientoArgentina",
-        "opciones": [
-            {
-                "canal": "TNT Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Racing%20Club%20vs%20Sarmiento&ch=TNT%20Sports"
-            },
-            {
-                "canal": "TNT Sports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Racing%20Club%20vs%20Sarmiento&ch=TNT%20Sports%20%7C%20OP2"
-            },
-            {
-                "canal": "TNT Sports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Racing%20Club%20vs%20Sarmiento&ch=TNT%20Sports%20%7C%20OP3"
-            },
-            {
-                "canal": "TNT Sports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Racing%20Club%20vs%20Sarmiento&ch=TNT%20Sports%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Liga%20Profesional%3A%20Racing%20Club%20vs%20Sarmiento&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "00:30Serie A: Aucas vs MacaráEcuador",
         "opciones": [
             {
