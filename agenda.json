@@ -1,61 +1,5 @@
 [
     {
-        "evento": "11:00Golf – BMW PGA Championship – Tercera VueltaGolf",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%20BMW%20PGA%20Championship%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "11:002. Bundesliga: Kaiserslautern vs Eintracht BraunschweigAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=2.%20Bundesliga%3A%20Kaiserslautern%20vs%20Eintracht%20Braunschweig&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "11:002. Bundesliga: Holstein Kiel vs OsnabrückAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=2.%20Bundesliga%3A%20Holstein%20Kiel%20vs%20Osnabr%C3%BCck&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "11:002. Bundesliga: Karlsruher SC vs NürnbergAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=2.%20Bundesliga%3A%20Karlsruher%20SC%20vs%20N%C3%BCrnberg&ch=Disney%2B"
-            },
-            {
-                "canal": "Fox Sports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Karlsruher%20SC%20vs%20N%C3%BCrnberg&ch=Fox%20Sports%202"
-            },
-            {
-                "canal": "Fox Sports 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Karlsruher%20SC%20vs%20N%C3%BCrnberg&ch=Fox%20Sports%202%20%7C%20OP2"
-            }
-        ]
-    },
-    {
         "evento": "11:30Premier League: Tottenham Hotspur vs Aston VillaInglaterra",
         "opciones": [
             {
@@ -453,6 +397,28 @@
         ]
     },
     {
+        "evento": "15:00Primera División: Boston River vs ProgresoUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=Primera%20Divisi%C3%B3n%3A%20Boston%20River%20vs%20Progreso&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "15:15Ligue 1: Paris vs StrasbourgFrancia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=Ligue%201%3A%20Paris%20vs%20Strasbourg&ch=Disney%2B"
+            },
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Ligue%201%3A%20Paris%20vs%20Strasbourg&ch=BeIN%20Sports%20%C3%91"
+            }
+        ]
+    },
+    {
         "evento": "16:00Serie A: Roma vs InternazionaleItalia",
         "opciones": [
             {
@@ -466,6 +432,43 @@
             {
                 "canal": "ESPN AR┃OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=ESPN%20MX%20%7C%20HD"
+            },
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=Telemundo"
+            },
+            {
+                "canal": "Telemundo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Serie%20A%3A%20Roma%20vs%20Internazionale&ch=Telemundo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "16:00Segunda División: Miramar Misiones vs Uruguay MontevideoUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=Segunda%20Divisi%C3%B3n%3A%20Miramar%20Misiones%20vs%20Uruguay%20Montevideo&ch=Disney%2B"
             }
         ]
     },
@@ -513,6 +516,14 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=Disney%2B"
+            },
+            {
+                "canal": "MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1heDM%3D&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=MAX"
             }
         ]
     },
