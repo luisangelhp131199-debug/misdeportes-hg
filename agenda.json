@@ -1,59 +1,5 @@
 [
     {
-        "evento": "11:30Premier League: Tottenham Hotspur vs Aston VillaInglaterra",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=Disney%2B"
-            },
-            {
-                "canal": "Universo",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=Universo"
-            },
-            {
-                "canal": "Universo | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=Universo%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "11:30Championship: Millwall vs West Ham UnitedInglaterra",
-        "opciones": [
-            {
-                "canal": "ESPN 7",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG43&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=ESPN%207"
-            },
-            {
-                "canal": "ESPN 7 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG43&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=ESPN%207%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 7 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG43&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=ESPN%207%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 3 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=ESPN%203%20MX"
-            }
-        ]
-    },
-    {
         "evento": "12:00LaLiga: Osasuna vs Rayo VallecanoEspaña",
         "opciones": [
             {
@@ -486,6 +432,26 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=Disney%2B"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMw%3D%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=Espn%2B"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Celta%20de%20Vigo%20vs%20Racing%20Santander&ch=ESPN%20Deportes%20%7C%20OP3"
             }
         ]
     },
@@ -524,6 +490,23 @@
             {
                 "canal": "MAX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1heDM%3D&title=Premier%20League%3A%20Nottingham%20Forest%20vs%20Coventry%20City&ch=MAX"
+            }
+        ]
+    },
+    {
+        "evento": "16:30Bundesliga: Stuttgart vs Borussia DortmundAlemania",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Bundesliga%3A%20Stuttgart%20vs%20Borussia%20Dortmund&ch=Disney%2B"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Bundesliga%3A%20Stuttgart%20vs%20Borussia%20Dortmund&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Bundesliga%3A%20Stuttgart%20vs%20Borussia%20Dortmund&ch=Universo%20%7C%20HD"
             }
         ]
     },
@@ -572,6 +555,10 @@
             {
                 "canal": "BeIN Sports Ñ",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Super%20Lig%3A%20Trabzonspor%20vs%20Galatasaray&ch=BeIN%20Sports%20%C3%91"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Super%20Lig%3A%20Trabzonspor%20vs%20Galatasaray&ch=Disney%2B"
             }
         ]
     },
@@ -593,6 +580,10 @@
             {
                 "canal": "TNT Sports | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Gimnasia%20La%20Plata%20vs%20Banfield&ch=TNT%20Sports%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=Liga%20Profesional%3A%20Gimnasia%20La%20Plata%20vs%20Banfield&ch=Disney%2B"
             }
         ]
     },
@@ -660,6 +651,10 @@
             {
                 "canal": "ESPN 4 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40bXg%3D&title=Eredivisie%3A%20Ajax%20vs%20Excelsior&ch=ESPN%204%20MX"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Eredivisie%3A%20Ajax%20vs%20Excelsior&ch=Disney%2B"
             },
             {
                 "canal": "ESPN 2 NL",
