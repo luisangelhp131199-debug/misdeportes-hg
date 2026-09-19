@@ -1,22 +1,5 @@
 [
     {
-        "evento": "12:30MotoGP – GP Austria – SprintMOTO GP",
-        "opciones": [
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=MotoGP%20%E2%80%93%20GP%20Austria%20%E2%80%93%20Sprint&ch=ESPN%204"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=MotoGP%20%E2%80%93%20GP%20Austria%20%E2%80%93%20Sprint&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=MotoGP%20%E2%80%93%20GP%20Austria%20%E2%80%93%20Sprint&ch=ESPN%204%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "13:00Copa Mundial Femenina Sub-20 de la FIFA: Corea del Sur vs ItaliaCopa mundial sub20 fifa",
         "opciones": [
             {
@@ -214,6 +197,10 @@
         "evento": "14:15LaLiga: Athletic Club vs Deportivo AlavésEspaña",
         "opciones": [
             {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMg%3D%3D&title=LaLiga%3A%20Athletic%20Club%20vs%20Deportivo%20Alav%C3%A9s&ch=Espn%2B"
+            },
+            {
                 "canal": "Dsports Argentina",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Athletic%20Club%20vs%20Deportivo%20Alav%C3%A9s&ch=Dsports%20Argentina"
             },
@@ -228,10 +215,6 @@
             {
                 "canal": "DSports | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Athletic%20Club%20vs%20Deportivo%20Alav%C3%A9s&ch=DSports%20%7C%20OP3"
-            },
-            {
-                "canal": "Espn+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMg%3D%3D&title=LaLiga%3A%20Athletic%20Club%20vs%20Deportivo%20Alav%C3%A9s&ch=Espn%2B"
             }
         ]
     },
