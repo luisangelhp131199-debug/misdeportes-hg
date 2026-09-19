@@ -42,11 +42,37 @@
         ]
     },
     {
+        "evento": "11:002. Bundesliga: Kaiserslautern vs Eintracht BraunschweigAlemania",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=2.%20Bundesliga%3A%20Kaiserslautern%20vs%20Eintracht%20Braunschweig&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "11:002. Bundesliga: Holstein Kiel vs OsnabrückAlemania",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=2.%20Bundesliga%3A%20Holstein%20Kiel%20vs%20Osnabr%C3%BCck&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "11:002. Bundesliga: Karlsruher SC vs NürnbergAlemania",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=2.%20Bundesliga%3A%20Karlsruher%20SC%20vs%20N%C3%BCrnberg&ch=Disney%2B"
+            },
+            {
+                "canal": "Fox Sports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Karlsruher%20SC%20vs%20N%C3%BCrnberg&ch=Fox%20Sports%202"
+            },
+            {
+                "canal": "Fox Sports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Karlsruher%20SC%20vs%20N%C3%BCrnberg&ch=Fox%20Sports%202%20%7C%20OP2"
             }
         ]
     },
@@ -64,6 +90,18 @@
             {
                 "canal": "ESPN AR┃OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=Disney%2B"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Premier%20League%3A%20Tottenham%20Hotspur%20vs%20Aston%20Villa&ch=Universo%20%7C%20HD"
             }
         ]
     },
@@ -81,6 +119,14 @@
             {
                 "canal": "ESPN 7 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG43&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=ESPN%207%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 3 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Championship%3A%20Millwall%20vs%20West%20Ham%20United&ch=ESPN%203%20MX"
             }
         ]
     },
