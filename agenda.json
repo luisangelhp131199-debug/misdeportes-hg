@@ -1,14 +1,5 @@
 [
     {
-        "evento": "21:30Primera División: Nacional Asunción vs 2 de MayoParaguay",
-        "opciones": [
-            {
-                "canal": "fanatiz 02",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXoy&title=Primera%20Divisi%C3%B3n%3A%20Nacional%20Asunci%C3%B3n%20vs%202%20de%20Mayo&ch=fanatiz%2002"
-            }
-        ]
-    },
-    {
         "evento": "22:00NCAA Men's Soccer: Coastal Carolina vs Ga. SouthernEstados Unidos",
         "opciones": [
             {
@@ -230,6 +221,15 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=ESPN%20Knockout%20%E2%80%93%20Devon%20Lozej%20vs.%20Davi%20Bittencourt&ch=ESPN%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "01:00WTA - INDIVIDUALES - Guadalajara, dura - Semifinales: Samsonova L. vs Stearns P.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=WTA%20-%20INDIVIDUALES%20-%20Guadalajara%2C%20dura%20-%20Semifinales%3A%20Samsonova%20L.%20vs%20Stearns%20P.&ch=Disney%2B"
             }
         ]
     },
