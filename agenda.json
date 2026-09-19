@@ -733,27 +733,6 @@
         ]
     },
     {
-        "evento": "19:00LaLiga: Sevilla vs BarcelonaEspaña",
-        "opciones": [
-            {
-                "canal": "Dsports Argentina",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=Dsports%20Argentina"
-            },
-            {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP2"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "19:00Primera A: Millonarios vs Boyacá ChicóColombia",
         "opciones": [
             {
@@ -793,6 +772,31 @@
             {
                 "canal": "LaLiga TV Hypermotion",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20C%C3%A1diz%20vs%20Girona&ch=LaLiga%20TV%20Hypermotion"
+            }
+        ]
+    },
+    {
+        "evento": "19:00LaLiga: Sevilla vs BarcelonaEspaña",
+        "opciones": [
+            {
+                "canal": "DSports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20HD"
+            },
+            {
+                "canal": "DirecTV Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DirecTV%20Sports"
+            },
+            {
+                "canal": "DSports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP2"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20OP3"
             }
         ]
     },
