@@ -1,27 +1,5 @@
 [
     {
-        "evento": "23:30Major League Soccer: New York City vs New York RBEstados Unidos",
-        "opciones": [
-            {
-                "canal": "MLS 01 | EN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM%3D&title=Major%20League%20Soccer%3A%20New%20York%20City%20vs%20New%20York%20RB&ch=MLS%2001%20%7C%20EN"
-            },
-            {
-                "canal": "MLS 01 | Español",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1sczFlcw%3D%3D&title=Major%20League%20Soccer%3A%20New%20York%20City%20vs%20New%20York%20RB&ch=MLS%2001%20%7C%20Espa%C3%B1ol"
-            }
-        ]
-    },
-    {
-        "evento": "23:30NCAA Men's Soccer: Kentucky vs MarshallEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Kentucky%20vs%20Marshall&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "00:00boxeo profesional: Isaac “Pitbull” Cruz vs. Néstor BravoBoxeo",
         "opciones": [
             {
