@@ -1,84 +1,5 @@
 [
     {
-        "evento": "17:00Super Lig: Trabzonspor vs GalatasarayTurquía",
-        "opciones": [
-            {
-                "canal": "ESPN 2 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Super%20Lig%3A%20Trabzonspor%20vs%20Galatasaray&ch=ESPN%202%20MX"
-            },
-            {
-                "canal": "BeIN Sports Ñ",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Super%20Lig%3A%20Trabzonspor%20vs%20Galatasaray&ch=BeIN%20Sports%20%C3%91"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Super%20Lig%3A%20Trabzonspor%20vs%20Galatasaray&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "17:30Liga Profesional: Gimnasia La Plata vs BanfieldArgentina",
-        "opciones": [
-            {
-                "canal": "TNT Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Gimnasia%20La%20Plata%20vs%20Banfield&ch=TNT%20Sports"
-            },
-            {
-                "canal": "TNT Sports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Gimnasia%20La%20Plata%20vs%20Banfield&ch=TNT%20Sports%20%7C%20OP2"
-            },
-            {
-                "canal": "TNT Sports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Gimnasia%20La%20Plata%20vs%20Banfield&ch=TNT%20Sports%20%7C%20OP3"
-            },
-            {
-                "canal": "TNT Sports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Gimnasia%20La%20Plata%20vs%20Banfield&ch=TNT%20Sports%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=Liga%20Profesional%3A%20Gimnasia%20La%20Plata%20vs%20Banfield&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "17:30Liga Profesional: Gimnasia Mendoza vs Deportivo RiestraArgentina",
-        "opciones": [
-            {
-                "canal": "ESPN Premium",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%20Premium"
-            },
-            {
-                "canal": "ESPN Premium┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%20Premium%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN Premium┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%20Premium%E2%94%83OP3"
-            },
-            {
-                "canal": "ESPN Premium┃HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%20Premium%E2%94%83HD"
-            },
-            {
-                "canal": "ESPN 5",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%205"
-            },
-            {
-                "canal": "ESPN 5 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%205%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 5 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%205%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 5 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=Liga%20Profesional%3A%20Gimnasia%20Mendoza%20vs%20Deportivo%20Riestra&ch=ESPN%205%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "18:00Liga 1: FC Cajamarca vs CuscoPerú",
         "opciones": [
             {
@@ -311,16 +232,16 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20%7C%20HD"
             },
             {
-                "canal": "Dsports...",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMg%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=Dsports..."
+                "canal": "DSports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
+            },
+            {
+                "canal": "DSports Eventos",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports%20Eventos"
             },
             {
                 "canal": "DirecTV Sports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DirecTV%20Sports"
-            },
-            {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHNfZXZlbnRvcw%3D%3D&title=LaLiga%3A%20Sevilla%20vs%20Barcelona&ch=DSports"
             },
             {
                 "canal": "ESPN Deportes",
@@ -494,6 +415,28 @@
         ]
     },
     {
+        "evento": "21:30Brasileirão: Remo vs SantosBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere 2 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMg%3D%3D&title=Brasileir%C3%A3o%3A%20Remo%20vs%20Santos&ch=Premiere%202%20BR"
+            },
+            {
+                "canal": "Premiere 2 BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTI%3D&title=Brasileir%C3%A3o%3A%20Remo%20vs%20Santos&ch=Premiere%202%20BR%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "21:30Primera División: Deportivo Maldonado vs Cerro LargoUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=Primera%20Divisi%C3%B3n%3A%20Deportivo%20Maldonado%20vs%20Cerro%20Largo&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "21:30Serie A: Guayaquil City vs Leones del NorteEcuador",
         "opciones": [
             {
@@ -539,20 +482,8 @@
         "evento": "22:00Liga Profesional: River Plate vs HuracánArgentina",
         "opciones": [
             {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%202%20%7C%20HD"
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=Disney%2B"
             },
             {
                 "canal": "ESPN Premium",
@@ -569,6 +500,18 @@
             {
                 "canal": "ESPN Premium┃HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium%E2%94%83HD"
+            },
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20AR%E2%94%83OP3"
             }
         ]
     },
