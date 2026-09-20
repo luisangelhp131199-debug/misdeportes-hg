@@ -1,14 +1,5 @@
 [
     {
-        "evento": "23:30Brasileirão: Vasco da Gama vs CoritibaBrasil",
-        "opciones": [
-            {
-                "canal": "Amazon Prime 1",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWFtYXpvbl9wcmltZTE%3D&title=Brasileir%C3%A3o%3A%20Vasco%20da%20Gama%20vs%20Coritiba&ch=Amazon%20Prime%201"
-            }
-        ]
-    },
-    {
         "evento": "00:00Brasileirão: São Paulo vs InternacionalBrasil",
         "opciones": [
             {
@@ -165,6 +156,15 @@
             {
                 "canal": "FUTV",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZ1dHY%3D&title=Primera%20Divisi%C3%B3n%3A%20Deportivo%20Saprissa%20vs%20Herediano&ch=FUTV"
+            }
+        ]
+    },
+    {
+        "evento": "03:00Fútbol Americano - NCAA: North Dakota State vs. Sacramento StateEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=F%C3%BAtbol%20Americano%20-%20NCAA%3A%20North%20Dakota%20State%20vs.%20Sacramento%20State&ch=Disney%2B"
             }
         ]
     },
