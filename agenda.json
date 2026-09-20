@@ -1,34 +1,5 @@
 [
     {
-        "evento": "10:30Serie A: Fiorentina vs NapoliItalia",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=Disney%2B"
-            },
-            {
-                "canal": "Universo",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=Universo"
-            },
-            {
-                "canal": "Universo | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=Universo%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "11:00Championship: Wolverhampton Wanderers vs West BromwichInglaterra",
         "opciones": [
             {
@@ -409,6 +380,14 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN"
             },
             {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
+            },
+            {
                 "canal": "ESPN AR┃OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20AR%E2%94%83OP2"
             },
@@ -417,20 +396,12 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20AR%E2%94%83OP3"
             },
             {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes"
-            },
-            {
                 "canal": "ESPN Deportes | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP2"
             },
             {
                 "canal": "ESPN Deportes | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
             },
             {
                 "canal": "Espn+",
@@ -507,6 +478,94 @@
         ]
     },
     {
+        "evento": "15:30Bundesliga: Schalke 04 vs ElversbergAlemania",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Bundesliga%3A%20Schalke%2004%20vs%20Elversberg&ch=Disney%2B"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Bundesliga%3A%20Schalke%2004%20vs%20Elversberg&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Bundesliga%3A%20Schalke%2004%20vs%20Elversberg&ch=Universo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "16:00Serie A: Juventus vs AtalantaItalia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=Serie%20A%3A%20Juventus%20vs%20Atalanta&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Juventus%20vs%20Atalanta&ch=ESPN%20MX"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Juventus%20vs%20Atalanta&ch=ESPN%20MX%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Serie%20A%3A%20Juventus%20vs%20Atalanta&ch=ESPN%20MX%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Serie%20A%3A%20Juventus%20vs%20Atalanta&ch=ESPN%20MX%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "16:00Primera División: Danubio vs WanderersUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Primera%20Divisi%C3%B3n%3A%20Danubio%20vs%20Wanderers&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "16:30LaLiga: Deportivo La Coruña vs Real BetisEspaña",
+        "opciones": [
+            {
+                "canal": "Dsports Argentina",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=Dsports%20Argentina"
+            },
+            {
+                "canal": "DSports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=DSports"
+            },
+            {
+                "canal": "DSports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=DSports%20%7C%20OP2"
+            },
+            {
+                "canal": "DSports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=DSports%20%7C%20OP3"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMw%3D%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=Espn%2B"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Deportivo%20La%20Coru%C3%B1a%20vs%20Real%20Betis&ch=ESPN%20Deportes%20%7C%20OP3"
+            }
+        ]
+    },
+    {
         "evento": "16:30LaLiga SmartBank: Almería vs Celta de Vigo IIEspaña",
         "opciones": [
             {
@@ -521,6 +580,15 @@
             {
                 "canal": "FOX ONE",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWV2ZW44&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Corea%20del%20Norte%20vs%20Canad%C3%A1&ch=FOX%20ONE"
+            }
+        ]
+    },
+    {
+        "evento": "16:30LaLiga SmartBank: Las Palmas vs BurgosEspaña",
+        "opciones": [
+            {
+                "canal": "LaLiga TV Hypermotion 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMg%3D%3D&title=LaLiga%20SmartBank%3A%20Las%20Palmas%20vs%20Burgos&ch=LaLiga%20TV%20Hypermotion%202"
             }
         ]
     },
@@ -542,15 +610,14 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=LaLiga%3A%20Villarreal%20vs%20Levante&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "16:30LaLiga SmartBank: Las Palmas vs BurgosEspaña",
-        "opciones": [
+            },
             {
-                "canal": "LaLiga TV Hypermotion 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMg%3D%3D&title=LaLiga%20SmartBank%3A%20Las%20Palmas%20vs%20Burgos&ch=LaLiga%20TV%20Hypermotion%202"
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=LaLiga%3A%20Villarreal%20vs%20Levante&ch=Disney%2B"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzNA%3D%3D&title=LaLiga%3A%20Villarreal%20vs%20Levante&ch=Espn%2B"
             }
         ]
     },
