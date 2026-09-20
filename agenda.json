@@ -1,35 +1,5 @@
 [
     {
-        "evento": "10:15Eredivisie: Feyenoord vs UtrechtPaises Bajos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Eredivisie%3A%20Feyenoord%20vs%20Utrecht&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 3 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Eredivisie%3A%20Feyenoord%20vs%20Utrecht&ch=ESPN%203%20MX"
-            }
-        ]
-    },
-    {
-        "evento": "10:15Eredivisie Femenina: PEC Zwolle vs De GraafschapPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PEC%20Zwolle%20vs%20De%20Graafschap&ch=ESPN%20NL"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PEC%20Zwolle%20vs%20De%20Graafschap&ch=ESPN%20NL%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PEC%20Zwolle%20vs%20De%20Graafschap&ch=ESPN%20NL%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "10:30Serie A: Fiorentina vs NapoliItalia",
         "opciones": [
             {
@@ -388,6 +358,15 @@
         ]
     },
     {
+        "evento": "14:00Segunda División: Tacuarembó vs HuracánUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=Segunda%20Divisi%C3%B3n%3A%20Tacuaremb%C3%B3%20vs%20Hurac%C3%A1n&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "14:00Brasileirão: Grêmio vs PalmeirasBrasil",
         "opciones": [
             {
@@ -397,6 +376,19 @@
             {
                 "canal": "Premiere BR | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Gr%C3%AAmio%20vs%20Palmeiras&ch=Premiere%20BR%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "14:00Super Lig: Fenerbahçe vs EyüpsporTurquía",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=Super%20Lig%3A%20Fenerbah%C3%A7e%20vs%20Ey%C3%BCpspor&ch=Disney%2B"
+            },
+            {
+                "canal": "Fox Sports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=Super%20Lig%3A%20Fenerbah%C3%A7e%20vs%20Ey%C3%BCpspor&ch=Fox%20Sports%202"
             }
         ]
     },
@@ -435,6 +427,14 @@
             {
                 "canal": "ESPN Deportes | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
+            },
+            {
+                "canal": "Espn+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMg%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Espn%2B"
             }
         ]
     },
@@ -478,6 +478,31 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Ligue%201%3A%20Nice%20vs%20Lille&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Ligue%201%3A%20Nice%20vs%20Lille&ch=Disney%2B"
+            },
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Ligue%201%3A%20Nice%20vs%20Lille&ch=BeIN%20Sports%20%C3%91"
+            }
+        ]
+    },
+    {
+        "evento": "15:30Premier League: Fulham vs Manchester UnitedInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=Premier%20League%3A%20Fulham%20vs%20Manchester%20United&ch=Disney%2B"
+            },
+            {
+                "canal": "MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPW1heDI%3D&title=Premier%20League%3A%20Fulham%20vs%20Manchester%20United&ch=MAX"
+            },
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Premier%20League%3A%20Fulham%20vs%20Manchester%20United&ch=Telemundo"
             }
         ]
     },
