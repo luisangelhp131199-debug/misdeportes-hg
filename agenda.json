@@ -259,6 +259,39 @@
         ]
     },
     {
+        "evento": "18:30Serie A: Técnico Universitario vs DelfinEcuador",
+        "opciones": [
+            {
+                "canal": "ECDF LigaPro",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20T%C3%A9cnico%20Universitario%20vs%20Delfin&ch=ECDF%20LigaPro"
+            },
+            {
+                "canal": "ECDF LigaPro | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20T%C3%A9cnico%20Universitario%20vs%20Delfin&ch=ECDF%20LigaPro%20%7C%20OP2"
+            },
+            {
+                "canal": "ECDF LigaPro | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20T%C3%A9cnico%20Universitario%20vs%20Delfin&ch=ECDF%20LigaPro%20%7C%20OP3"
+            },
+            {
+                "canal": "ECDF LigaPRO | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8%3D&title=Serie%20A%3A%20T%C3%A9cnico%20Universitario%20vs%20Delfin&ch=ECDF%20LigaPRO%20%7C%20HD"
+            },
+            {
+                "canal": "ECUAVISA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20T%C3%A9cnico%20Universitario%20vs%20Delfin&ch=ECUAVISA"
+            },
+            {
+                "canal": "ECUAVISA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20T%C3%A9cnico%20Universitario%20vs%20Delfin&ch=ECUAVISA%20%7C%20OP2"
+            },
+            {
+                "canal": "ECUAVISA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20T%C3%A9cnico%20Universitario%20vs%20Delfin&ch=ECUAVISA%20%7C%20OP3"
+            }
+        ]
+    },
+    {
         "evento": "18:45Ligue 1: Olympique Marseille vs PSGFrancia",
         "opciones": [
             {
@@ -301,6 +334,36 @@
         ]
     },
     {
+        "evento": "19:00Primera A: Fortaleza CEIF vs JuniorColombia",
+        "opciones": [
+            {
+                "canal": "Win Sports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Fortaleza%20CEIF%20vs%20Junior&ch=Win%20Sports%20%2B"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Fortaleza%20CEIF%20vs%20Junior&ch=Win%20Sports%20%2B%20%7C%20OP2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Fortaleza%20CEIF%20vs%20Junior&ch=Win%20Sports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "Win Sports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Fortaleza%20CEIF%20vs%20Junior&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "19:00Primera División: Sportivo San Lorenzo vs OlimpiaParaguay",
+        "opciones": [
+            {
+                "canal": "fanatiz 01",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXox&title=Primera%20Divisi%C3%B3n%3A%20Sportivo%20San%20Lorenzo%20vs%20Olimpia&ch=fanatiz%2001"
+            }
+        ]
+    },
+    {
         "evento": "20:00Liga Profesional: Platense vs Newell's Old BoysArgentina",
         "opciones": [
             {
@@ -322,6 +385,27 @@
         ]
     },
     {
+        "evento": "20:00Liga Profesional: Rosario Central vs Argentinos JuniorsArgentina",
+        "opciones": [
+            {
+                "canal": "ESPN Premium",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=ESPN%20Premium"
+            },
+            {
+                "canal": "ESPN Premium┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=ESPN%20Premium%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN Premium┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=ESPN%20Premium%E2%94%83OP3"
+            },
+            {
+                "canal": "ESPN Premium┃HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=ESPN%20Premium%E2%94%83HD"
+            }
+        ]
+    },
+    {
         "evento": "20:30Liga 1: Juan Pablo II College vs Deportivo MoqueguaPerú",
         "opciones": [
             {
@@ -339,6 +423,199 @@
             {
                 "canal": "Liga1MAX | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Juan%20Pablo%20II%20College%20vs%20Deportivo%20Moquegua&ch=Liga1MAX%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "21:00Serie A: Deportivo Cuenca vs Mushuc RunaEcuador",
+        "opciones": [
+            {
+                "canal": "ECDF LigaPro",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Deportivo%20Cuenca%20vs%20Mushuc%20Runa&ch=ECDF%20LigaPro"
+            },
+            {
+                "canal": "ECDF LigaPro | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Deportivo%20Cuenca%20vs%20Mushuc%20Runa&ch=ECDF%20LigaPro%20%7C%20OP2"
+            },
+            {
+                "canal": "ECDF LigaPro | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Deportivo%20Cuenca%20vs%20Mushuc%20Runa&ch=ECDF%20LigaPro%20%7C%20OP3"
+            },
+            {
+                "canal": "ECDF LigaPRO | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8%3D&title=Serie%20A%3A%20Deportivo%20Cuenca%20vs%20Mushuc%20Runa&ch=ECDF%20LigaPRO%20%7C%20HD"
+            },
+            {
+                "canal": "ECUAVISA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Deportivo%20Cuenca%20vs%20Mushuc%20Runa&ch=ECUAVISA"
+            },
+            {
+                "canal": "ECUAVISA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Deportivo%20Cuenca%20vs%20Mushuc%20Runa&ch=ECUAVISA%20%7C%20OP2"
+            },
+            {
+                "canal": "ECUAVISA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Deportivo%20Cuenca%20vs%20Mushuc%20Runa&ch=ECUAVISA%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "21:05Primera A: Atlético Bucaramanga vs Inter BogotáColombia",
+        "opciones": [
+            {
+                "canal": "Win Sports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Atl%C3%A9tico%20Bucaramanga%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Atl%C3%A9tico%20Bucaramanga%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B%20%7C%20OP2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Atl%C3%A9tico%20Bucaramanga%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "Win Sports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Atl%C3%A9tico%20Bucaramanga%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "21:30Primera División: Sportivo Luqueño vs Deportivo RecoletaParaguay",
+        "opciones": [
+            {
+                "canal": "fanatiz 02",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXoy&title=Primera%20Divisi%C3%B3n%3A%20Sportivo%20Luque%C3%B1o%20vs%20Deportivo%20Recoleta&ch=fanatiz%2002"
+            }
+        ]
+    },
+    {
+        "evento": "21:30Brasileirão: Flamengo vs RB BragantinoBrasil",
+        "opciones": [
+            {
+                "canal": "Sportv BR HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Brasileir%C3%A3o%3A%20Flamengo%20vs%20RB%20Bragantino&ch=Sportv%20BR%20HD"
+            },
+            {
+                "canal": "Sportv BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Brasileir%C3%A3o%3A%20Flamengo%20vs%20RB%20Bragantino&ch=Sportv%20BR"
+            }
+        ]
+    },
+    {
+        "evento": "22:15Liga Profesional: Belgrano vs Estudiantes Río CuartoArgentina",
+        "opciones": [
+            {
+                "canal": "ESPN Premium",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Belgrano%20vs%20Estudiantes%20R%C3%ADo%20Cuarto&ch=ESPN%20Premium"
+            },
+            {
+                "canal": "ESPN Premium┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Belgrano%20vs%20Estudiantes%20R%C3%ADo%20Cuarto&ch=ESPN%20Premium%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN Premium┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20Belgrano%20vs%20Estudiantes%20R%C3%ADo%20Cuarto&ch=ESPN%20Premium%E2%94%83OP3"
+            },
+            {
+                "canal": "ESPN Premium┃HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Belgrano%20vs%20Estudiantes%20R%C3%ADo%20Cuarto&ch=ESPN%20Premium%E2%94%83HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:10Primera A: Deportes Tolima vs América de CaliColombia",
+        "opciones": [
+            {
+                "canal": "Win Sports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportes%20Tolima%20vs%20Am%C3%A9rica%20de%20Cali&ch=Win%20Sports%20%2B"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportes%20Tolima%20vs%20Am%C3%A9rica%20de%20Cali&ch=Win%20Sports%20%2B%20%7C%20OP2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportes%20Tolima%20vs%20Am%C3%A9rica%20de%20Cali&ch=Win%20Sports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "Win Sports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Deportes%20Tolima%20vs%20Am%C3%A9rica%20de%20Cali&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:30Serie A: LDU Quito vs Universidad CatólicaEcuador",
+        "opciones": [
+            {
+                "canal": "ECDF LigaPro",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20LDU%20Quito%20vs%20Universidad%20Cat%C3%B3lica&ch=ECDF%20LigaPro"
+            },
+            {
+                "canal": "ECDF LigaPro | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20LDU%20Quito%20vs%20Universidad%20Cat%C3%B3lica&ch=ECDF%20LigaPro%20%7C%20OP2"
+            },
+            {
+                "canal": "ECDF LigaPro | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20LDU%20Quito%20vs%20Universidad%20Cat%C3%B3lica&ch=ECDF%20LigaPro%20%7C%20OP3"
+            },
+            {
+                "canal": "ECDF LigaPRO | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8%3D&title=Serie%20A%3A%20LDU%20Quito%20vs%20Universidad%20Cat%C3%B3lica&ch=ECDF%20LigaPRO%20%7C%20HD"
+            },
+            {
+                "canal": "ECUAVISA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20LDU%20Quito%20vs%20Universidad%20Cat%C3%B3lica&ch=ECUAVISA"
+            },
+            {
+                "canal": "ECUAVISA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20LDU%20Quito%20vs%20Universidad%20Cat%C3%B3lica&ch=ECUAVISA%20%7C%20OP2"
+            },
+            {
+                "canal": "ECUAVISA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20LDU%20Quito%20vs%20Universidad%20Cat%C3%B3lica&ch=ECUAVISA%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "00:30Liga Profesional: Vélez Sarsfield vs TigreArgentina",
+        "opciones": [
+            {
+                "canal": "TYC Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20V%C3%A9lez%20Sarsfield%20vs%20Tigre&ch=TYC%20Sports"
+            },
+            {
+                "canal": "TyC Sports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20V%C3%A9lez%20Sarsfield%20vs%20Tigre&ch=TyC%20Sports%20%7C%20OP2"
+            },
+            {
+                "canal": "TYC Sports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20V%C3%A9lez%20Sarsfield%20vs%20Tigre&ch=TYC%20Sports%20%7C%20OP3"
+            },
+            {
+                "canal": "TYC Sports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10eWNzcG9ydHM%3D&title=Liga%20Profesional%3A%20V%C3%A9lez%20Sarsfield%20vs%20Tigre&ch=TYC%20Sports%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "01:15Primera A: Llaneros vs Atlético NacionalColombia",
+        "opciones": [
+            {
+                "canal": "Win Sports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Llaneros%20vs%20Atl%C3%A9tico%20Nacional&ch=Win%20Sports%20%2B"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Llaneros%20vs%20Atl%C3%A9tico%20Nacional&ch=Win%20Sports%20%2B%20%7C%20OP2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Llaneros%20vs%20Atl%C3%A9tico%20Nacional&ch=Win%20Sports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "Win Sports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Llaneros%20vs%20Atl%C3%A9tico%20Nacional&ch=Win%20Sports%20%2B%20%7C%20HD"
             }
         ]
     }
