@@ -1,1 +1,345 @@
-[]
+[
+    {
+        "evento": "10:15Eredivisie: Feyenoord vs UtrechtPaises Bajos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Eredivisie%3A%20Feyenoord%20vs%20Utrecht&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 3 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Eredivisie%3A%20Feyenoord%20vs%20Utrecht&ch=ESPN%203%20MX"
+            }
+        ]
+    },
+    {
+        "evento": "10:30Serie A: Fiorentina vs NapoliItalia",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=Disney%2B"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Serie%20A%3A%20Fiorentina%20vs%20Napoli&ch=Universo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "11:00Championship: Wolverhampton Wanderers vs West BromwichInglaterra",
+        "opciones": [
+            {
+                "canal": "ESPN 5",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%205"
+            },
+            {
+                "canal": "ESPN 5 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%205%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 5 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%205%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 5 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%205%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%20MX"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%20MX%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%20MX%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Championship%3A%20Wolverhampton%20Wanderers%20vs%20West%20Bromwich&ch=ESPN%20MX%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "12:00LaLiga: Getafe vs MálagaEspaña",
+        "opciones": [
+            {
+                "canal": "ESPN 4",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%204"
+            },
+            {
+                "canal": "ESPN 4 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%204%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 4 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Canal 5 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=Canal%205%20MX"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%20Deportes%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "13:00Ligue 1: Auxerre vs BrestFrancia",
+        "opciones": [
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Ligue%201%3A%20Auxerre%20vs%20Brest&ch=BeIN%20Sports%20%C3%91"
+            }
+        ]
+    },
+    {
+        "evento": "13:30Bundesliga: Bayer Leverkusen vs RB LeipzigAlemania",
+        "opciones": [
+            {
+                "canal": "Sportv BR HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=Sportv%20BR%20HD"
+            },
+            {
+                "canal": "Sportv BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=Sportv%20BR"
+            }
+        ]
+    },
+    {
+        "evento": "14:15LaLiga: Atlético Madrid vs Real MadridEspaña",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "15:15Ligue 1: Nice vs LilleFrancia",
+        "opciones": [
+            {
+                "canal": "ESPN 4",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=Ligue%201%3A%20Nice%20vs%20Lille&ch=ESPN%204"
+            },
+            {
+                "canal": "ESPN 4 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=Ligue%201%3A%20Nice%20vs%20Lille&ch=ESPN%204%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 4 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Ligue%201%3A%20Nice%20vs%20Lille&ch=ESPN%204%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "16:30LaLiga: Villarreal vs LevanteEspaña",
+        "opciones": [
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Villarreal%20vs%20Levante&ch=ESPN%202"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Villarreal%20vs%20Levante&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=LaLiga%3A%20Villarreal%20vs%20Levante&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=LaLiga%3A%20Villarreal%20vs%20Levante&ch=ESPN%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "17:45Liga Profesional: San Lorenzo vs Boca JuniorsArgentina",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN%20AR%E2%94%83OP3"
+            },
+            {
+                "canal": "TNT Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=TNT%20Sports"
+            },
+            {
+                "canal": "TNT Sports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=TNT%20Sports%20%7C%20OP2"
+            },
+            {
+                "canal": "TNT Sports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=TNT%20Sports%20%7C%20OP3"
+            },
+            {
+                "canal": "TNT Sports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=TNT%20Sports%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:00Liga 1: Sport Huancayo vs UTC CajamarcaPerú",
+        "opciones": [
+            {
+                "canal": "Liga1MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Sport%20Huancayo%20vs%20UTC%20Cajamarca&ch=Liga1MAX"
+            },
+            {
+                "canal": "Liga1Max | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Sport%20Huancayo%20vs%20UTC%20Cajamarca&ch=Liga1Max%20%7C%20OP2"
+            },
+            {
+                "canal": "Liga1Max | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Sport%20Huancayo%20vs%20UTC%20Cajamarca&ch=Liga1Max%20%7C%20OP3"
+            },
+            {
+                "canal": "Liga1MAX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Sport%20Huancayo%20vs%20UTC%20Cajamarca&ch=Liga1MAX%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:45Ligue 1: Olympique Marseille vs PSGFrancia",
+        "opciones": [
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Ligue%201%3A%20Olympique%20Marseille%20vs%20PSG&ch=ESPN%202"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Ligue%201%3A%20Olympique%20Marseille%20vs%20PSG&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Ligue%201%3A%20Olympique%20Marseille%20vs%20PSG&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Ligue%201%3A%20Olympique%20Marseille%20vs%20PSG&ch=ESPN%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:45Serie A: Milan vs LecceItalia",
+        "opciones": [
+            {
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Serie%20A%3A%20Milan%20vs%20Lecce&ch=ESPN%203"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Serie%20A%3A%20Milan%20vs%20Lecce&ch=ESPN%203%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Serie%20A%3A%20Milan%20vs%20Lecce&ch=ESPN%203%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Serie%20A%3A%20Milan%20vs%20Lecce&ch=ESPN%203%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "20:00Liga Profesional: Platense vs Newell's Old BoysArgentina",
+        "opciones": [
+            {
+                "canal": "TNT Sports",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Platense%20vs%20Newell's%20Old%20Boys&ch=TNT%20Sports"
+            },
+            {
+                "canal": "TNT Sports | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Platense%20vs%20Newell's%20Old%20Boys&ch=TNT%20Sports%20%7C%20OP2"
+            },
+            {
+                "canal": "TNT Sports | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Platense%20vs%20Newell's%20Old%20Boys&ch=TNT%20Sports%20%7C%20OP3"
+            },
+            {
+                "canal": "TNT Sports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Platense%20vs%20Newell's%20Old%20Boys&ch=TNT%20Sports%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "20:30Liga 1: Juan Pablo II College vs Deportivo MoqueguaPerú",
+        "opciones": [
+            {
+                "canal": "Liga1MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Juan%20Pablo%20II%20College%20vs%20Deportivo%20Moquegua&ch=Liga1MAX"
+            },
+            {
+                "canal": "Liga1Max | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Juan%20Pablo%20II%20College%20vs%20Deportivo%20Moquegua&ch=Liga1Max%20%7C%20OP2"
+            },
+            {
+                "canal": "Liga1Max | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Juan%20Pablo%20II%20College%20vs%20Deportivo%20Moquegua&ch=Liga1Max%20%7C%20OP3"
+            },
+            {
+                "canal": "Liga1MAX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Juan%20Pablo%20II%20College%20vs%20Deportivo%20Moquegua&ch=Liga1MAX%20%7C%20HD"
+            }
+        ]
+    }
+]
