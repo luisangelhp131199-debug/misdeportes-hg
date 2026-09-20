@@ -1,48 +1,5 @@
 [
     {
-        "evento": "12:30Eredivisie: AZ vs TelstarPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 3 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Eredivisie%3A%20AZ%20vs%20Telstar&ch=ESPN%203%20MX"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=Eredivisie%3A%20AZ%20vs%20Telstar&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "12:30ATP - INDIVIDUALES - Copa Davis - Grupo Mundial (Mundial) - Fase previaTennis",
-        "opciones": [
-            {
-                "canal": "Dsports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202"
-            },
-            {
-                "canal": "Dsports 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20OP2"
-            },
-            {
-                "canal": "Dsports 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20OP3"
-            },
-            {
-                "canal": "Dsports 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "12:30Eredivisie: Twente vs PSVPaises Bajos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Eredivisie%3A%20Twente%20vs%20PSV&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "12:55Copa Mundial Femenina Sub-20 de la FIFA: Nigeria vs ColombiaCopa mundial sub20 fifa",
         "opciones": [
             {
@@ -217,6 +174,22 @@
         "opciones": [
             {
                 "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMA%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20HD"
+            },
+            {
+                "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
             },
             {
@@ -224,20 +197,8 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN"
             },
             {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMA%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20HD"
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP3"
             },
             {
                 "canal": "ESPN AR┃OP3",
@@ -250,10 +211,6 @@
             {
                 "canal": "ESPN Deportes",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20Deportes%20%7C%20OP3"
             },
             {
                 "canal": "Espn+",
@@ -343,6 +300,15 @@
             {
                 "canal": "Universo | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Bundesliga%3A%20Schalke%2004%20vs%20Elversberg&ch=Universo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "15:30Copa Deivis: Chile vs EspañaTennis",
+        "opciones": [
+            {
+                "canal": "DSports | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Copa%20Deivis%3A%20Chile%20vs%20Espa%C3%B1a&ch=DSports%20%7C%20HD"
             }
         ]
     },
