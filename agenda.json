@@ -1,55 +1,5 @@
 [
     {
-        "evento": "12:00LaLiga: Getafe vs MálagaEspaña",
-        "opciones": [
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%204"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%204%20%7C%20OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=Disney%2B"
-            },
-            {
-                "canal": "Canal 5 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=Canal%205%20MX"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=ESPN%20Deportes%20%7C%20OP3"
-            },
-            {
-                "canal": "Espn+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wbHVzMQ%3D%3D&title=LaLiga%3A%20Getafe%20vs%20M%C3%A1laga&ch=Espn%2B"
-            }
-        ]
-    },
-    {
-        "evento": "12:00LaLiga SmartBank: Sabadell vs Real OviedoEspaña",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Sabadell%20vs%20Real%20Oviedo&ch=LaLiga%20TV%20Hypermotion"
-            }
-        ]
-    },
-    {
         "evento": "12:30Eredivisie: AZ vs TelstarPaises Bajos",
         "opciones": [
             {
@@ -266,6 +216,10 @@
         "evento": "14:15LaLiga: Atlético Madrid vs Real MadridEspaña",
         "opciones": [
             {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
+            },
+            {
                 "canal": "ESPN",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN"
             },
@@ -280,10 +234,6 @@
             {
                 "canal": "ESPN AR┃OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=LaLiga%3A%20Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid&ch=Disney%2B"
             },
             {
                 "canal": "ESPN HD",
