@@ -1,26 +1,5 @@
 [
     {
-        "evento": "13:30Bundesliga: Bayer Leverkusen vs RB LeipzigAlemania",
-        "opciones": [
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=Sportv%20BR%20HD"
-            },
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=ESPN%202"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=Disney%2B"
-            },
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=Sportv%20BR"
-            }
-        ]
-    },
-    {
         "evento": "14:00Superliga de Grecia: Levadiakos vs Olympiakos PiraeusAmistosos Paises",
         "opciones": [
             {
@@ -636,6 +615,19 @@
         ]
     },
     {
+        "evento": "19:00Brasileirão: Corinthians vs FluminenseBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Corinthians%20vs%20Fluminense&ch=Premiere%20BR"
+            },
+            {
+                "canal": "Premiere BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Corinthians%20vs%20Fluminense&ch=Premiere%20BR%20%7C%20HD"
+            }
+        ]
+    },
+    {
         "evento": "19:00LaLiga SmartBank: Leganés vs GranadaEspaña",
         "opciones": [
             {
@@ -684,6 +676,45 @@
         ]
     },
     {
+        "evento": "19:00Brasileirão: Vitória vs CruzeiroBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere 5 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlNQ%3D%3D&title=Brasileir%C3%A3o%3A%20Vit%C3%B3ria%20vs%20Cruzeiro&ch=Premiere%205%20BR"
+            }
+        ]
+    },
+    {
+        "evento": "19:30Primeira Liga: Porto vs BenficaPortugal",
+        "opciones": [
+            {
+                "canal": "Dsports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Primeira%20Liga%3A%20Porto%20vs%20Benfica&ch=Dsports%202"
+            },
+            {
+                "canal": "Dsports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Primeira%20Liga%3A%20Porto%20vs%20Benfica&ch=Dsports%202%20%7C%20OP2"
+            },
+            {
+                "canal": "Dsports 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=Primeira%20Liga%3A%20Porto%20vs%20Benfica&ch=Dsports%202%20%7C%20OP3"
+            },
+            {
+                "canal": "Dsports 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=Primeira%20Liga%3A%20Porto%20vs%20Benfica&ch=Dsports%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "19:30Primera División: Nacional vs Defensor SportingUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEz&title=Primera%20Divisi%C3%B3n%3A%20Nacional%20vs%20Defensor%20Sporting&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "20:00Liga Profesional: Platense vs Newell's Old BoysArgentina",
         "opciones": [
             {
@@ -722,6 +753,43 @@
             {
                 "canal": "ESPN Premium┃HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ%3D%3D&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=ESPN%20Premium%E2%94%83HD"
+            },
+            {
+                "canal": "FOX Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=FOX%20Deportes"
+            },
+            {
+                "canal": "FOX Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=FOX%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "FOX Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=FOX%20Deportes%20%7C%20OP3"
+            },
+            {
+                "canal": "FOX Deportes | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw%3D%3D&title=Liga%20Profesional%3A%20Rosario%20Central%20vs%20Argentinos%20Juniors&ch=FOX%20Deportes%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "20:00NFL: Jaguars vs BroncosNFL",
+        "opciones": [
+            {
+                "canal": "ESPN 7",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG43&title=NFL%3A%20Jaguars%20vs%20Broncos&ch=ESPN%207"
+            },
+            {
+                "canal": "ESPN 7 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG43&title=NFL%3A%20Jaguars%20vs%20Broncos&ch=ESPN%207%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 7 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG43&title=NFL%3A%20Jaguars%20vs%20Broncos&ch=ESPN%207%20%7C%20OP3"
+            },
+            {
+                "canal": "Fox Sports 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czM%3D&title=NFL%3A%20Jaguars%20vs%20Broncos&ch=Fox%20Sports%203"
             }
         ]
     },
