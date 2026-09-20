@@ -1,31 +1,5 @@
 [
     {
-        "evento": "14:45Eredivisie: NEC vs Go Ahead EaglesPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 2 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%3A%20NEC%20vs%20Go%20Ahead%20Eagles&ch=ESPN%202%20NL"
-            }
-        ]
-    },
-    {
-        "evento": "14:45Eerste Divisie: De Graafschap vs NAC BredaPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20De%20Graafschap%20vs%20NAC%20Breda&ch=ESPN%20NL"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20De%20Graafschap%20vs%20NAC%20Breda&ch=ESPN%20NL%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20De%20Graafschap%20vs%20NAC%20Breda&ch=ESPN%20NL%20%7C%20OP3"
-            }
-        ]
-    },
-    {
         "evento": "15:15Ligue 1: Nice vs LilleFrancia",
         "opciones": [
             {
@@ -318,20 +292,24 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN"
             },
             {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=Disney%2B"
             },
             {
                 "canal": "TNT Sports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=TNT%20Sports"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRpc25leTEw&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20San%20Lorenzo%20vs%20Boca%20Juniors&ch=ESPN%20AR%E2%94%83OP3"
             },
             {
                 "canal": "TNT Sports | OP2",
