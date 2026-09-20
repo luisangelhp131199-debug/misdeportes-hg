@@ -1,26 +1,5 @@
 [
     {
-        "evento": "08:45MotoGP – GP Austria – Carrera Moto3/Moto2/MotoGPMOTO GP",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=MotoGP%20%E2%80%93%20GP%20Austria%20%E2%80%93%20Carrera%20Moto3%2FMoto2%2FMotoGP&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=MotoGP%20%E2%80%93%20GP%20Austria%20%E2%80%93%20Carrera%20Moto3%2FMoto2%2FMotoGP&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=MotoGP%20%E2%80%93%20GP%20Austria%20%E2%80%93%20Carrera%20Moto3%2FMoto2%2FMotoGP&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=MotoGP%20%E2%80%93%20GP%20Austria%20%E2%80%93%20Carrera%20Moto3%2FMoto2%2FMotoGP&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "10:15Eredivisie: Feyenoord vs UtrechtPaises Bajos",
         "opciones": [
             {
@@ -173,6 +152,27 @@
         ]
     },
     {
+        "evento": "11:30ATP - INDIVIDUALES - Copa Davis - Grupo Mundial (Mundial) - Fase previaTennis",
+        "opciones": [
+            {
+                "canal": "Dsports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202"
+            },
+            {
+                "canal": "Dsports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20OP2"
+            },
+            {
+                "canal": "Dsports 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20OP3"
+            },
+            {
+                "canal": "Dsports 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
         "evento": "12:00LaLiga: Getafe vs MálagaEspaña",
         "opciones": [
             {
@@ -236,6 +236,27 @@
         ]
     },
     {
+        "evento": "12:30ATP - INDIVIDUALES - Copa Davis - Grupo Mundial (Mundial) - Fase previaTennis",
+        "opciones": [
+            {
+                "canal": "Dsports 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202"
+            },
+            {
+                "canal": "Dsports 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20OP2"
+            },
+            {
+                "canal": "Dsports 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHMy&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20OP3"
+            },
+            {
+                "canal": "Dsports 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg%3D%3D&title=ATP%20-%20INDIVIDUALES%20-%20Copa%20Davis%20-%20Grupo%20Mundial%20(Mundial)%20-%20Fase%20previa&ch=Dsports%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
         "evento": "12:30Eredivisie: Twente vs PSVPaises Bajos",
         "opciones": [
             {
@@ -288,6 +309,15 @@
         ]
     },
     {
+        "evento": "13:00Premier League: Leeds United vs Crystal PalaceInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=Premier%20League%3A%20Leeds%20United%20vs%20Crystal%20Palace&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "13:00Serie A: Frosinone vs ComoItalia",
         "opciones": [
             {
@@ -310,11 +340,37 @@
         ]
     },
     {
+        "evento": "13:00Premier League: Manchester City vs SunderlandInglaterra",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=Premier%20League%3A%20Manchester%20City%20vs%20Sunderland&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "13:00Primera División: Albion vs JuventudUruguay",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=Primera%20Divisi%C3%B3n%3A%20Albion%20vs%20Juventud&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "13:30Bundesliga: Bayer Leverkusen vs RB LeipzigAlemania",
         "opciones": [
             {
                 "canal": "Sportv BR HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=Sportv%20BR%20HD"
+            },
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=ESPN%202"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Bundesliga%3A%20Bayer%20Leverkusen%20vs%20RB%20Leipzig&ch=Disney%2B"
             },
             {
                 "canal": "Sportv BR",
@@ -328,6 +384,19 @@
             {
                 "canal": "Claro Sports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09Y2xhcm9zcG9ydHMx&title=Superliga%20de%20Grecia%3A%20Levadiakos%20vs%20Olympiakos%20Piraeus&ch=Claro%20Sports"
+            }
+        ]
+    },
+    {
+        "evento": "14:00Brasileirão: Grêmio vs PalmeirasBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Gr%C3%AAmio%20vs%20Palmeiras&ch=Premiere%20BR"
+            },
+            {
+                "canal": "Premiere BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXByZW1pZXJlMQ%3D%3D&title=Brasileir%C3%A3o%3A%20Gr%C3%AAmio%20vs%20Palmeiras&ch=Premiere%20BR%20%7C%20HD"
             }
         ]
     },
