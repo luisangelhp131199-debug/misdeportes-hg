@@ -230,16 +230,8 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Eredivisie%3A%20AZ%20vs%20Telstar&ch=ESPN%203%20MX"
             },
             {
-                "canal": "ESPN NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20AZ%20vs%20Telstar&ch=ESPN%20NL"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20AZ%20vs%20Telstar&ch=ESPN%20NL%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%3A%20AZ%20vs%20Telstar&ch=ESPN%20NL%20%7C%20OP3"
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=Eredivisie%3A%20AZ%20vs%20Telstar&ch=Disney%2B"
             }
         ]
     },
@@ -247,8 +239,8 @@
         "evento": "12:30Eredivisie: Twente vs PSVPaises Bajos",
         "opciones": [
             {
-                "canal": "ESPN 3 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zX25s&title=Eredivisie%3A%20Twente%20vs%20PSV&ch=ESPN%203%20NL"
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Eredivisie%3A%20Twente%20vs%20PSV&ch=Disney%2B"
             }
         ]
     },
@@ -256,16 +248,51 @@
         "evento": "12:55Copa Mundial Femenina Sub-20 de la FIFA: Nigeria vs ColombiaCopa mundial sub20 fifa",
         "opciones": [
             {
-                "canal": "FOX Sports 1 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czFfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Nigeria%20vs%20Colombia&ch=FOX%20Sports%201%20USA"
-            },
-            {
                 "canal": "Universo",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Nigeria%20vs%20Colombia&ch=Universo"
             },
             {
                 "canal": "Universo | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Nigeria%20vs%20Colombia&ch=Universo%20%7C%20HD"
+            },
+            {
+                "canal": "FOX Sports 1 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czFfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Nigeria%20vs%20Colombia&ch=FOX%20Sports%201%20USA"
+            }
+        ]
+    },
+    {
+        "evento": "13:00Serie A: Parma vs GenoaItalia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=Serie%20A%3A%20Parma%20vs%20Genoa&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "13:00Premier League: AFC Bournemouth vs LiverpoolInglaterra",
+        "opciones": [
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Premier%20League%3A%20AFC%20Bournemouth%20vs%20Liverpool&ch=Telemundo"
+            },
+            {
+                "canal": "Telefe | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlZmU%3D&title=Premier%20League%3A%20AFC%20Bournemouth%20vs%20Liverpool&ch=Telefe%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=Premier%20League%3A%20AFC%20Bournemouth%20vs%20Liverpool&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "13:00Serie A: Frosinone vs ComoItalia",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=Serie%20A%3A%20Frosinone%20vs%20Como&ch=Disney%2B"
             }
         ]
     },
@@ -275,6 +302,10 @@
             {
                 "canal": "BeIN Sports Ñ",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Ligue%201%3A%20Auxerre%20vs%20Brest&ch=BeIN%20Sports%20%C3%91"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEz&title=Ligue%201%3A%20Auxerre%20vs%20Brest&ch=Disney%2B"
             }
         ]
     },
