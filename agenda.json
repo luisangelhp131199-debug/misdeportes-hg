@@ -1,39 +1,5 @@
 [
     {
-        "evento": "20:30UFC: Joshua Van vs Alexandre PantojaUFC",
-        "opciones": [
-            {
-                "canal": "Paramount+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXBhcmFtb3VudDE%3D&title=UFC%3A%20Joshua%20Van%20vs%20Alexandre%20Pantoja&ch=Paramount%2B"
-            },
-            {
-                "canal": "Paramount+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXBhcmFtb3VudDI%3D&title=UFC%3A%20Joshua%20Van%20vs%20Alexandre%20Pantoja&ch=Paramount%2B"
-            }
-        ]
-    },
-    {
-        "evento": "20:30Liga 1: Sporting Cristal vs Atlético GrauPerú",
-        "opciones": [
-            {
-                "canal": "Liga1MAX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Sporting%20Cristal%20vs%20Atl%C3%A9tico%20Grau&ch=Liga1MAX"
-            },
-            {
-                "canal": "Liga1Max | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Sporting%20Cristal%20vs%20Atl%C3%A9tico%20Grau&ch=Liga1Max%20%7C%20OP2"
-            },
-            {
-                "canal": "Liga1Max | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Sporting%20Cristal%20vs%20Atl%C3%A9tico%20Grau&ch=Liga1Max%20%7C%20OP3"
-            },
-            {
-                "canal": "Liga1MAX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Sporting%20Cristal%20vs%20Atl%C3%A9tico%20Grau&ch=Liga1MAX%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "21:05Primera A: Alianza vs Santa FeColombia",
         "opciones": [
             {
@@ -164,20 +130,8 @@
         "evento": "22:00Liga Profesional: River Plate vs HuracánArgentina",
         "opciones": [
             {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuNA%3D%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20HD"
-            },
-            {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN Premium┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium%E2%94%83OP2"
             },
             {
                 "canal": "ESPN",
@@ -186,6 +140,18 @@
             {
                 "canal": "ESPN Premium",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuNA%3D%3D&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20HD"
+            },
+            {
+                "canal": "ESPN Premium┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5wcmVtaXVt&title=Liga%20Profesional%3A%20River%20Plate%20vs%20Hurac%C3%A1n&ch=ESPN%20Premium%E2%94%83OP2"
             },
             {
                 "canal": "ESPN Premium┃OP3",
