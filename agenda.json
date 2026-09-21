@@ -1,26 +1,5 @@
 [
     {
-        "evento": "17:30Liga Profesional: Aldosivi vs Atlético TucumánArgentina",
-        "opciones": [
-            {
-                "canal": "TNT Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Aldosivi%20vs%20Atl%C3%A9tico%20Tucum%C3%A1n&ch=TNT%20Sports"
-            },
-            {
-                "canal": "TNT Sports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Aldosivi%20vs%20Atl%C3%A9tico%20Tucum%C3%A1n&ch=TNT%20Sports%20%7C%20OP3"
-            },
-            {
-                "canal": "TNT Sports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Aldosivi%20vs%20Atl%C3%A9tico%20Tucum%C3%A1n&ch=TNT%20Sports%20%7C%20OP2"
-            },
-            {
-                "canal": "TNT Sports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Aldosivi%20vs%20Atl%C3%A9tico%20Tucum%C3%A1n&ch=TNT%20Sports%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "19:00Serie A: Manta vs OrenseEcuador",
         "opciones": [
             {
@@ -75,6 +54,15 @@
         ]
     },
     {
+        "evento": "22:00NCAA Men's Soccer: Louisville vs BelmontEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Louisville%20vs%20Belmont&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "22:00Copa de la División Profesional: Guabirá vs San Antonio Bulo BuloBolivia",
         "opciones": [
             {
@@ -105,11 +93,65 @@
         ]
     },
     {
+        "evento": "22:30MLB: Baltimore Orioles vs Toronto Blue JaysMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=MLB%3A%20Baltimore%20Orioles%20vs%20Toronto%20Blue%20Jays&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "22:30Primera División: Central Español vs TorqueUruguay",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Primera%20Divisi%C3%B3n%3A%20Central%20Espa%C3%B1ol%20vs%20Torque&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL - Pretemporada: Washington Capitals - vs Philadelphia FlyersHokey",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=NHL%20-%20Pretemporada%3A%20Washington%20Capitals%20-%20vs%20Philadelphia%20Flyers&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL - Pretemporada: Columbus Blue Jackets vs Detroit Red WingsHokey",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=NHL%20-%20Pretemporada%3A%20Columbus%20Blue%20Jackets%20vs%20Detroit%20Red%20Wings&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL - Pretemporada: New Jersey Devils vs New York RangersHokey",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=NHL%20-%20Pretemporada%3A%20New%20Jersey%20Devils%20vs%20New%20York%20Rangers&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NCAA Men's Soccer: Georgetown vs EvansvilleEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Georgetown%20vs%20Evansville&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NCAA Men's Soccer: Ohio St. vs WashingtonEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Ohio%20St.%20vs%20Washington&ch=Disney%2B"
             }
         ]
     },
