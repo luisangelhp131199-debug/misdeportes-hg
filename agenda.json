@@ -1,183 +1,10 @@
 [
     {
-        "evento": "16:00soccer: Azerbaijan vs. TajikistanAmistosos Paises",
+        "evento": "20:00NCAA Men's Soccer: UC Riverside vs. Sacramento StateEstados Unidos",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=soccer%3A%20Azerbaijan%20vs.%20Tajikistan&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:00USL Championship: Birmingham Legion vs BrooklynEstados Unidos",
-        "opciones": [
-            {
-                "canal": "TUDN USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=USL%20Championship%3A%20Birmingham%20Legion%20vs%20Brooklyn&ch=TUDN%20USA"
-            },
-            {
-                "canal": "TUDN USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=USL%20Championship%3A%20Birmingham%20Legion%20vs%20Brooklyn&ch=TUDN%20USA%20%7C%20OP2"
-            },
-            {
-                "canal": "TUDN USA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=USL%20Championship%3A%20Birmingham%20Legion%20vs%20Brooklyn&ch=TUDN%20USA%20%7C%20OP3"
-            },
-            {
-                "canal": "TUDN USA | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=USL%20Championship%3A%20Birmingham%20Legion%20vs%20Brooklyn&ch=TUDN%20USA%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "16:30Copa Mundial Femenina Sub-20 de la FIFA: Corea del Norte vs ColombiaCopa mundial sub20 fifa",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Corea%20del%20Norte%20vs%20Colombia&ch=Fox%20Sports%202%20USA"
-            }
-        ]
-    },
-    {
-        "evento": "16:45UEFA Women's Champions League: Servette Chênois Féminin vs OL LyonnesUEFA Women's Champions League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20Servette%20Ch%C3%AAnois%20F%C3%A9minin%20vs%20OL%20Lyonnes&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Women's%20Champions%20League%3A%20Servette%20Ch%C3%AAnois%20F%C3%A9minin%20vs%20OL%20Lyonnes&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Women's%20Champions%20League%3A%20Servette%20Ch%C3%AAnois%20F%C3%A9minin%20vs%20OL%20Lyonnes&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Women's%20Champions%20League%3A%20Servette%20Ch%C3%AAnois%20F%C3%A9minin%20vs%20OL%20Lyonnes&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20Servette%20Ch%C3%AAnois%20F%C3%A9minin%20vs%20OL%20Lyonnes&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "16:45UEFA Women's Champions League: OH Leuven vs RomaUEFA Women's Champions League",
-        "opciones": [
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=UEFA%20Women's%20Champions%20League%3A%20OH%20Leuven%20vs%20Roma&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20OH%20Leuven%20vs%20Roma&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20OH%20Leuven%20vs%20Roma&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20OH%20Leuven%20vs%20Roma&ch=ESPN%20Deportes%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "17:00MLB – Detroit Tigers vs. Washington NationalsMLB Preseason",
-        "opciones": [
-            {
-                "canal": "ESPN 5",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=MLB%20%E2%80%93%20Detroit%20Tigers%20vs.%20Washington%20Nationals&ch=ESPN%205"
-            },
-            {
-                "canal": "ESPN 5 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=MLB%20%E2%80%93%20Detroit%20Tigers%20vs.%20Washington%20Nationals&ch=ESPN%205%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 5 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=MLB%20%E2%80%93%20Detroit%20Tigers%20vs.%20Washington%20Nationals&ch=ESPN%205%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 5 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=MLB%20%E2%80%93%20Detroit%20Tigers%20vs.%20Washington%20Nationals&ch=ESPN%205%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "17:00Abrierto Hurlingham CLUB: Chapaleufú Vista vs. Don Ercole (Cuartos de Final)Amistosos Paises",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Abrierto%20Hurlingham%20CLUB%3A%20Chapaleuf%C3%BA%20Vista%20vs.%20Don%20Ercole%20(Cuartos%20de%20Final)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Torneo de Reserva: Defensa y Justicia vs TigreArgentina",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Defensa%20y%20Justicia%20vs%20Tigre&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Defensa%20y%20Justicia%20vs%20Tigre&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Defensa%20y%20Justicia%20vs%20Tigre&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Torneo%20de%20Reserva%3A%20Defensa%20y%20Justicia%20vs%20Tigre&ch=ESPN%203%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Women's Champions League: Chelsea FC vs Austria WienUEFA Women's Champions League",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Women's%20Champions%20League%3A%20Chelsea%20FC%20vs%20Austria%20Wien&ch=ESPN%202"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20Chelsea%20FC%20vs%20Austria%20Wien&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Women's%20Champions%20League%3A%20Chelsea%20FC%20vs%20Austria%20Wien&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Women's%20Champions%20League%3A%20Chelsea%20FC%20vs%20Austria%20Wien&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20Chelsea%20FC%20vs%20Austria%20Wien&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Women's Champions League: Barcelona vs Paris FCUEFA Women's Champions League",
-        "opciones": [
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=UEFA%20Women's%20Champions%20League%3A%20Barcelona%20vs%20Paris%20FC&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20Barcelona%20vs%20Paris%20FC&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20Barcelona%20vs%20Paris%20FC&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20Barcelona%20vs%20Paris%20FC&ch=ESPN%20Deportes%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=NCAA%20Men's%20Soccer%3A%20UC%20Riverside%20vs.%20Sacramento%20State&ch=Disney%2B"
             }
         ]
     },
@@ -216,6 +43,15 @@
             {
                 "canal": "TNT Sports Premiun CL HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Copa%20Chile%3A%20Curic%C3%B3%20Unido%20vs%20Deportes%20Concepci%C3%B3n&ch=TNT%20Sports%20Premiun%20CL%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "22:00NCAA Women's Soccer: South Alabama vs. Coastal CarolinaEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=NCAA%20Women's%20Soccer%3A%20South%20Alabama%20vs.%20Coastal%20Carolina&ch=Disney%2B"
             }
         ]
     },
