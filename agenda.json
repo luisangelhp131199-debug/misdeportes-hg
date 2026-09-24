@@ -1,57 +1,19 @@
 [
     {
-        "evento": "20:00NCAA Men's Soccer: UC Riverside vs. Sacramento StateEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=NCAA%20Men's%20Soccer%3A%20UC%20Riverside%20vs.%20Sacramento%20State&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "20:00Liga 1: ADT vs CiencianoPerú",
-        "opciones": [
-            {
-                "canal": "Liga1MAX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20ADT%20vs%20Cienciano&ch=Liga1MAX"
-            },
-            {
-                "canal": "Liga1Max | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20ADT%20vs%20Cienciano&ch=Liga1Max%20%7C%20OP2"
-            },
-            {
-                "canal": "Liga1Max | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20ADT%20vs%20Cienciano&ch=Liga1Max%20%7C%20OP3"
-            },
-            {
-                "canal": "Liga1MAX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20ADT%20vs%20Cienciano&ch=Liga1MAX%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "21:00Copa Chile: Curicó Unido vs Deportes ConcepciónChile",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Chile%3A%20Curic%C3%B3%20Unido%20vs%20Deportes%20Concepci%C3%B3n&ch=TNT%20Sports%20Premiun%20CL"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Chile%3A%20Curic%C3%B3%20Unido%20vs%20Deportes%20Concepci%C3%B3n&ch=TNT%20Sports%20Premiun%20CL%20OP2"
-            },
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Copa%20Chile%3A%20Curic%C3%B3%20Unido%20vs%20Deportes%20Concepci%C3%B3n&ch=TNT%20Sports%20Premiun%20CL%20HD"
-            }
-        ]
-    },
-    {
         "evento": "22:00NCAA Women's Soccer: South Alabama vs. Coastal CarolinaEstados Unidos",
         "opciones": [
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=NCAA%20Women's%20Soccer%3A%20South%20Alabama%20vs.%20Coastal%20Carolina&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:00NCAA Women's Soccer volleyball: New Hampshire vs. DartmouthEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=NCAA%20Women's%20Soccer%20volleyball%3A%20New%20Hampshire%20vs.%20Dartmouth&ch=Disney%2B"
             }
         ]
     },
@@ -73,6 +35,24 @@
             {
                 "canal": "ESPN 3 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Torneo%20de%20Reserva%3A%20Belgrano%20vs%20Talleres%20de%20C%C3%B3rdoba&ch=ESPN%203%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "22:00NCAA Men's Soccer: Stonehill vs. Holy Cross |Estados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Stonehill%20vs.%20Holy%20Cross%20%7C&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:30ATP UncoveredTennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=ATP%20Uncovered&ch=Disney%2B"
             }
         ]
     },
