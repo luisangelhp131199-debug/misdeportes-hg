@@ -1,132 +1,10 @@
 [
     {
-        "evento": "10:00Amistoso: Australia vs BrasilAmistosos Paises",
-        "opciones": [
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Amistoso%3A%20Australia%20vs%20Brasil&ch=Sportv%20BR"
-            },
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Amistoso%3A%20Australia%20vs%20Brasil&ch=Sportv%20BR%20HD"
-            },
-            {
-                "canal": "TYC Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Amistoso%3A%20Australia%20vs%20Brasil&ch=TYC%20Sports"
-            },
-            {
-                "canal": "TyC Sports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Amistoso%3A%20Australia%20vs%20Brasil&ch=TyC%20Sports%20%7C%20OP2"
-            },
-            {
-                "canal": "TYC Sports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Amistoso%3A%20Australia%20vs%20Brasil&ch=TYC%20Sports%20%7C%20OP3"
-            },
-            {
-                "canal": "TYC Sports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10eWNzcG9ydHM%3D&title=Amistoso%3A%20Australia%20vs%20Brasil&ch=TYC%20Sports%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "10:00F2 Bakú – Carrera #1Formula 2",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=F2%20Bak%C3%BA%20%E2%80%93%20Carrera%20%231&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=F2%20Bak%C3%BA%20%E2%80%93%20Carrera%20%231&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=F2%20Bak%C3%BA%20%E2%80%93%20Carrera%20%231&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=F2%20Bak%C3%BA%20%E2%80%93%20Carrera%20%231&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "10:30WTA: Singapore Tennis Open presented by BNP Paribas Open (Quarterfinals) |Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=WTA%3A%20Singapore%20Tennis%20Open%20presented%20by%20BNP%20Paribas%20Open%20(Quarterfinals)%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "11:00ATP: Hangzhou Open (Second Round) |Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=ATP%3A%20Hangzhou%20Open%20(Second%20Round)%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "11:30Tenis – Laver Cup – Día 1Tennis",
-        "opciones": [
-            {
-                "canal": "ESPN 5",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%201&ch=ESPN%205"
-            },
-            {
-                "canal": "ESPN 5 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%201&ch=ESPN%205%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 5 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%201&ch=ESPN%205%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 5 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%201&ch=ESPN%205%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "13:00Clasificación para la Copa Africana de Naciones: Tanzania vs Guinea-BissauAFRICA",
+        "evento": "16:00Clasificación para la Copa Africana de Naciones: Gambia vs SomaliaAFRICA",
         "opciones": [
             {
                 "canal": "BeIN Sports Ñ",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Tanzania%20vs%20Guinea-Bissau&ch=BeIN%20Sports%20%C3%91"
-            }
-        ]
-    },
-    {
-        "evento": "14:00Serie A: Academia Costa Del Este vs Potros Del EsteEcuador",
-        "opciones": [
-            {
-                "canal": "ECDF LigaPro",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Academia%20Costa%20Del%20Este%20vs%20Potros%20Del%20Este&ch=ECDF%20LigaPro"
-            },
-            {
-                "canal": "ECDF LigaPro | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Academia%20Costa%20Del%20Este%20vs%20Potros%20Del%20Este&ch=ECDF%20LigaPro%20%7C%20OP2"
-            },
-            {
-                "canal": "ECDF LigaPro | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGZfbGlnYXBybw%3D%3D&title=Serie%20A%3A%20Academia%20Costa%20Del%20Este%20vs%20Potros%20Del%20Este&ch=ECDF%20LigaPro%20%7C%20OP3"
-            },
-            {
-                "canal": "ECDF LigaPRO | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8%3D&title=Serie%20A%3A%20Academia%20Costa%20Del%20Este%20vs%20Potros%20Del%20Este&ch=ECDF%20LigaPRO%20%7C%20HD"
-            },
-            {
-                "canal": "ECUAVISA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Academia%20Costa%20Del%20Este%20vs%20Potros%20Del%20Este&ch=ECUAVISA"
-            },
-            {
-                "canal": "ECUAVISA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Academia%20Costa%20Del%20Este%20vs%20Potros%20Del%20Este&ch=ECUAVISA%20%7C%20OP2"
-            },
-            {
-                "canal": "ECUAVISA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Serie%20A%3A%20Academia%20Costa%20Del%20Este%20vs%20Potros%20Del%20Este&ch=ECUAVISA%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Gambia%20vs%20Somalia&ch=BeIN%20Sports%20%C3%91"
             }
         ]
     },
@@ -136,6 +14,10 @@
             {
                 "canal": "ESPN 2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Georgia%20vs%20Irlanda%20del%20Norte&ch=ESPN%202"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=UEFA%20Nations%20League%3A%20Georgia%20vs%20Irlanda%20del%20Norte&ch=Disney%2B"
             },
             {
                 "canal": "ESPN 2 | OP2",
@@ -152,11 +34,15 @@
         ]
     },
     {
-        "evento": "16:00Clasificación para la Copa Africana de Naciones: Gambia vs SomaliaAFRICA",
+        "evento": "16:00UEFA Nations League: Armenia vs LetoniaUEFA Nations League",
         "opciones": [
             {
-                "canal": "BeIN Sports Ñ",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Gambia%20vs%20Somalia&ch=BeIN%20Sports%20%C3%91"
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=UEFA%20Nations%20League%3A%20Armenia%20vs%20Letonia&ch=Disney%2B"
+            },
+            {
+                "canal": "Sportv 2 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0djI%3D&title=UEFA%20Nations%20League%3A%20Armenia%20vs%20Letonia&ch=Sportv%202%20BR"
             }
         ]
     },
@@ -229,11 +115,100 @@
         ]
     },
     {
+        "evento": "18:45UEFA Nations League: Polonia vs Bosnia-HerzegovinaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=UEFA%20Nations%20League%3A%20Polonia%20vs%20Bosnia-Herzegovina&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "18:45UEFA Nations League: Italia vs BélgicaUEFA Nations League",
         "opciones": [
             {
                 "canal": "Fox Sports 2 USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Italia%20vs%20B%C3%A9lgica&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=UEFA%20Nations%20League%3A%20Italia%20vs%20B%C3%A9lgica&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Nations%20League%3A%20Italia%20vs%20B%C3%A9lgica&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Italia%20vs%20B%C3%A9lgica&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Italia%20vs%20B%C3%A9lgica&ch=ESPN%20AR%E2%94%83OP3"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Montenegro vs ChipreUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=UEFA%20Nations%20League%3A%20Montenegro%20vs%20Chipre&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Hungría vs UcraniaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=UEFA%20Nations%20League%3A%20Hungr%C3%ADa%20vs%20Ucrania&ch=Disney%2B"
+            },
+            {
+                "canal": "Sportv 2 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0djI%3D&title=UEFA%20Nations%20League%3A%20Hungr%C3%ADa%20vs%20Ucrania&ch=Sportv%202%20BR"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Suecia vs RumaniaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Rumania&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 5",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Rumania&ch=ESPN%205"
+            },
+            {
+                "canal": "ESPN 5 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Rumania&ch=ESPN%205%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 5 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Rumania&ch=ESPN%205%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 5 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Rumania&ch=ESPN%205%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Turquía vs FranciaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=UEFA%20Nations%20League%3A%20Turqu%C3%ADa%20vs%20Francia&ch=Disney%2B"
+            },
+            {
+                "canal": "Sportv BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=UEFA%20Nations%20League%3A%20Turqu%C3%ADa%20vs%20Francia&ch=Sportv%20BR"
+            },
+            {
+                "canal": "Sportv BR HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=UEFA%20Nations%20League%3A%20Turqu%C3%ADa%20vs%20Francia&ch=Sportv%20BR%20HD"
             }
         ]
     },
