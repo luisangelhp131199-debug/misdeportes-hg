@@ -1,232 +1,5 @@
 [
     {
-        "evento": "17:00PGA TOUR: 2026 Presidents Cup (Third Round)Golf",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=PGA%20TOUR%3A%202026%20Presidents%20Cup%20(Third%20Round)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Primera División: Cerro Largo vs NacionalUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=Primera%20Divisi%C3%B3n%3A%20Cerro%20Largo%20vs%20Nacional&ch=Disney%2B"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Cerro%20Largo%20vs%20Nacional&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Eerste Divisie: Roda JC vs RKC WaalwijkPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 3 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zX25s&title=Eerste%20Divisie%3A%20Roda%20JC%20vs%20RKC%20Waalwijk&ch=ESPN%203%20NL"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Tenis – Laver Cup – Día 2Tennis",
-        "opciones": [
-            {
-                "canal": "ESPN 5",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205"
-            },
-            {
-                "canal": "ESPN 5 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 5 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 5 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "18:00ESPN Knockout – Gerome Warburton vs. Nathan HeaneyBoxeo",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Eerste Divisie: Volendam vs VVVPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN 2 NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eerste%20Divisie%3A%20Volendam%20vs%20VVV&ch=ESPN%202%20NL"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Primera B: Cobreloa vs Santiago WanderersChile",
-        "opciones": [
-            {
-                "canal": "TNT Sports Premiun CL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Cobreloa%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL"
-            },
-            {
-                "canal": "TNT Sports Premiun CL OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Cobreloa%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL%20OP2"
-            },
-            {
-                "canal": "TNT Sports Premiun CL HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20Cobreloa%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "18:45UEFA Nations League: Inglaterra vs EspañaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxNw%3D%3D&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=ESPN"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            }
-        ]
-    },
-    {
-        "evento": "18:45UEFA Nations League: República Checa vs CroaciaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=UEFA%20Nations%20League%3A%20Rep%C3%BAblica%20Checa%20vs%20Croacia&ch=Disney%2B"
-            },
-            {
-                "canal": "Sportv 2 BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0djI%3D&title=UEFA%20Nations%20League%3A%20Rep%C3%BAblica%20Checa%20vs%20Croacia&ch=Sportv%202%20BR"
-            }
-        ]
-    },
-    {
-        "evento": "18:45UEFA Nations League: Eslovaquia vs MoldaviaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE4&title=UEFA%20Nations%20League%3A%20Eslovaquia%20vs%20Moldavia&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "18:45UEFA Nations League: Albania vs BielorrusiaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=UEFA%20Nations%20League%3A%20Albania%20vs%20Bielorrusia&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "18:45UEFA Nations League: Macedonia del Norte vs SuizaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=UEFA%20Nations%20League%3A%20Macedonia%20del%20Norte%20vs%20Suiza&ch=Disney%2B"
-            },
-            {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=UEFA%20Nations%20League%3A%20Macedonia%20del%20Norte%20vs%20Suiza&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
-        "evento": "19:00Supercopa Argentina: Estudiantes vs Rosario CentralArgentina",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Supercopa%20Argentina%3A%20Estudiantes%20vs%20Rosario%20Central&ch=Disney%2B"
-            },
-            {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Supercopa%20Argentina%3A%20Estudiantes%20vs%20Rosario%20Central&ch=DSports"
-            },
-            {
-                "canal": "DSports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Supercopa%20Argentina%3A%20Estudiantes%20vs%20Rosario%20Central&ch=DSports%20%7C%20OP2"
-            },
-            {
-                "canal": "DSports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWRzcG9ydHM%3D&title=Supercopa%20Argentina%3A%20Estudiantes%20vs%20Rosario%20Central&ch=DSports%20%7C%20OP3"
-            },
-            {
-                "canal": "DSports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Supercopa%20Argentina%3A%20Estudiantes%20vs%20Rosario%20Central&ch=DSports%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "19:00Tenis: 2026 Laver Cup (Day #2)Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Tenis%3A%202026%20Laver%20Cup%20(Day%20%232)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:30Brasileiro Femenino: Corinthians vs São PauloBrasil",
-        "opciones": [
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Brasileiro%20Femenino%3A%20Corinthians%20vs%20S%C3%A3o%20Paulo&ch=Sportv%20BR"
-            },
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Brasileiro%20Femenino%3A%20Corinthians%20vs%20S%C3%A3o%20Paulo&ch=Sportv%20BR%20HD"
-            }
-        ]
-    },
-    {
         "evento": "20:00UFC Fight Night: Raúl Rosas Jr. vs Raoni Barcelos | EspañolUFC",
         "opciones": [
             {
@@ -246,6 +19,10 @@
     {
         "evento": "20:30Amistoso: EE. UU. vs PerúPerú",
         "opciones": [
+            {
+                "canal": "America TV.",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWFtZXJpY2F0dg%3D%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=America%20TV."
+            },
             {
                 "canal": "ESPN 2 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=ESPN%202%20MX"
@@ -334,6 +111,24 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Segunda%20Divisi%C3%B3n%3A%20Oriental%20vs%20F%C3%A9nix&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:30USL League One: Forward Madison vs Spokane VelocityEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=USL%20League%20One%3A%20Forward%20Madison%20vs%20Spokane%20Velocity&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:30NCAA Men's Soccer: Xavier vs VillanovaEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Xavier%20vs%20Villanova&ch=Disney%2B"
             }
         ]
     },
