@@ -1,110 +1,605 @@
 [
     {
-        "evento": "01:00Liga de Expansión MX: Correcaminos UAT vs CDS Tampico MaderoMéxico",
+        "evento": "12:00Eredivisie Femenina: PSV vs De GraafschapPaises Bajos",
         "opciones": [
             {
-                "canal": "ESPN 2 MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Correcaminos%20UAT%20vs%20CDS%20Tampico%20Madero&ch=ESPN%202%20MX"
+                "canal": "ESPN NL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PSV%20vs%20De%20Graafschap&ch=ESPN%20NL"
             },
             {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Correcaminos%20UAT%20vs%20CDS%20Tampico%20Madero&ch=Disney%2B"
+                "canal": "ESPN NL | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PSV%20vs%20De%20Graafschap&ch=ESPN%20NL%20%7C%20OP2"
             },
             {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Correcaminos%20UAT%20vs%20CDS%20Tampico%20Madero&ch=Disney%2B"
+                "canal": "ESPN NL | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PSV%20vs%20De%20Graafschap&ch=ESPN%20NL%20%7C%20OP3"
             }
         ]
     },
     {
-        "evento": "01:00Liga MX: Atlante vs MonterreyMéxico",
+        "evento": "12:00Golf – 2026 Presidents Cup – Tercera VueltaGolf",
         "opciones": [
             {
-                "canal": "TUDN USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=TUDN%20USA"
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203"
             },
             {
-                "canal": "TUDN USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=TUDN%20USA%20%7C%20OP2"
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20OP2"
             },
             {
-                "canal": "TUDN USA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=TUDN%20USA%20%7C%20OP3"
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20OP3"
             },
             {
-                "canal": "TUDN USA | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=TUDN%20USA%20%7C%20HD"
-            },
-            {
-                "canal": "ESPN MX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=ESPN%20MX"
-            },
-            {
-                "canal": "ESPN MX | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=ESPN%20MX%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN MX | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=ESPN%20MX%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN MX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Liga%20MX%3A%20Atlante%20vs%20Monterrey&ch=ESPN%20MX%20%7C%20HD"
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20HD"
             }
         ]
     },
     {
-        "evento": "01:15Primera A: Once Caldas vs Atlético BucaramangaColombia",
+        "evento": "12:00LaLiga SmartBank: Ceuta vs Real Sociedad IIEspaña",
         "opciones": [
             {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Once%20Caldas%20vs%20Atl%C3%A9tico%20Bucaramanga&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Once%20Caldas%20vs%20Atl%C3%A9tico%20Bucaramanga&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Once%20Caldas%20vs%20Atl%C3%A9tico%20Bucaramanga&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Once%20Caldas%20vs%20Atl%C3%A9tico%20Bucaramanga&ch=Win%20Sports%20%2B%20%7C%20HD"
+                "canal": "LaLiga TV Hypermotion",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Ceuta%20vs%20Real%20Sociedad%20II&ch=LaLiga%20TV%20Hypermotion"
             }
         ]
     },
     {
-        "evento": "03:00Liga MX: Tijuana vs AtlasMéxico",
+        "evento": "12:00Tenis – Laver Cup – Día 2Tennis",
         "opciones": [
             {
-                "canal": "TUDN USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Tijuana%20vs%20Atlas&ch=TUDN%20USA"
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202"
             },
             {
-                "canal": "TUDN USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Tijuana%20vs%20Atlas&ch=TUDN%20USA%20%7C%20OP2"
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202%20%7C%20OP2"
             },
             {
-                "canal": "TUDN USA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Tijuana%20vs%20Atlas&ch=TUDN%20USA%20%7C%20OP3"
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202%20%7C%20OP3"
             },
             {
-                "canal": "TUDN USA | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Liga%20MX%3A%20Tijuana%20vs%20Atlas&ch=TUDN%20USA%20%7C%20HD"
-            },
-            {
-                "canal": "Unimas",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaW1hcw%3D%3D&title=Liga%20MX%3A%20Tijuana%20vs%20Atlas&ch=Unimas"
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202%20%7C%20HD"
             }
         ]
     },
     {
-        "evento": "03:00Liga de Naciones de la CONCACAF: El Salvador vs MartinicaCONCACAF Nations League",
+        "evento": "13:00Clasificación para la Copa Africana de Naciones: Kenia vs EritreaAFRICA",
+        "opciones": [
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Kenia%20vs%20Eritrea&ch=BeIN%20Sports%20%C3%91"
+            }
+        ]
+    },
+    {
+        "evento": "13:00UEFA Nations League: Eslovenia vs EscociaUEFA Nations League",
         "opciones": [
             {
                 "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20El%20Salvador%20vs%20Martinica&ch=Fox%20Sports%202%20USA"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 4",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=ESPN%204"
+            },
+            {
+                "canal": "ESPN 4 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=ESPN%204%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 4 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=ESPN%204%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "14:15LaLiga SmartBank: Granada vs FC AndorraEspaña",
+        "opciones": [
+            {
+                "canal": "LaLiga TV Hypermotion",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Granada%20vs%20FC%20Andorra&ch=LaLiga%20TV%20Hypermotion"
+            }
+        ]
+    },
+    {
+        "evento": "14:30Eerste Divisie: Heracles vs VitessePaises Bajos",
+        "opciones": [
+            {
+                "canal": "ESPN NL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20Heracles%20vs%20Vitesse&ch=ESPN%20NL"
+            },
+            {
+                "canal": "ESPN NL | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20Heracles%20vs%20Vitesse&ch=ESPN%20NL%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN NL | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20Heracles%20vs%20Vitesse&ch=ESPN%20NL%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "14:30Eredivisie Femenina: Ajax vs ADO Den HaagPaises Bajos",
+        "opciones": [
+            {
+                "canal": "ESPN 2 NL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eredivisie%20Femenina%3A%20Ajax%20vs%20ADO%20Den%20Haag&ch=ESPN%202%20NL"
+            }
+        ]
+    },
+    {
+        "evento": "14:30Eredivisie Femenina: Feyenoord vs PEC ZwollePaises Bajos",
+        "opciones": [
+            {
+                "canal": "ESPN 3 NL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zX25s&title=Eredivisie%20Femenina%3A%20Feyenoord%20vs%20PEC%20Zwolle&ch=ESPN%203%20NL"
+            }
+        ]
+    },
+    {
+        "evento": "15:30Primera B: Unión San Felipe vs CopiapóChile",
+        "opciones": [
+            {
+                "canal": "TNT Sports Premiun CL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20San%20Felipe%20vs%20Copiap%C3%B3&ch=TNT%20Sports%20Premiun%20CL"
+            },
+            {
+                "canal": "TNT Sports Premiun CL OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Uni%C3%B3n%20San%20Felipe%20vs%20Copiap%C3%B3&ch=TNT%20Sports%20Premiun%20CL%20OP2"
+            },
+            {
+                "canal": "TNT Sports Premiun CL HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20Uni%C3%B3n%20San%20Felipe%20vs%20Copiap%C3%B3&ch=TNT%20Sports%20Premiun%20CL%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "16:00Copa Mundial Femenina Sub-20 de la FIFA: Italia vs ColombiaCopa mundial sub20 fifa",
+        "opciones": [
+            {
+                "canal": "Caracol TV",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWNhcmFjb2w%3D&title=Copa%20Mundial%20Femenina%20Sub-20%20de%20la%20FIFA%3A%20Italia%20vs%20Colombia&ch=Caracol%20TV"
+            }
+        ]
+    },
+    {
+        "evento": "16:30LaLiga SmartBank: Tenerife vs CádizEspaña",
+        "opciones": [
+            {
+                "canal": "LaLiga TV Hypermotion 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMg%3D%3D&title=LaLiga%20SmartBank%3A%20Tenerife%20vs%20C%C3%A1diz&ch=LaLiga%20TV%20Hypermotion%202"
+            }
+        ]
+    },
+    {
+        "evento": "16:30LaLiga SmartBank: Celta de Vigo II vs SabadellEspaña",
+        "opciones": [
+            {
+                "canal": "LaLiga TV Hypermotion",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Celta%20de%20Vigo%20II%20vs%20Sabadell&ch=LaLiga%20TV%20Hypermotion"
+            }
+        ]
+    },
+    {
+        "evento": "18:00Eerste Divisie: Roda JC vs RKC WaalwijkPaises Bajos",
+        "opciones": [
+            {
+                "canal": "ESPN 3 NL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zX25s&title=Eerste%20Divisie%3A%20Roda%20JC%20vs%20RKC%20Waalwijk&ch=ESPN%203%20NL"
+            }
+        ]
+    },
+    {
+        "evento": "18:00Tenis – Laver Cup – Día 2Tennis",
+        "opciones": [
+            {
+                "canal": "ESPN 5",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205"
+            },
+            {
+                "canal": "ESPN 5 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 5 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG41&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 5 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%205%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:00ESPN Knockout – Gerome Warburton vs. Nathan HeaneyBoxeo",
+        "opciones": [
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=ESPN%20Knockout%20%E2%80%93%20Gerome%20Warburton%20vs.%20Nathan%20Heaney&ch=ESPN%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:00Eerste Divisie: Volendam vs VVVPaises Bajos",
+        "opciones": [
+            {
+                "canal": "ESPN 2 NL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4yX25s&title=Eerste%20Divisie%3A%20Volendam%20vs%20VVV&ch=ESPN%202%20NL"
+            }
+        ]
+    },
+    {
+        "evento": "18:00Primera B: Cobreloa vs Santiago WanderersChile",
+        "opciones": [
+            {
+                "canal": "TNT Sports Premiun CL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Cobreloa%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL"
+            },
+            {
+                "canal": "TNT Sports Premiun CL OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20Cobreloa%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL%20OP2"
+            },
+            {
+                "canal": "TNT Sports Premiun CL HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Primera%20B%3A%20Cobreloa%20vs%20Santiago%20Wanderers&ch=TNT%20Sports%20Premiun%20CL%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Inglaterra vs EspañaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            }
+        ]
+    },
+    {
+        "evento": "19:30Brasileiro Femenino: Corinthians vs São PauloBrasil",
+        "opciones": [
+            {
+                "canal": "Sportv BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Brasileiro%20Femenino%3A%20Corinthians%20vs%20S%C3%A3o%20Paulo&ch=Sportv%20BR"
+            },
+            {
+                "canal": "Sportv BR HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Brasileiro%20Femenino%3A%20Corinthians%20vs%20S%C3%A3o%20Paulo&ch=Sportv%20BR%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "20:30Amistoso: EE. UU. vs PerúPerú",
+        "opciones": [
+            {
+                "canal": "ESPN 2 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=ESPN%202%20MX"
+            },
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=Telemundo"
+            },
+            {
+                "canal": "Telemundo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=Telemundo%20%7C%20HD"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=Universo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "20:30Copa Chile: Ñublense vs Puerto MonttChile",
+        "opciones": [
+            {
+                "canal": "TNT Sports Premiun CL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Chile%3A%20%C3%91ublense%20vs%20Puerto%20Montt&ch=TNT%20Sports%20Premiun%20CL"
+            },
+            {
+                "canal": "TNT Sports Premiun CL OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Chile%3A%20%C3%91ublense%20vs%20Puerto%20Montt&ch=TNT%20Sports%20Premiun%20CL%20OP2"
+            },
+            {
+                "canal": "TNT Sports Premiun CL HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Copa%20Chile%3A%20%C3%91ublense%20vs%20Puerto%20Montt&ch=TNT%20Sports%20Premiun%20CL%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "21:00Primera A: Deportivo Pereira vs Inter BogotáColombia",
+        "opciones": [
+            {
+                "canal": "Win Sports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportivo%20Pereira%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportivo%20Pereira%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B%20%7C%20OP2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportivo%20Pereira%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "Win Sports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Deportivo%20Pereira%20vs%20Inter%20Bogot%C3%A1&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "21:15Copa de la División Profesional: The Strongest vs GuabiráBolivia",
+        "opciones": [
+            {
+                "canal": "Entel TV PLUS+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20The%20Strongest%20vs%20Guabir%C3%A1&ch=Entel%20TV%20PLUS%2B"
+            }
+        ]
+    },
+    {
+        "evento": "22:50Liga MX: Cruz Azul vs TolucaMéxico",
+        "opciones": [
+            {
+                "canal": "TUDN USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Cruz%20Azul%20vs%20Toluca&ch=TUDN%20USA"
+            },
+            {
+                "canal": "TUDN USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Cruz%20Azul%20vs%20Toluca&ch=TUDN%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "TUDN USA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Cruz%20Azul%20vs%20Toluca&ch=TUDN%20USA%20%7C%20OP3"
+            },
+            {
+                "canal": "TUDN USA | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Liga%20MX%3A%20Cruz%20Azul%20vs%20Toluca&ch=TUDN%20USA%20%7C%20HD"
+            },
+            {
+                "canal": "Canal 5 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWNhbmFsNQ%3D%3D&title=Liga%20MX%3A%20Cruz%20Azul%20vs%20Toluca&ch=Canal%205%20MX"
+            },
+            {
+                "canal": "Univision",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u&title=Liga%20MX%3A%20Cruz%20Azul%20vs%20Toluca&ch=Univision"
+            }
+        ]
+    },
+    {
+        "evento": "23:00Liga de Expansión MX: Venados vs Atlético MoreliaMéxico",
+        "opciones": [
+            {
+                "canal": "ESPN 2 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Venados%20vs%20Atl%C3%A9tico%20Morelia&ch=ESPN%202%20MX"
+            }
+        ]
+    },
+    {
+        "evento": "23:00Copa Chile: Universidad Católica vs Unión La CaleraChile",
+        "opciones": [
+            {
+                "canal": "TNT Sports Premiun CL",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Chile%3A%20Universidad%20Cat%C3%B3lica%20vs%20Uni%C3%B3n%20La%20Calera&ch=TNT%20Sports%20Premiun%20CL"
+            },
+            {
+                "canal": "TNT Sports Premiun CL OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Copa%20Chile%3A%20Universidad%20Cat%C3%B3lica%20vs%20Uni%C3%B3n%20La%20Calera&ch=TNT%20Sports%20Premiun%20CL%20OP2"
+            },
+            {
+                "canal": "TNT Sports Premiun CL HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Copa%20Chile%3A%20Universidad%20Cat%C3%B3lica%20vs%20Uni%C3%B3n%20La%20Calera&ch=TNT%20Sports%20Premiun%20CL%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:05Liga MX: Guadalajara vs QuerétaroMéxico",
+        "opciones": [
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Liga%20MX%3A%20Guadalajara%20vs%20Quer%C3%A9taro&ch=Telemundo"
+            },
+            {
+                "canal": "Telemundo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Liga%20MX%3A%20Guadalajara%20vs%20Quer%C3%A9taro&ch=Telemundo%20%7C%20HD"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Liga%20MX%3A%20Guadalajara%20vs%20Quer%C3%A9taro&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Liga%20MX%3A%20Guadalajara%20vs%20Quer%C3%A9taro&ch=Universo%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:15Primera A: Cúcuta Deportivo vs LlanerosColombia",
+        "opciones": [
+            {
+                "canal": "Win Sports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Llaneros&ch=Win%20Sports%20%2B"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Llaneros&ch=Win%20Sports%20%2B%20%7C%20OP2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Llaneros&ch=Win%20Sports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "Win Sports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Llaneros&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "00:00Copa de la División Profesional: Universitario de Vinto vs Oriente PetroleroBolivia",
+        "opciones": [
+            {
+                "canal": "Entel TV PLUS+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Universitario%20de%20Vinto%20vs%20Oriente%20Petrolero&ch=Entel%20TV%20PLUS%2B"
+            }
+        ]
+    },
+    {
+        "evento": "01:00Amistoso: México vs ColombiaAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "TUDN USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20M%C3%A9xico%20vs%20Colombia&ch=TUDN%20USA"
+            },
+            {
+                "canal": "TUDN USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20M%C3%A9xico%20vs%20Colombia&ch=TUDN%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "TUDN USA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20M%C3%A9xico%20vs%20Colombia&ch=TUDN%20USA%20%7C%20OP3"
+            },
+            {
+                "canal": "TUDN USA | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Amistoso%3A%20M%C3%A9xico%20vs%20Colombia&ch=TUDN%20USA%20%7C%20HD"
+            },
+            {
+                "canal": "Univision",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u&title=Amistoso%3A%20M%C3%A9xico%20vs%20Colombia&ch=Univision"
+            }
+        ]
+    },
+    {
+        "evento": "01:00Liga de Expansión MX: Dorados vs DurangoMéxico",
+        "opciones": [
+            {
+                "canal": "ESPN 3 MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Liga%20de%20Expansi%C3%B3n%20MX%3A%20Dorados%20vs%20Durango&ch=ESPN%203%20MX"
+            }
+        ]
+    },
+    {
+        "evento": "01:20Primera A: Junior vs MedellínColombia",
+        "opciones": [
+            {
+                "canal": "Win Sports +",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Junior%20vs%20Medell%C3%ADn&ch=Win%20Sports%20%2B"
+            },
+            {
+                "canal": "Win Sports + | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Junior%20vs%20Medell%C3%ADn&ch=Win%20Sports%20%2B%20%7C%20OP2"
+            },
+            {
+                "canal": "Win Sports + | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Junior%20vs%20Medell%C3%ADn&ch=Win%20Sports%20%2B%20%7C%20OP3"
+            },
+            {
+                "canal": "Win Sports + | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Junior%20vs%20Medell%C3%ADn&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "03:05Liga MX: Santos Laguna vs PachucaMéxico",
+        "opciones": [
+            {
+                "canal": "ESPN MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Santos%20Laguna%20vs%20Pachuca&ch=ESPN%20MX"
+            },
+            {
+                "canal": "ESPN MX | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Santos%20Laguna%20vs%20Pachuca&ch=ESPN%20MX%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN MX | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5teA%3D%3D&title=Liga%20MX%3A%20Santos%20Laguna%20vs%20Pachuca&ch=ESPN%20MX%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN MX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg%3D&title=Liga%20MX%3A%20Santos%20Laguna%20vs%20Pachuca&ch=ESPN%20MX%20%7C%20HD"
+            },
+            {
+                "canal": "Unimas",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaW1hcw%3D%3D&title=Liga%20MX%3A%20Santos%20Laguna%20vs%20Pachuca&ch=Unimas"
+            }
+        ]
+    },
+    {
+        "evento": "03:10Liga MX: Tigres UANL vs PueblaMéxico",
+        "opciones": [
+            {
+                "canal": "Azteca 7",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWF6dGVjYTc%3D&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Azteca%207"
+            },
+            {
+                "canal": "Azteca 7 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWF6dGVjYTc%3D&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Azteca%207%20%7C%20OP2"
+            },
+            {
+                "canal": "Azteca 7 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWF6dGVjYTc%3D&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Azteca%207%20%7C%20OP3"
+            },
+            {
+                "canal": "Azteca 7 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1henRlY2E3&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Azteca%207%20%7C%20HD"
+            },
+            {
+                "canal": "FOX Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=FOX%20Deportes"
+            },
+            {
+                "canal": "FOX Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=FOX%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "FOX Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=FOX%20Deportes%20%7C%20OP3"
+            },
+            {
+                "canal": "FOX Deportes | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw%3D%3D&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=FOX%20Deportes%20%7C%20HD"
+            },
+            {
+                "canal": "Telemundo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVtdW5kbw%3D%3D&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Telemundo"
+            },
+            {
+                "canal": "Telemundo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8%3D&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Telemundo%20%7C%20HD"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Liga%20MX%3A%20Tigres%20UANL%20vs%20Puebla&ch=Universo%20%7C%20HD"
             }
         ]
     }
