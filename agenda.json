@@ -1,154 +1,5 @@
 [
     {
-        "evento": "11:00F1 | GP de Azerbaiyán: CarreraFormula 1",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=F1%20%7C%20GP%20de%20Azerbaiy%C3%A1n%3A%20Carrera&ch=Disney%2B"
-            },
-            {
-                "canal": "Fox Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0cw%3D%3D&title=F1%20%7C%20GP%20de%20Azerbaiy%C3%A1n%3A%20Carrera&ch=Fox%20Sports"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=F1%20%7C%20GP%20de%20Azerbaiy%C3%A1n%3A%20Carrera&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "11:00F1 | GP de Azerbaiyán: Race HUBFormula 1",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=F1%20%7C%20GP%20de%20Azerbaiy%C3%A1n%3A%20Race%20HUB&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "12:00Eredivisie Femenina: PSV vs De GraafschapPaises Bajos",
-        "opciones": [
-            {
-                "canal": "ESPN NL",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PSV%20vs%20De%20Graafschap&ch=ESPN%20NL"
-            },
-            {
-                "canal": "ESPN NL | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PSV%20vs%20De%20Graafschap&ch=ESPN%20NL%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN NL | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eredivisie%20Femenina%3A%20PSV%20vs%20De%20Graafschap&ch=ESPN%20NL%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "12:00Golf – 2026 Presidents Cup – Tercera VueltaGolf",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Golf%20%E2%80%93%202026%20Presidents%20Cup%20%E2%80%93%20Tercera%20Vuelta&ch=ESPN%203%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "12:00LaLiga SmartBank: Ceuta vs Real Sociedad IIEspaña",
-        "opciones": [
-            {
-                "canal": "LaLiga TV Hypermotion",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Ceuta%20vs%20Real%20Sociedad%20II&ch=LaLiga%20TV%20Hypermotion"
-            }
-        ]
-    },
-    {
-        "evento": "12:00Tenis – Laver Cup – Día 2Tennis",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Tenis%20%E2%80%93%20Laver%20Cup%20%E2%80%93%20D%C3%ADa%202&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "13:00Clasificación para la Copa Africana de Naciones: Kenia vs EritreaAFRICA",
-        "opciones": [
-            {
-                "canal": "BeIN Sports Ñ",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Kenia%20vs%20Eritrea&ch=BeIN%20Sports%20%C3%91"
-            }
-        ]
-    },
-    {
-        "evento": "13:00UEFA Nations League: Eslovenia vs EscociaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 4",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=ESPN%204"
-            },
-            {
-                "canal": "ESPN 4 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=ESPN%204%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 4 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=ESPN%204%20%7C%20OP3"
-            },
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=Sportv%20BR"
-            },
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=UEFA%20Nations%20League%3A%20Eslovenia%20vs%20Escocia&ch=Sportv%20BR%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "14:00Primera División: Progreso vs RacingUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Primera%20Divisi%C3%B3n%3A%20Progreso%20vs%20Racing&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "14:15LaLiga SmartBank: Granada vs FC AndorraEspaña",
         "opciones": [
             {
@@ -210,7 +61,7 @@
         ]
     },
     {
-        "evento": "16:00Copa Mundial Femenina Sub-20 de la FIFA: Italia vs ColombiaCopa mundial sub20 fifa",
+        "evento": "16:00Copa Mundial Femenina Sub-20 de la FIFA: Italia vs ColombiaAmistosos Paises",
         "opciones": [
             {
                 "canal": "Caracol TV",
@@ -271,6 +122,15 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=Segunda%20Divisi%C3%B3n%3A%20Uruguay%20Montevideo%20vs%20Rentistas&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "16:00UEFA Nations League: Bulgaria vs LuxemburgoUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=UEFA%20Nations%20League%3A%20Bulgaria%20vs%20Luxemburgo&ch=Disney%2B"
             }
         ]
     },
@@ -392,24 +252,15 @@
         ]
     },
     {
-        "evento": "18:45UEFA Nations League: República Checa vs CroaciaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=UEFA%20Nations%20League%3A%20Rep%C3%BAblica%20Checa%20vs%20Croacia&ch=Disney%2B"
-            },
-            {
-                "canal": "Sportv 2 BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0djI%3D&title=UEFA%20Nations%20League%3A%20Rep%C3%BAblica%20Checa%20vs%20Croacia&ch=Sportv%202%20BR"
-            }
-        ]
-    },
-    {
         "evento": "18:45UEFA Nations League: Inglaterra vs EspañaUEFA Nations League",
         "opciones": [
             {
                 "canal": "ESPN",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=ESPN"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Disney%2B"
             },
             {
                 "canal": "ESPN AR┃OP2",
@@ -420,16 +271,25 @@
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=ESPN%20AR%E2%94%83OP3"
             },
             {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Disney%2B"
-            },
-            {
                 "canal": "Fox Sports 2 USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Fox%20Sports%202%20USA"
             },
             {
                 "canal": "Fox Sports 2 USA | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Inglaterra%20vs%20Espa%C3%B1a&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: República Checa vs CroaciaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE2&title=UEFA%20Nations%20League%3A%20Rep%C3%BAblica%20Checa%20vs%20Croacia&ch=Disney%2B"
+            },
+            {
+                "canal": "Sportv 2 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0djI%3D&title=UEFA%20Nations%20League%3A%20Rep%C3%BAblica%20Checa%20vs%20Croacia&ch=Sportv%202%20BR"
             }
         ]
     },
@@ -504,6 +364,10 @@
             {
                 "canal": "ESPN 2 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=ESPN%202%20MX"
+            },
+            {
+                "canal": "America TV",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWFtZXJpY2F0dg%3D%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Per%C3%BA&ch=America%20TV"
             },
             {
                 "canal": "Telemundo",
