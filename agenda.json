@@ -1,5 +1,31 @@
 [
     {
+        "evento": "16:00UEFA Nations League: Letonia vs ChipreUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=UEFA%20Nations%20League%3A%20Letonia%20vs%20Chipre&ch=Disney%2B"
+            },
+            {
+                "canal": "Fox Soccer Plus",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=UEFA%20Nations%20League%3A%20Letonia%20vs%20Chipre&ch=Fox%20Soccer%20Plus"
+            }
+        ]
+    },
+    {
+        "evento": "16:00UEFA Nations League: Georgia vs UcraniaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=UEFA%20Nations%20League%3A%20Georgia%20vs%20Ucrania&ch=Disney%2B"
+            },
+            {
+                "canal": "Sportv 2 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0djI%3D&title=UEFA%20Nations%20League%3A%20Georgia%20vs%20Ucrania&ch=Sportv%202%20BR"
+            }
+        ]
+    },
+    {
         "evento": "16:00Clasificación para la Copa Africana de Naciones: República Centroafricana vs Burkina FasoAFRICA",
         "opciones": [
             {
@@ -14,6 +40,10 @@
             {
                 "canal": "Fox Sports 2 USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Armenia%20vs%20Montenegro&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=UEFA%20Nations%20League%3A%20Armenia%20vs%20Montenegro&ch=Disney%2B"
             },
             {
                 "canal": "Fox Sports 2 USA | OP2",
@@ -40,8 +70,39 @@
         ]
     },
     {
+        "evento": "18:45UEFA Nations League: Irlanda del Norte vs HungríaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=UEFA%20Nations%20League%3A%20Irlanda%20del%20Norte%20vs%20Hungr%C3%ADa&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Rumania vs Bosnia-HerzegovinaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=UEFA%20Nations%20League%3A%20Rumania%20vs%20Bosnia-Herzegovina&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Turquía vs ItaliaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=UEFA%20Nations%20League%3A%20Turqu%C3%ADa%20vs%20Italia&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "18:45UEFA Nations League: Suecia vs PoloniaUEFA Nations League",
         "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Polonia&ch=Disney%2B"
+            },
             {
                 "canal": "Fox Soccer Plus",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Polonia&ch=Fox%20Soccer%20Plus"
@@ -52,12 +113,28 @@
         "evento": "18:45UEFA Nations League: Bélgica vs FranciaUEFA Nations League",
         "opciones": [
             {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=ESPN"
+            },
+            {
                 "canal": "Fox Sports 2 USA",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=Fox%20Sports%202%20USA"
             },
             {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
                 "canal": "Fox Sports 2 USA | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=ESPN%20AR%E2%94%83OP3"
             }
         ]
     },
@@ -67,6 +144,15 @@
             {
                 "canal": "BeIN Sports Ñ",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Botsuana%20vs%20T%C3%BAnez&ch=BeIN%20Sports%20%C3%91"
+            }
+        ]
+    },
+    {
+        "evento": "19:30Primera División: Sportivo San Lorenzo vs Deportivo RecoletaParaguay",
+        "opciones": [
+            {
+                "canal": "fanatiz 01",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXox&title=Primera%20Divisi%C3%B3n%3A%20Sportivo%20San%20Lorenzo%20vs%20Deportivo%20Recoleta&ch=fanatiz%2001"
             }
         ]
     },
