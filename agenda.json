@@ -1,132 +1,171 @@
 [
     {
-        "evento": "00:00Liga de Naciones de la CONCACAF: Curazao vs NicaraguaCONCACAF Nations League",
+        "evento": "16:00Clasificación para la Copa Africana de Naciones: República Centroafricana vs Burkina FasoAFRICA",
         "opciones": [
             {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Curazao%20vs%20Nicaragua&ch=Fox%20Soccer%20Plus"
+                "canal": "beIN SPORTS XTRA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09YmVpbnNwb3J0c3h0cmE%3D&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Rep%C3%BAblica%20Centroafricana%20vs%20Burkina%20Faso&ch=beIN%20SPORTS%20XTRA"
             }
         ]
     },
     {
-        "evento": "00:00NFL – Denver Broncos vs. Los Angeles RamsNFL",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=NFL%20%E2%80%93%20Denver%20Broncos%20vs.%20Los%20Angeles%20Rams&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=NFL%20%E2%80%93%20Denver%20Broncos%20vs.%20Los%20Angeles%20Rams&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=NFL%20%E2%80%93%20Denver%20Broncos%20vs.%20Los%20Angeles%20Rams&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=NFL%20%E2%80%93%20Denver%20Broncos%20vs.%20Los%20Angeles%20Rams&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "00:05Liga MX Femenil: Tigres UANL vs Atlético San LuisMéxico",
-        "opciones": [
-            {
-                "canal": "FOX Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%20Femenil%3A%20Tigres%20UANL%20vs%20Atl%C3%A9tico%20San%20Luis&ch=FOX%20Deportes"
-            },
-            {
-                "canal": "FOX Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%20Femenil%3A%20Tigres%20UANL%20vs%20Atl%C3%A9tico%20San%20Luis&ch=FOX%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "FOX Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%20Femenil%3A%20Tigres%20UANL%20vs%20Atl%C3%A9tico%20San%20Luis&ch=FOX%20Deportes%20%7C%20OP3"
-            },
-            {
-                "canal": "FOX Deportes | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw%3D%3D&title=Liga%20MX%20Femenil%3A%20Tigres%20UANL%20vs%20Atl%C3%A9tico%20San%20Luis&ch=FOX%20Deportes%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "01:00Liga de Naciones de la CONCACAF: Trinidad y Tobago vs República DominicanaCONCACAF Nations League",
+        "evento": "16:00UEFA Nations League: Armenia vs MontenegroUEFA Nations League",
         "opciones": [
             {
                 "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Trinidad%20y%20Tobago%20vs%20Rep%C3%BAblica%20Dominicana&ch=Fox%20Sports%202%20USA"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Armenia%20vs%20Montenegro&ch=Fox%20Sports%202%20USA"
             },
             {
                 "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Trinidad%20y%20Tobago%20vs%20Rep%C3%BAblica%20Dominicana&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Armenia%20vs%20Montenegro&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
             }
         ]
     },
     {
-        "evento": "01:00Liga MX: León vs JuárezMéxico",
+        "evento": "16:00Clasificación para la Copa Africana de Naciones: Zimbabue vs RD del CongoAFRICA",
         "opciones": [
             {
-                "canal": "TUDN USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Le%C3%B3n%20vs%20Ju%C3%A1rez&ch=TUDN%20USA"
-            },
-            {
-                "canal": "TUDN USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Le%C3%B3n%20vs%20Ju%C3%A1rez&ch=TUDN%20USA%20%7C%20OP2"
-            },
-            {
-                "canal": "TUDN USA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Liga%20MX%3A%20Le%C3%B3n%20vs%20Ju%C3%A1rez&ch=TUDN%20USA%20%7C%20OP3"
-            },
-            {
-                "canal": "TUDN USA | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Liga%20MX%3A%20Le%C3%B3n%20vs%20Ju%C3%A1rez&ch=TUDN%20USA%20%7C%20HD"
-            },
-            {
-                "canal": "Univision",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u&title=Liga%20MX%3A%20Le%C3%B3n%20vs%20Ju%C3%A1rez&ch=Univision"
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Zimbabue%20vs%20RD%20del%20Congo&ch=BeIN%20Sports%20%C3%91"
             }
         ]
     },
     {
-        "evento": "01:10Primera A: Deportivo Cali vs Rionegro ÁguilasColombia",
+        "evento": "18:30LaLiga SmartBank: Leganés vs CD CastellonEspaña",
         "opciones": [
             {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportivo%20Cali%20vs%20Rionegro%20%C3%81guilas&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportivo%20Cali%20vs%20Rionegro%20%C3%81guilas&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Deportivo%20Cali%20vs%20Rionegro%20%C3%81guilas&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Deportivo%20Cali%20vs%20Rionegro%20%C3%81guilas&ch=Win%20Sports%20%2B%20%7C%20HD"
+                "canal": "LaLiga TV Hypermotion",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Legan%C3%A9s%20vs%20CD%20Castellon&ch=LaLiga%20TV%20Hypermotion"
             }
         ]
     },
     {
-        "evento": "03:10Liga MX: Necaxa vs AméricaMéxico",
+        "evento": "18:45UEFA Nations League: Suecia vs PoloniaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Soccer Plus",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=UEFA%20Nations%20League%3A%20Suecia%20vs%20Polonia&ch=Fox%20Soccer%20Plus"
+            }
+        ]
+    },
+    {
+        "evento": "18:45UEFA Nations League: Bélgica vs FranciaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20B%C3%A9lgica%20vs%20Francia&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            }
+        ]
+    },
+    {
+        "evento": "19:00Clasificación para la Copa Africana de Naciones: Botsuana vs TúnezAFRICA",
+        "opciones": [
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Clasificaci%C3%B3n%20para%20la%20Copa%20Africana%20de%20Naciones%3A%20Botsuana%20vs%20T%C3%BAnez&ch=BeIN%20Sports%20%C3%91"
+            }
+        ]
+    },
+    {
+        "evento": "21:00Liga de Naciones de la CONCACAF: Cuba vs BonaireCONCACAF Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Soccer Plus",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Cuba%20vs%20Bonaire&ch=Fox%20Soccer%20Plus"
+            }
+        ]
+    },
+    {
+        "evento": "22:00Liga de Naciones de la CONCACAF: Surinam vs MartinicaCONCACAF Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Surinam%20vs%20Martinica&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Surinam%20vs%20Martinica&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            }
+        ]
+    },
+    {
+        "evento": "00:00Liga de Naciones de la CONCACAF: Jamaica vs HondurasCONCACAF Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Jamaica%20vs%20Honduras&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Jamaica%20vs%20Honduras&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            }
+        ]
+    },
+    {
+        "evento": "00:00Liga de Naciones de la CONCACAF: St. Kitts and Nevis vs GranadaCONCACAF Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Soccer Plus",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20St.%20Kitts%20and%20Nevis%20vs%20Granada&ch=Fox%20Soccer%20Plus"
+            }
+        ]
+    },
+    {
+        "evento": "00:00NFL – Chicago Bears vs. Philadelphia EaglesNFL",
+        "opciones": [
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=NFL%20%E2%80%93%20Chicago%20Bears%20vs.%20Philadelphia%20Eagles&ch=ESPN%202"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=NFL%20%E2%80%93%20Chicago%20Bears%20vs.%20Philadelphia%20Eagles&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=NFL%20%E2%80%93%20Chicago%20Bears%20vs.%20Philadelphia%20Eagles&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=NFL%20%E2%80%93%20Chicago%20Bears%20vs.%20Philadelphia%20Eagles&ch=ESPN%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "01:05Liga MX Femenil: Necaxa vs TolucaMéxico",
         "opciones": [
             {
                 "canal": "FOX Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%3A%20Necaxa%20vs%20Am%C3%A9rica&ch=FOX%20Deportes"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%20Femenil%3A%20Necaxa%20vs%20Toluca&ch=FOX%20Deportes"
             },
             {
                 "canal": "FOX Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%3A%20Necaxa%20vs%20Am%C3%A9rica&ch=FOX%20Deportes%20%7C%20OP2"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%20Femenil%3A%20Necaxa%20vs%20Toluca&ch=FOX%20Deportes%20%7C%20OP2"
             },
             {
                 "canal": "FOX Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%3A%20Necaxa%20vs%20Am%C3%A9rica&ch=FOX%20Deportes%20%7C%20OP3"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Liga%20MX%20Femenil%3A%20Necaxa%20vs%20Toluca&ch=FOX%20Deportes%20%7C%20OP3"
             },
             {
                 "canal": "FOX Deportes | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw%3D%3D&title=Liga%20MX%3A%20Necaxa%20vs%20Am%C3%A9rica&ch=FOX%20Deportes%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw%3D%3D&title=Liga%20MX%20Femenil%3A%20Necaxa%20vs%20Toluca&ch=FOX%20Deportes%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "02:00Liga de Naciones de la CONCACAF: Guatemala vs El SalvadorCONCACAF Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Guatemala%20vs%20El%20Salvador&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Guatemala%20vs%20El%20Salvador&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
             }
         ]
     }
