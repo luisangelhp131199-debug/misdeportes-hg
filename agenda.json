@@ -1,54 +1,5 @@
 [
     {
-        "evento": "21:00Liga de Naciones de la CONCACAF: Cuba vs BonaireCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Cuba%20vs%20Bonaire&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Primera División: Libertad vs OlimpiaParaguay",
-        "opciones": [
-            {
-                "canal": "fanatiz 01",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXox&title=Primera%20Divisi%C3%B3n%3A%20Libertad%20vs%20Olimpia&ch=fanatiz%2001"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Liga de Naciones de la CONCACAF: Surinam vs MartinicaCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Surinam%20vs%20Martinica&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Surinam%20vs%20Martinica&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Segunda División: Paysandu vs TacuarembóUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=Segunda%20Divisi%C3%B3n%3A%20Paysandu%20vs%20Tacuaremb%C3%B3&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "23:00Primera División: Wanderers vs AlbionUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=Primera%20Divisi%C3%B3n%3A%20Wanderers%20vs%20Albion&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "00:00NFL – Chicago Bears vs. Philadelphia EaglesNFL",
         "opciones": [
             {
