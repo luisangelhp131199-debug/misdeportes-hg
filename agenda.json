@@ -1,94 +1,19 @@
 [
     {
-        "evento": "18:00Torneo de Reserva: Instituto vs RacingArgentina",
-        "opciones": [
-            {
-                "canal": "ESPN 3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Instituto%20vs%20Racing&ch=ESPN%203"
-            },
-            {
-                "canal": "ESPN 3 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Instituto%20vs%20Racing&ch=ESPN%203%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 3 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=Torneo%20de%20Reserva%3A%20Instituto%20vs%20Racing&ch=ESPN%203%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 3 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Torneo%20de%20Reserva%3A%20Instituto%20vs%20Racing&ch=ESPN%203%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "18:00MLB - Wild Card - Final: Atlanta Braves vs Philadelphia PhilliesMLB Preseason",
+        "evento": "22:00NCAA Women's Soccer: Lehigh vs NavyEstados Unidos",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=MLB%20-%20Wild%20Card%20-%20Final%3A%20Atlanta%20Braves%20vs%20Philadelphia%20Phillies&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Lehigh%20vs%20Navy&ch=Disney%2B"
             }
         ]
     },
     {
-        "evento": "19:00UEFA Women's Champions League: SL Benfica vs BayernUEFA Women's Champions League",
+        "evento": "22:00NCAA Women's Soccer: Sacramento St. vs UC RiversideEstados Unidos",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=UEFA%20Women's%20Champions%20League%3A%20SL%20Benfica%20vs%20Bayern&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "19:00UEFA Women's Champions League: OL Lyonnes vs Chelsea FCUEFA Women's Champions League",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Women's%20Champions%20League%3A%20OL%20Lyonnes%20vs%20Chelsea%20FC&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Women's%20Champions%20League%3A%20OL%20Lyonnes%20vs%20Chelsea%20FC&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Women's%20Champions%20League%3A%20OL%20Lyonnes%20vs%20Chelsea%20FC&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=UEFA%20Women's%20Champions%20League%3A%20OL%20Lyonnes%20vs%20Chelsea%20FC&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=UEFA%20Women's%20Champions%20League%3A%20OL%20Lyonnes%20vs%20Chelsea%20FC&ch=ESPN%20Deportes"
-            },
-            {
-                "canal": "ESPN Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20OL%20Lyonnes%20vs%20Chelsea%20FC&ch=ESPN%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=UEFA%20Women's%20Champions%20League%3A%20OL%20Lyonnes%20vs%20Chelsea%20FC&ch=ESPN%20Deportes%20%7C%20OP3"
-            }
-        ]
-    },
-    {
-        "evento": "20:00Liga 1: Cienciano vs Los ChankasPerú",
-        "opciones": [
-            {
-                "canal": "Liga1MAX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Cienciano%20vs%20Los%20Chankas&ch=Liga1MAX"
-            },
-            {
-                "canal": "Liga1Max | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Cienciano%20vs%20Los%20Chankas&ch=Liga1Max%20%7C%20OP2"
-            },
-            {
-                "canal": "Liga1Max | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Cienciano%20vs%20Los%20Chankas&ch=Liga1Max%20%7C%20OP3"
-            },
-            {
-                "canal": "Liga1MAX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Cienciano%20vs%20Los%20Chankas&ch=Liga1MAX%20%7C%20HD"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Sacramento%20St.%20vs%20UC%20Riverside&ch=Disney%2B"
             }
         ]
     },
@@ -110,6 +35,15 @@
             {
                 "canal": "ESPN 3 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=Torneo%20de%20Reserva%3A%20Central%20C%C3%B3rdoba%20SdE%20vs%20Newell's%20Old%20Boys&ch=ESPN%203%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "22:00NCAA Women's Soccer: Loyola Maryland vs AmericanEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=NCAA%20Women's%20Soccer%3A%20Loyola%20Maryland%20vs%20American&ch=Disney%2B"
             }
         ]
     },
@@ -136,6 +70,92 @@
             {
                 "canal": "Disney+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Primera%20Divisi%C3%B3n%3A%20Torque%20vs%20Pe%C3%B1arol&ch=Disney%2B"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Torque%20vs%20Pe%C3%B1arol&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00Hockey: New York Islanders vs. Toronto Maple LeafsAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=Hockey%3A%20New%20York%20Islanders%20vs.%20Toronto%20Maple%20Leafs&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00MLB - Wild Card - Final: Houston Astros vs Chicago White SoxMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=MLB%20-%20Wild%20Card%20-%20Final%3A%20Houston%20Astros%20vs%20Chicago%20White%20Sox&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 4",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG40&title=MLB%20-%20Wild%20Card%20-%20Final%3A%20Houston%20Astros%20vs%20Chicago%20White%20Sox&ch=ESPN%204"
+            },
+            {
+                "canal": "ESPN 4 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG40&title=MLB%20-%20Wild%20Card%20-%20Final%3A%20Houston%20Astros%20vs%20Chicago%20White%20Sox&ch=ESPN%204%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 4 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=MLB%20-%20Wild%20Card%20-%20Final%3A%20Houston%20Astros%20vs%20Chicago%20White%20Sox&ch=ESPN%204%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "23:30USL: Brooklyn FC vs. Detroit City FCAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=USL%3A%20Brooklyn%20FC%20vs.%20Detroit%20City%20FC&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:30Hockey: Pittsburgh Penguins vs. Philadelphia FlyersAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Hockey%3A%20Pittsburgh%20Penguins%20vs.%20Philadelphia%20Flyers&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:30WNBA: En Español-Atlanta Dream vs. Washington Mystics (Primera Vuelta, Partido #2)Amistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=WNBA%3A%20En%20Espa%C3%B1ol-Atlanta%20Dream%20vs.%20Washington%20Mystics%20(Primera%20Vuelta%2C%20Partido%20%232)&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=WNBA%3A%20En%20Espa%C3%B1ol-Atlanta%20Dream%20vs.%20Washington%20Mystics%20(Primera%20Vuelta%2C%20Partido%20%232)&ch=ESPN%202"
+            },
+            {
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=WNBA%3A%20En%20Espa%C3%B1ol-Atlanta%20Dream%20vs.%20Washington%20Mystics%20(Primera%20Vuelta%2C%20Partido%20%232)&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=WNBA%3A%20En%20Espa%C3%B1ol-Atlanta%20Dream%20vs.%20Washington%20Mystics%20(Primera%20Vuelta%2C%20Partido%20%232)&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=WNBA%3A%20En%20Espa%C3%B1ol-Atlanta%20Dream%20vs.%20Washington%20Mystics%20(Primera%20Vuelta%2C%20Partido%20%232)&ch=ESPN%202%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "00:00MLB: Boston Red Sox vs. New York Yankees (Game 2)MLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE5&title=MLB%3A%20Boston%20Red%20Sox%20vs.%20New%20York%20Yankees%20(Game%202)&ch=Disney%2B"
             }
         ]
     },
