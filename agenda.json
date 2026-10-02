@@ -1,50 +1,10 @@
 [
     {
-        "evento": "21:00Liga de Naciones de la CONCACAF: Dominica vs GuyanaCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Dominica%20vs%20Guyana&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Liga de Naciones de la CONCACAF: Curazao vs Trinidad y TobagoCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Curazao%20vs%20Trinidad%20y%20Tobago&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Curazao%20vs%20Trinidad%20y%20Tobago&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            }
-        ]
-    },
-    {
-        "evento": "22:30Copa de la División Profesional: Bolívar vs Gualberto Villarroel SJBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Bol%C3%ADvar%20vs%20Gualberto%20Villarroel%20SJ&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "23:00Hockey: ampa Bay Lightning vs. New York RangersAmistosos Paises",
+        "evento": "23:15Hockey: Buffalo Sabres vs. Columbus Blue JacketsAmistosos Paises",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=Hockey%3A%20ampa%20Bay%20Lightning%20vs.%20New%20York%20Rangers&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "23:00NCAA Women's Soccer: South Florida vs. Florida AtlanticEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=NCAA%20Women's%20Soccer%3A%20South%20Florida%20vs.%20Florida%20Atlantic&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Hockey%3A%20Buffalo%20Sabres%20vs.%20Columbus%20Blue%20Jackets&ch=Disney%2B"
             }
         ]
     },
