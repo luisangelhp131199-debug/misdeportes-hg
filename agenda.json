@@ -1,130 +1,37 @@
 [
     {
-        "evento": "12:30ATP - INDIVIDUALES - Pekín, dura - 1/8 de final: Bu Y. vs Djokovic N.Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=ATP%20-%20INDIVIDUALES%20-%20Pek%C3%ADn%2C%20dura%20-%201%2F8%20de%20final%3A%20Bu%20Y.%20vs%20Djokovic%20N.&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "12:55World Rugby U20: Rumania vs BrazilBrasil",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=World%20Rugby%20U20%3A%20Rumania%20vs%20Brazil&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "14:00UEFA Nations League: Kazajstán vs MoldaviaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=ESPN%202"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=Disney%2B"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=Disney%2B"
-            },
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Moldavia&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            }
-        ]
-    },
-    {
-        "evento": "14:00LaLiga FC Futures 2026 | Día #1 |Amistosos Paises",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkzMA%3D%3D&title=LaLiga%20FC%20Futures%202026%20%7C%20D%C3%ADa%20%231%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "14:00Golf – Alfred Dunhill Links Championship – Segunda VueltaGolf",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Golf%20%E2%80%93%20Alfred%20Dunhill%20Links%20Championship%20%E2%80%93%20Segunda%20Vuelta&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "14:05Bank of Utah Championship: Homa & Finau Featured Groups (Second Round) |Golf",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTIw&title=Bank%20of%20Utah%20Championship%3A%20Homa%20%26%20Finau%20Featured%20Groups%20(Second%20Round)%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:00UEFA Nations League: Letonia vs MontenegroUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=UEFA%20Nations%20League%3A%20Letonia%20vs%20Montenegro&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:00UEFA Nations League: Chipre vs ArmeniaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Chipre%20vs%20Armenia&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Chipre%20vs%20Armenia&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Chipre%20vs%20Armenia&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Nations%20League%3A%20Chipre%20vs%20Armenia&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=UEFA%20Nations%20League%3A%20Chipre%20vs%20Armenia&ch=Disney%2B"
-            },
-            {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=UEFA%20Nations%20League%3A%20Chipre%20vs%20Armenia&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
         "evento": "18:30LaLiga SmartBank: Eldense vs Real OviedoEspaña",
         "opciones": [
             {
                 "canal": "LaLiga TV Hypermotion",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWh5cGVybW90aW9uMQ%3D%3D&title=LaLiga%20SmartBank%3A%20Eldense%20vs%20Real%20Oviedo&ch=LaLiga%20TV%20Hypermotion"
+            }
+        ]
+    },
+    {
+        "evento": "18:30Bank of Utah Championship: Homa & Finau Featured Groups (Second Round)Golf",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Bank%20of%20Utah%20Championship%3A%20Homa%20%26%20Finau%20Featured%20Groups%20(Second%20Round)&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:30Premier Padel: Rotterdam - Centre Court (Cuartos de Final) |Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Premier%20Padel%3A%20Rotterdam%20-%20Centre%20Court%20(Cuartos%20de%20Final)%20%7C&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "18:30Abierto de Palermo: Ellerstina vs. La Dolfina IIAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Abierto%20de%20Palermo%3A%20Ellerstina%20vs.%20La%20Dolfina%20II&ch=Disney%2B"
             }
         ]
     },
@@ -245,6 +152,15 @@
         ]
     },
     {
+        "evento": "19:00World Rugby U20: Belgium vs. PortugalPortugal",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=World%20Rugby%20U20%3A%20Belgium%20vs.%20Portugal&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "19:00Eerste Divisie: Helmond Sport vs HeraclesPaises Bajos",
         "opciones": [
             {
@@ -258,6 +174,15 @@
             {
                 "canal": "ESPN NL | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4xX25s&title=Eerste%20Divisie%3A%20Helmond%20Sport%20vs%20Heracles&ch=ESPN%20NL%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "19:00NCAA Men's Soccer: UConn vs VillanovaEstados Unidos",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=NCAA%20Men's%20Soccer%3A%20UConn%20vs%20Villanova&ch=Disney%2B"
             }
         ]
     },
