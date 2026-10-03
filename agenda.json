@@ -1,23 +1,5 @@
 [
     {
-        "evento": "08:50Formula 1 - Clasificación GP Bahréin (Kuala Lumpur) |Formula 1",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Formula%201%20-%20Clasificaci%C3%B3n%20GP%20Bahr%C3%A9in%20(Kuala%20Lumpur)%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "10:00Premier Padel – Rotterdam – Semifinales #1 Femenina y MasculinaTennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Premier%20Padel%20%E2%80%93%20Rotterdam%20%E2%80%93%20Semifinales%20%231%20Femenina%20y%20Masculina&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "11:30League Two: Chesterfield vs Tranmere RoversInglaterra",
         "opciones": [
             {
