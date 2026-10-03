@@ -8,11 +8,147 @@
     "episodios": 61
   },
   {
+    "id": "5",
+    "nombre": "Absentia",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/7a64f2507ee4f65930ebf349f5f4cbff.jpg",
+    "descripcion": "Mientras persigue a un asesino en serie, una agente del FBI desaparece y es dada por muerta, dejando solos a su marido, también agente, y a su hijo de 3 años. Pero 6 años después reaparece para sorpresa de todos. Sin recordar nada de lo sucedido desde su secuestro, tiene que adaptarse a una nueva realidad en la que su marido ha rehecho su vida con otra mujer y su hijo no la conoce. Además, una nueva serie de asesinatos hacen pensar a algunos de sus compañeros que ella podría ser la autora.",
+    "temporadas": 3,
+    "episodios": 30
+  },
+  {
+    "id": "8",
+    "nombre": "Agente Carter",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/4193ff5f7d0e6b7c6dd5a52bc9109690.jpg",
+    "descripcion": "Este spin-off de la película del superhéroe de Marvel estará ambientado en 1946. Sus tramas seguirán a Peggy, quien trabajará de forma secreta para el SSR, la Reserva Científica de Estrategia, mientras compagina su trabajo administrativo con las misiones secretas de Howard Stark. Además, tendrá otro reto que es el tratar de ser también una mujer soltera en Estados Unidos tras haber perdido al amor de su vida, Steve Rogers.",
+    "temporadas": 2,
+    "episodios": 18
+  },
+  {
+    "id": "21",
+    "nombre": "American Crime Story",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/1b880e93aee9deea090d3b6526101a49.jpg",
+    "descripcion": "American Crime Story es una serie televisiva dramática estadounidense, basada en crímenes reales. Se ha descrito como una serie antológica, ya que cada temporada se ha concebido como una miniserie independiente, con un grupo de personajes y escenarios distintos, y una trama que tiene su propio comienzo, parte central y final. Ha sido creada por Ryan Murphy, co-creador de American Horror Story.",
+    "temporadas": 3,
+    "episodios": 29
+  },
+  {
+    "id": "3",
+    "nombre": "American Horror Story",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/1e448c152de6e518501c34dc93a7a696.jpg",
+    "descripcion": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+    "temporadas": 14,
+    "episodios": 169
+  },
+  {
+    "id": "6",
+    "nombre": "Ash vs Evil Dead",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/925d77da569f0a0c4d1c1b7c7baec9bd.jpg",
+    "descripcion": "Secuela de la saga de películas \"Posesión infernal\". Ash ha pasado los últimos treinta años evitando madurar y luchando contra los horrores surgidos del Necronomicón. Sigue siendo el mismo malhablado sabelotodo de siempre pero de repente se encuentra con que debe volver a coger su motosierra para luchar contra una plaga de Deadites que amenaza con destruir toda la humanidad mientras intenta reconciliarse con su pasado.",
+    "temporadas": 4,
+    "episodios": 51
+  },
+  {
+    "id": "10",
+    "nombre": "Batwoman",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/bd9372effadfe856c9a8814c50f47fce.jpg",
+    "descripcion": "Armada con una enorme pasión por la justicia social y con una gran facilidad para decir siempre lo que piensa, Kate Kate (Rose) se da a conocer en las calles de Gotham como Batwoman, una lesbiana altamente capacitada para luchar contra el crimen que resurge en la ciudad. Sin embargo, antes de convertirse en su salvadora deberá luchar contra los demonios que la impiden ser el símbolo de esperanza de una ciudad corrupta.",
+    "temporadas": 3,
+    "episodios": 51
+  },
+  {
+    "id": "12",
+    "nombre": "Black Lightning",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/e75458d77cdd5027eae9bd3b4cc49ed1.jpg",
+    "descripcion": "Jefferson Pierce es un hombre que lucha con un secreto. Hace nueve años, Jefferson pasaba la mayoría de su tiempo vigilando que las calles de Nueva Orleans fueran seguras, gracias a su super poder de controlar la electricidad. Sin embargo, tras pasar tanto tiempo en la calle vigilando que todo fuera seguro, dejó su sus aventuras de superhéroe para dedicarle más tiempo a su familia. Pese a que él pensaba que los días como superhéroe habían llegado a su fin, ahora tendrá que volver a usar sus poderes para luchar contra una banda local, Los 100, para proteger a su familia y a su ciudad.",
+    "temporadas": 4,
+    "episodios": 58
+  },
+  {
+    "id": "11",
+    "nombre": "Black Sails",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/6226708eccd0f697d3c3e63fc71042e6.jpg",
+    "descripcion": "Basada en la famosa novela ‘La isla del tesoro’, aventuras de piratas plagada de sangre, sexo y violencia, ‘Black Sails‘ sigue las aventuras con el capitán Flint, un famoso pirata que supuestamente depositó un tesoro en una isla. Flint estará acompañado de un grumete llamado Long John Silver.",
+    "temporadas": 5,
+    "episodios": 59
+  },
+  {
+    "id": "1",
+    "nombre": "Blue Demon",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/4a450c0d58084b057dc0744b6d74d3a1.jpg",
+    "descripcion": "La historia de vida ficticia del luchador mexicano \"Blue Demon\".",
+    "temporadas": 2,
+    "episodios": 40
+  },
+  {
+    "id": "14",
+    "nombre": "Chicago Fire",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/1d8ad5f6aa79b0b46d124f5f35bd49d9.jpg",
+    "descripcion": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, el Escuadrón 3, la Ambulancia 61 y el Batallón 25.",
+    "temporadas": 15,
+    "episodios": 296
+  },
+  {
+    "id": "16",
+    "nombre": "Community",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/ec2f9ae114b44a66ec663559eb484c64.jpg",
+    "descripcion": "Creada por Dan Harmon (The Sarah Silverman Program) y dirigida por Joe and Anthony Russo (Arrested Development) llega Community, una comedia inteligente sobre un grupo de individuos que toma clases en la Universidad Comunitaria de Greendale.\r\n\r\nEn el centro de este grupo se encuentra Jeff Winger (Joel McHale, The Soup), un exitoso abogado cuyo titulo es revocado. Con la ayuda de sus nuevos compañeros de clase, Winger forma un grupo de estudio que les servirá para aprender más sobre si mismos que sobre la materia.\r\n\r\nGillian Jacobs (The Book of Daniel) como Britta, la mujer de 28 años que regresa a los estudios; e Yvette Nicole Brown (Rules of Engagement) como Shirley, una divorciada de edad media. Además encontramos a Danny Pudi (Greek) como Abed, un adicto a la cultura popular; Alison Brie (”Mad Men”) como Annie, una dura perfeccionista; Donald Glover (30 Rock) como Troy, una ex-estrella de football en la secundaria buscando su lugar y Ken Jeong (The Hangover) como el profesor de español conocido como el Señor Chang.\r\n\r\nEso la hace no ser comedia por momentos sino un drama donde grupo de adultos inadaptados y fracasados en su vida personal comienzan a asistir a clases para adultos en una facultad pública",
+    "temporadas": 7,
+    "episodios": 131
+  },
+  {
+    "id": "19",
+    "nombre": "Easy",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/3b2d5e7e1f72250e62dcfcbd4e574ba2.jpg",
+    "descripcion": "Miniserie de 8 episodios que explora distintos personajes de la ciudad de Chicago y sus experiencias en temas de amor, sexo, tecnología y cultura.Una mirada a las relaciones modernas, abordando distintas situaciones, como la de un matrimonio que intenta reactivar su vida sexual con juegos de rol; la de un novelista que se mueve entre las finas líneas de la piratería artística y hasta la historia de una pareja que busca acompañante para hacer un trío.",
+    "temporadas": 3,
+    "episodios": 25
+  },
+  {
     "id": "401",
     "nombre": "El Chapo",
     "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/33d700f060b028e9a22fa72b65c78fab.jpg",
     "descripcion": "Una mirada a la vida del capo de la droga notorio, El Chapo, desde sus primeros días en la década de 1980 que trabajan para el Cártel de Guadalajara, a su llegada al poder de durante los años 90 y su caída final en 2016.",
     "temporadas": 3,
     "episodios": 33
+  },
+  {
+    "id": "9",
+    "nombre": "Hermanos de Sangre",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/ba44f9018a9c1fd17e4dfc5243a1862e.jpg",
+    "descripcion": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
+    "temporadas": 2,
+    "episodios": 17
+  },
+  {
+    "id": "15",
+    "nombre": "Insatiable",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/5eafcbb4b9d1a5801913d42c68efbe50.jpg",
+    "descripcion": "Patty Bladell (Debby Ryan) es una adolescente que ha sufrido acoso en el colegio por ser gorda, encuentra años después en los concursos de belleza, reconvertida en una atractiva joven, un modo de vengarse de sus antiguas compañeras.",
+    "temporadas": 2,
+    "episodios": 22
+  },
+  {
+    "id": "18",
+    "nombre": "La chica invisible",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/073da48486e7f480620eb3fea0e99671.jpg",
+    "descripcion": "Awkward, conocida también como Chica rara en Hispanoamérica y La chica invisible en España, es una serie de televisión estadounidense estrenada el 19 de julio de 2011 en MTV.1 Trata sobre la vida de una chica de 16 años, Jenna Hamilton (Ashley Rickards) que está buscándose a sí misma, especialmente desde que un accidente que tiene es confundido con un intento de suicidio.",
+    "temporadas": 6,
+    "episodios": 99
+  },
+  {
+    "id": "13",
+    "nombre": "Marvel's Luke Cage",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/ba8244a3c8db53ff48c78ab49b12d5f3.jpg",
+    "descripcion": "Como consecuencia de un experimento fallido, Luke Cage (Mike Colter) ha desarrollado una piel indestructible y una fuerza sobrehumana. Ahora es un fugitivo que intenta rehacer su vida en el barrio neoyorquino de Harlem. Pronto se verá obligado a salir de la sombra, luchar por su ciudad y afrontar un pasado que quería enterrar.",
+    "temporadas": 2,
+    "episodios": 26
+  },
+  {
+    "id": "2",
+    "nombre": "The Walking Dead",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/6ebdb150b62a8b3297bd31b7f48229f7.jpg",
+    "descripcion": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
+    "temporadas": 12,
+    "episodios": 259
   }
 ]
