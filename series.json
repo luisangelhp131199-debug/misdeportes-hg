@@ -48,6 +48,14 @@
     "episodios": 51
   },
   {
+    "id": "22",
+    "nombre": "Bancroft",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/2b94e655b873ee3efe63d043485d0df6.jpg",
+    "descripcion": "",
+    "temporadas": 2,
+    "episodios": 7
+  },
+  {
     "id": "10",
     "nombre": "Batwoman",
     "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/bd9372effadfe856c9a8814c50f47fce.jpg",
@@ -86,6 +94,14 @@
     "descripcion": "La historia de vida ficticia del luchador mexicano \"Blue Demon\".",
     "temporadas": 2,
     "episodios": 40
+  },
+  {
+    "id": "24",
+    "nombre": "Breaking Bad",
+    "poster": "http:\/\/kp-thebestiptv.com:8080\/images\/7a78d2a44e33d64d6c35e1a2c1e2cdc9.jpg",
+    "descripcion": "Tras cumplir 50 años, Walter White (Bryan Cranston), un profesor de química de un instituto de Albuquerque, Nuevo México, se entera de que tiene un cáncer de pulmón incurable. Casado con Skyler (Anna Gunn) y con un hijo discapacitado (RJ Mitte), la brutal noticia lo impulsa a dar un drástico cambio a su vida: decide, con la ayuda de un antiguo alumno (Aaron Paul), fabricar anfetaminas y ponerlas a la venta. Lo que pretende es liberar a su familia de problemas económicos cuando se produzca el fatal desenlace.",
+    "temporadas": 6,
+    "episodios": 71
   },
   {
     "id": "14",
