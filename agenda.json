@@ -17,6 +17,41 @@
         ]
     },
     {
+        "evento": "11:00Golf – Alfred Dunhill Links Championship (Final Round)Golf",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Golf%20%E2%80%93%20Alfred%20Dunhill%20Links%20Championship%20(Final%20Round)&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "11:00ATP - INDIVIDUALES - Pekín, dura - Cuartos de final: Zverev A. vs Djokovic N.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=ATP%20-%20INDIVIDUALES%20-%20Pek%C3%ADn%2C%20dura%20-%20Cuartos%20de%20final%3A%20Zverev%20A.%20vs%20Djokovic%20N.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "11:25SportsCenter+Formula 1",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=SportsCenter%2B&ch=ESPN"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=SportsCenter%2B&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=SportsCenter%2B&ch=ESPN%20AR%E2%94%83OP3"
+            }
+        ]
+    },
+    {
         "evento": "12:00LaLiga SmartBank: Real Sociedad II vs GranadaEspaña",
         "opciones": [
             {
@@ -43,11 +78,24 @@
         ]
     },
     {
+        "evento": "12:30ATP - DOBLES - Pekín, dura - Cuartos de final: Melo M. / Zverev A. vs Cash J. / Glasspool L.Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=ATP%20-%20DOBLES%20-%20Pek%C3%ADn%2C%20dura%20-%20Cuartos%20de%20final%3A%20Melo%20M.%20%2F%20Zverev%20A.%20vs%20Cash%20J.%20%2F%20Glasspool%20L.&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "13:00Primera División: Danubio vs Cerro LargoUruguay",
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Primera%20Divisi%C3%B3n%3A%20Danubio%20vs%20Cerro%20Largo&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=Primera%20Divisi%C3%B3n%3A%20Danubio%20vs%20Cerro%20Largo&ch=Disney%2B"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=Primera%20Divisi%C3%B3n%3A%20Danubio%20vs%20Cerro%20Largo&ch=Disney%2B"
             }
         ]
     },
@@ -56,7 +104,11 @@
         "opciones": [
             {
                 "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=Segunda%20Divisi%C3%B3n%3A%20Deportivo%20Colonia%20vs%20Oriental&ch=Disney%2B"
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=Segunda%20Divisi%C3%B3n%3A%20Deportivo%20Colonia%20vs%20Oriental&ch=Disney%2B"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Segunda%20Divisi%C3%B3n%3A%20Deportivo%20Colonia%20vs%20Oriental&ch=Disney%2B"
             }
         ]
     },
@@ -78,6 +130,26 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Nations%20League%3A%20Azerbaiy%C3%A1n%20vs%20Lituania&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=UEFA%20Nations%20League%3A%20Azerbaiy%C3%A1n%20vs%20Lituania&ch=Disney%2B"
+            },
+            {
+                "canal": "Sportv BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=UEFA%20Nations%20League%3A%20Azerbaiy%C3%A1n%20vs%20Lituania&ch=Sportv%20BR"
+            },
+            {
+                "canal": "Sportv BR HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=UEFA%20Nations%20League%3A%20Azerbaiy%C3%A1n%20vs%20Lituania&ch=Sportv%20BR%20HD"
+            },
+            {
+                "canal": "Fox Sports 2 USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Azerbaiy%C3%A1n%20vs%20Lituania&ch=Fox%20Sports%202%20USA"
+            },
+            {
+                "canal": "Fox Sports 2 USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=UEFA%20Nations%20League%3A%20Azerbaiy%C3%A1n%20vs%20Lituania&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
             }
         ]
     },
@@ -95,6 +167,10 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=NFL%20%E2%80%93%20International%20Series%20%E2%80%93%20Washington%20Commanders%20vs.%20Indianapolis%20Colts&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=NFL%20%E2%80%93%20International%20Series%20%E2%80%93%20Washington%20Commanders%20vs.%20Indianapolis%20Colts&ch=Disney%2B"
             }
         ]
     },
