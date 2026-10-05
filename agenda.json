@@ -1,178 +1,5 @@
 [
     {
-        "evento": "20:30Primera B: San Luis vs Unión EspañolaChile",
-        "opciones": [
-            {
-                "canal": "TNT Sports Chile",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0c2NoaWxl&title=Primera%20B%3A%20San%20Luis%20vs%20Uni%C3%B3n%20Espa%C3%B1ola&ch=TNT%20Sports%20Chile"
-            }
-        ]
-    },
-    {
-        "evento": "21:00Primera B: Tigres vs Internacional PalmiraColombia",
-        "opciones": [
-            {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20B%3A%20Tigres%20vs%20Internacional%20Palmira&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20B%3A%20Tigres%20vs%20Internacional%20Palmira&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20B%3A%20Tigres%20vs%20Internacional%20Palmira&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20B%3A%20Tigres%20vs%20Internacional%20Palmira&ch=Win%20Sports%20%2B%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "21:05Liga BetPlay: Internacional de Bogota vs Once CaldasColombia",
-        "opciones": [
-            {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Liga%20BetPlay%3A%20Internacional%20de%20Bogota%20vs%20Once%20Caldas&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Liga%20BetPlay%3A%20Internacional%20de%20Bogota%20vs%20Once%20Caldas&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Liga%20BetPlay%3A%20Internacional%20de%20Bogota%20vs%20Once%20Caldas&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Liga%20BetPlay%3A%20Internacional%20de%20Bogota%20vs%20Once%20Caldas&ch=Win%20Sports%20%2B%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "21:05Primera A: Cúcuta Deportivo vs Deportivo PereiraColombia",
-        "opciones": [
-            {
-                "canal": "Win Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0cw%3D%3D&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Deportivo%20Pereira&ch=Win%20Sports"
-            },
-            {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B"
-            },
-            {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B%20%7C%20OP2"
-            },
-            {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20C%C3%BAcuta%20Deportivo%20vs%20Deportivo%20Pereira&ch=Win%20Sports%20%2B%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "21:15Copa de la División Profesional: Guabirá vs Oriente PetroleroBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Guabir%C3%A1%20vs%20Oriente%20Petrolero&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Liga de Naciones de la CONCACAF: Trinidad y Tobago vs CurazaoCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Trinidad%20y%20Tobago%20vs%20Curazao&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Trinidad%20y%20Tobago%20vs%20Curazao&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            }
-        ]
-    },
-    {
-        "evento": "22:00MLB: San Diego Padres vs. Milwaukee BrewersMLB Preseason",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=MLB%3A%20San%20Diego%20Padres%20vs.%20Milwaukee%20Brewers&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:00USL: New Mexico United vs. Phoenix Rising FCEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=USL%3A%20New%20Mexico%20United%20vs.%20Phoenix%20Rising%20FC&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Kings League Americas | Ronda #5 |Amistosos Paises",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=Kings%20League%20Americas%20%7C%20Ronda%20%235%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Liga de Naciones de la CONCACAF: Puerto Rico vs Islas CaimánCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Puerto%20Rico%20vs%20Islas%20Caim%C3%A1n&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
-        "evento": "22:15Liga Profesional: Argentinos Juniors vs TigreArgentina",
-        "opciones": [
-            {
-                "canal": "TNT Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Argentinos%20Juniors%20vs%20Tigre&ch=TNT%20Sports"
-            },
-            {
-                "canal": "TNT Sports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Argentinos%20Juniors%20vs%20Tigre&ch=TNT%20Sports%20%7C%20OP2"
-            },
-            {
-                "canal": "TNT Sports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Argentinos%20Juniors%20vs%20Tigre&ch=TNT%20Sports%20%7C%20OP3"
-            },
-            {
-                "canal": "TNT Sports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA%2Fc3RyZWFtPXRudHNwb3J0cw%3D%3D&title=Liga%20Profesional%3A%20Argentinos%20Juniors%20vs%20Tigre&ch=TNT%20Sports%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "22:30Primera División: Racing vs PeñarolUruguay",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE3&title=Primera%20Divisi%C3%B3n%3A%20Racing%20vs%20Pe%C3%B1arol&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:30NHL: Utah Mammoth vs. New York RangersAmistosos Paises",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=NHL%3A%20Utah%20Mammoth%20vs.%20New%20York%20Rangers&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "23:10Primera A: Atlético Bucaramanga vs JuniorColombia",
         "opciones": [
             {
@@ -293,6 +120,15 @@
             {
                 "canal": "TYC Sports | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10eWNzcG9ydHM%3D&title=Liga%20Profesional%3A%20Estudiantes%20R%C3%ADo%20Cuarto%20vs%20Racing%20Club&ch=TYC%20Sports%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "01:00NHL: Vancouver Canucks vs Vegas Golden KnightsAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=NHL%3A%20Vancouver%20Canucks%20vs%20Vegas%20Golden%20Knights&ch=Disney%2B"
             }
         ]
     },
