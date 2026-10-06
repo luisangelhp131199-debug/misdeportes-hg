@@ -1,48 +1,5 @@
 [
     {
-        "evento": "11:15WTA China Open / HSBC Moon (Doubles)Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=WTA%20China%20Open%20%2F%20HSBC%20Moon%20(Doubles)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "12:00Premier Padel: Alemania - Secondary Court (Primera Ronda)Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Premier%20Padel%3A%20Alemania%20-%20Secondary%20Court%20(Primera%20Ronda)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "14:00UEFA Nations League: Kazajstán vs Islas FeroeUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Islas%20Feroe&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Islas%20Feroe&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Islas%20Feroe&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Islas%20Feroe&ch=ESPN%202%20%7C%20HD"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=UEFA%20Nations%20League%3A%20Kazajst%C3%A1n%20vs%20Islas%20Feroe&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "18:00Torneo de Reserva: Racing Club vs River PlateArgentina",
         "opciones": [
             {
@@ -91,27 +48,6 @@
             {
                 "canal": "Fox Soccer Plus",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=UEFA%20Nations%20League%3A%20Escocia%20vs%20Eslovenia&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
-        "evento": "18:45UEFA Nations League: Croacia vs EspañaUEFA Nations League",
-        "opciones": [
-            {
-                "canal": "ESPN",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=ESPN"
-            },
-            {
-                "canal": "ESPN AR┃OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=ESPN%20AR%E2%94%83OP2"
-            },
-            {
-                "canal": "ESPN AR┃OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=ESPN%20AR%E2%94%83OP3"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=Disney%2B"
             }
         ]
     },
@@ -217,6 +153,31 @@
         ]
     },
     {
+        "evento": "18:45UEFA Nations League: Croacia vs EspañaUEFA Nations League",
+        "opciones": [
+            {
+                "canal": "ESPN",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=ESPN"
+            },
+            {
+                "canal": "ESPN.",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1lc3Bu&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=ESPN."
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN AR┃OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=ESPN%20AR%E2%94%83OP2"
+            },
+            {
+                "canal": "ESPN AR┃OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4%3D&title=UEFA%20Nations%20League%3A%20Croacia%20vs%20Espa%C3%B1a&ch=ESPN%20AR%E2%94%83OP3"
+            }
+        ]
+    },
+    {
         "evento": "19:00Clasificación para la Copa Africana de Naciones: Angola vs MalauiAFRICA",
         "opciones": [
             {
@@ -275,20 +236,15 @@
         ]
     },
     {
-        "evento": "23:00Liga de Naciones de la CONCACAF: Antigua y Barbuda vs ArubaCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Antigua%20y%20Barbuda%20vs%20Aruba&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
         "evento": "23:00Amistoso: Argentina vs BenínAmistosos Paises",
         "opciones": [
             {
                 "canal": "TYC Sports",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TYC%20Sports"
+            },
+            {
+                "canal": "Dsports Argentina",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Dsports%20Argentina"
             },
             {
                 "canal": "TyC Sports | OP2",
@@ -309,6 +265,39 @@
             {
                 "canal": "Sportv BR HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Sportv%20BR%20HD"
+            },
+            {
+                "canal": "Telefe",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVmZQ%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Telefe"
+            },
+            {
+                "canal": "Telefe | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlZmU%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Telefe%20%7C%20HD"
+            },
+            {
+                "canal": "TUDN USA",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA"
+            },
+            {
+                "canal": "TUDN USA | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA%20%7C%20OP2"
+            },
+            {
+                "canal": "TUDN USA | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA%20%7C%20OP3"
+            },
+            {
+                "canal": "TUDN USA | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:00Liga de Naciones de la CONCACAF: Antigua y Barbuda vs ArubaCONCACAF Nations League",
+        "opciones": [
+            {
+                "canal": "Fox Soccer Plus",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Antigua%20y%20Barbuda%20vs%20Aruba&ch=Fox%20Soccer%20Plus"
             }
         ]
     },
@@ -325,8 +314,20 @@
         "evento": "23:45Amistoso: Colombia vs PerúPerú",
         "opciones": [
             {
-                "canal": "DSports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kc3BvcnRzX2V2ZW50b3M%3D&title=Amistoso%3A%20Colombia%20vs%20Per%C3%BA&ch=DSports"
+                "canal": "America TV",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWFtZXJpY2F0dg%3D%3D&title=Amistoso%3A%20Colombia%20vs%20Per%C3%BA&ch=America%20TV"
+            },
+            {
+                "canal": "Caracol TV",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWNhcmFjb2w%3D&title=Amistoso%3A%20Colombia%20vs%20Per%C3%BA&ch=Caracol%20TV"
+            },
+            {
+                "canal": "FOX Sports Premium MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0c3ByZW1pdW0%3D&title=Amistoso%3A%20Colombia%20vs%20Per%C3%BA&ch=FOX%20Sports%20Premium%20MX"
+            },
+            {
+                "canal": "Fox Sports MX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0c214&title=Amistoso%3A%20Colombia%20vs%20Per%C3%BA&ch=Fox%20Sports%20MX"
             }
         ]
     },
@@ -366,6 +367,10 @@
             {
                 "canal": "ESPN 2 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4ybXg%3D&title=Amistoso%3A%20EE.%20UU.%20vs%20Canad%C3%A1&ch=ESPN%202%20MX"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=Amistoso%3A%20EE.%20UU.%20vs%20Canad%C3%A1&ch=Disney%2B"
             },
             {
                 "canal": "Telemundo",
