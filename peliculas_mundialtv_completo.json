@@ -221,9 +221,39 @@
   },
   {
     "titulo": "Django - 1966",
-    "poster": "https://image.tmdb.org/t/p/w300//aEVGifAWmy0yFwVf7n72VXyJ6lj.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/aEVGifAWmy0yFwVf7n72VXyJ6lj.jpg",
     "video": "https://seed171.bitchute.com/XPOJ1Hq2IAl0/XhGftfvfEW7l.mp4",
-    "sinopsis": "El mercenario y ex-soldado yankee Django (Nero) llega a un desértico pueblo mexicano con un ataúd. Su objetivo: la venganza contra el mayor Jackson. Un spaghetti-western originalmente prohibido en Inglaterra por su violencia... Fan declarado del film, Quentin Tarantino \"copió\" la escena donde un general le rebana la oreja a un predicador para su \"Reservoir Dogs\" y en 2012 estrenó \"Django Unchained\", una película que homenajea a ésta usando su música entre otros elementos."
+    "sinopsis": "El mercenario y ex-soldado yankee Django (Nero) llega a un desértico pueblo mexicano con un ataúd. Su objetivo: la venganza contra el mayor Jackson. Un spaghetti-western originalmente prohibido en Inglaterra por su violencia... Fan declarado del film, Quentin Tarantino \"copió\" la escena donde un general le rebana la oreja a un predicador para su \"Reservoir Dogs\" y en 2012 estrenó \"Django Unchained\", una película que homenajea a ésta usando su música entre otros elementos.",
+    "id": "7",
+    "title": "Django",
+    "category": "Acción, Western",
+    "categoria": "Acción, Western",
+    "url": "https://seed171.bitchute.com/XPOJ1Hq2IAl0/XhGftfvfEW7l.mp4",
+    "year": "1966",
+    "tmdb_id": "10772",
+    "rating": "7.2",
+    "runtime": "92",
+    "director": "Sergio Corbucci",
+    "genres": [
+      "Acción",
+      "Western"
+    ],
+    "cast": [
+      "Franco Nero",
+      "José Bódalo",
+      "Loredana Nusciak",
+      "Ángel Álvarez",
+      "Gino Pernice",
+      "Simón Arriaga",
+      "Giovanni Ivan Scratuglia",
+      "Remo De Angelis",
+      "Rafael Albaicín",
+      "José Canalejas",
+      "Eduardo Fajardo",
+      "José Terrón"
+    ],
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2tFsObjPy5Q0Ea4pb0ICPqVI2ht.jpg",
+    "description": "El mercenario y ex-soldado yankee Django (Nero) llega a un desértico pueblo mexicano con un ataúd. Su objetivo: la venganza contra el mayor Jackson. Un spaghetti-western originalmente prohibido en Inglaterra por su violencia... Fan declarado del film, Quentin Tarantino \"copió\" la escena donde un general le rebana la oreja a un predicador para su \"Reservoir Dogs\" y en 2012 estrenó \"Django Unchained\", una película que homenajea a ésta usando su música entre otros elementos."
   },
   {
     "titulo": "Tarzan",
