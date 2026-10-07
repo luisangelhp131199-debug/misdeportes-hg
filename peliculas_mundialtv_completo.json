@@ -112,9 +112,40 @@
   },
   {
     "titulo": "Guerra mundial Z - 2013",
-    "poster": "https://image.tmdb.org/t/p/w300//a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
     "video": "https://1a-1791.com/video/s8/2/M/r/K/t/MrKtq.aaa.mp4",
-    "sinopsis": "Gerry Lane, antiguo empleado de las Naciones Unidas, recorre el mundo en una carrera contrarreloj para detener una pandemia zombi que está derribando ejércitos y gobiernos y amenaza con destruir a la propia humanidad."
+    "sinopsis": "Gerry Lane, antiguo empleado de las Naciones Unidas, recorre el mundo en una carrera contrarreloj para detener una pandemia zombi que está derribando ejércitos y gobiernos y amenaza con destruir a la propia humanidad.",
+    "id": "4",
+    "title": "Guerra mundial Z",
+    "category": "Acción, Terror, Ciencia ficción",
+    "categoria": "Acción, Terror, Ciencia ficción",
+    "url": "https://1a-1791.com/video/s8/2/M/r/K/t/MrKtq.aaa.mp4",
+    "year": "2013",
+    "tmdb_id": "72190",
+    "rating": "6.9",
+    "runtime": "116",
+    "director": "Marc Forster",
+    "genres": [
+      "Acción",
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "cast": [
+      "Brad Pitt",
+      "Mireille Enos",
+      "דניאלה קרטס‎",
+      "James Badge Dale",
+      "Ludi Boeken",
+      "Matthew Fox",
+      "Fana Mokoena",
+      "David Morse",
+      "Elyes Gabel",
+      "Sterling Jerins",
+      "Peter Capaldi",
+      "Pierfrancesco Favino"
+    ],
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+    "description": "Gerry Lane, antiguo empleado de las Naciones Unidas, recorre el mundo en una carrera contrarreloj para detener una pandemia zombi que está derribando ejércitos y gobiernos y amenaza con destruir a la propia humanidad."
   },
   {
     "titulo": "La muerte de Robin Hood - 2026",
