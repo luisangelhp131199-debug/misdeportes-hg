@@ -149,9 +149,40 @@
   },
   {
     "titulo": "Vivo - 2020",
-    "poster": "https://image.tmdb.org/t/p/w300//tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg",
     "video": "https://hugh.cdn.rumble.cloud/video/s8/2/b/T/h/B/bThBp.aaa.mp4",
-    "sinopsis": "MLa rápida propagación de una infección desconocida ha dejado a toda una ciudad en un caos ingobernable, pero un sobreviviente sigue vivo aislado. Esta es su historia."
+    "sinopsis": "La rápida propagación de una infección desconocida ha dejado a toda una ciudad en un caos ingobernable, pero un sobreviviente sigue vivo aislado. Esta es su historia.",
+    "id": "5",
+    "title": "#Vivo",
+    "category": "Acción, Terror, Ciencia ficción",
+    "categoria": "Acción, Terror, Ciencia ficción",
+    "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/T/h/B/bThBp.aaa.mp4",
+    "year": "2020",
+    "tmdb_id": "614696",
+    "rating": "7.2",
+    "runtime": "98",
+    "director": "Cho Il",
+    "genres": [
+      "Acción",
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "cast": [
+      "유아인",
+      "박신혜",
+      "이현욱",
+      "진소연",
+      "김학선",
+      "소희정",
+      "주보비",
+      "전배수",
+      "이채경",
+      "오혜원",
+      "전운종",
+      "손경원"
+    ],
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k2SY15W9QXH9qL8f4a4BbytV1BE.jpg",
+    "description": "La rápida propagación de una infección desconocida ha dejado a toda una ciudad en un caos ingobernable, pero un sobreviviente sigue vivo aislado. Esta es su historia."
   },
   {
     "titulo": "Historias Cruzadas - 2011",
