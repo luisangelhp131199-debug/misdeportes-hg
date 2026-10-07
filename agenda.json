@@ -1,165 +1,5 @@
 [
     {
-        "evento": "21:00Liga de Naciones de la CONCACAF: San Vicente / Granadinas vs Sint MaartenCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20San%20Vicente%20%2F%20Granadinas%20vs%20Sint%20Maarten&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20San%20Vicente%20%2F%20Granadinas%20vs%20Sint%20Maarten&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            }
-        ]
-    },
-    {
-        "evento": "22:00NCAA Men's Soccer: Mercer vs. #17 CharlotteEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Mercer%20vs.%20%2317%20Charlotte&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:00Copa de la División Profesional: Real Potosí vs San Antonio Bulo BuloBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Real%20Potos%C3%AD%20vs%20San%20Antonio%20Bulo%20Bulo&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:15NCAA Men's Soccer: Campbell vs. Coastal CarolinaEstados Unidos",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=NCAA%20Men's%20Soccer%3A%20Campbell%20vs.%20Coastal%20Carolina&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:15Primera División: Olimpia vs Nacional AsunciónParaguay",
-        "opciones": [
-            {
-                "canal": "fanatiz 02",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZhbmF0aXoy&title=Primera%20Divisi%C3%B3n%3A%20Olimpia%20vs%20Nacional%20Asunci%C3%B3n&ch=fanatiz%2002"
-            }
-        ]
-    },
-    {
-        "evento": "22:30MLB: Los Angeles Dodgers vs. Atlanta BravesMLB Preseason",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=MLB%3A%20Los%20Angeles%20Dodgers%20vs.%20Atlanta%20Braves&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:30NHL: Utah Mammoth vs. New Jersey DevilsNHL",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=NHL%3A%20Utah%20Mammoth%20vs.%20New%20Jersey%20Devils&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:30NHL: Nashville Predators vs. Toronto Maple LeafsNHL",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=NHL%3A%20Nashville%20Predators%20vs.%20Toronto%20Maple%20Leafs&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:40NHL: Ottawa Senators vs. Detroit Red WingsNHL",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOA%3D%3D&title=NHL%3A%20Ottawa%20Senators%20vs.%20Detroit%20Red%20Wings&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "22:45NHL: Carolina Hurricanes vs. Montreal CanadiensNHL",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNw%3D%3D&title=NHL%3A%20Carolina%20Hurricanes%20vs.%20Montreal%20Canadiens&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "23:00Amistoso: Argentina vs BenínAmistosos Paises",
-        "opciones": [
-            {
-                "canal": "TYC Sports",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TYC%20Sports"
-            },
-            {
-                "canal": "Dsports Argentina",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2NvLnBocA%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Dsports%20Argentina"
-            },
-            {
-                "canal": "TyC Sports | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TyC%20Sports%20%7C%20OP2"
-            },
-            {
-                "canal": "TYC Sports | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR5Y3Nwb3J0cw%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TYC%20Sports%20%7C%20OP3"
-            },
-            {
-                "canal": "TYC Sports | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10eWNzcG9ydHM%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TYC%20Sports%20%7C%20HD"
-            },
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Sportv%20BR"
-            },
-            {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Sportv%20BR%20HD"
-            },
-            {
-                "canal": "Telefe",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXRlbGVmZQ%3D%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Telefe"
-            },
-            {
-                "canal": "Telefe | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlZmU%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=Telefe%20%7C%20HD"
-            },
-            {
-                "canal": "TUDN USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA"
-            },
-            {
-                "canal": "TUDN USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA%20%7C%20OP2"
-            },
-            {
-                "canal": "TUDN USA | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXR1ZG4%3D&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA%20%7C%20OP3"
-            },
-            {
-                "canal": "TUDN USA | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu&title=Amistoso%3A%20Argentina%20vs%20Ben%C3%ADn&ch=TUDN%20USA%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "23:00Liga de Naciones de la CONCACAF: Antigua y Barbuda vs ArubaCONCACAF Nations League",
-        "opciones": [
-            {
-                "canal": "Fox Soccer Plus",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNvY2NlcnBsdXM%3D&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Antigua%20y%20Barbuda%20vs%20Aruba&ch=Fox%20Soccer%20Plus"
-            }
-        ]
-    },
-    {
         "evento": "23:30Copa Chile: Colo-Colo vs Puerto MonttChile",
         "opciones": [
             {
@@ -171,6 +11,10 @@
     {
         "evento": "23:45Amistoso: Colombia vs PerúPerú",
         "opciones": [
+            {
+                "canal": "America TV.",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWFtZXJpY2F0dg%3D%3D&title=Amistoso%3A%20Colombia%20vs%20Per%C3%BA&ch=America%20TV."
+            },
             {
                 "canal": "America TV",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWFtZXJpY2F0dg%3D%3D&title=Amistoso%3A%20Colombia%20vs%20Per%C3%BA&ch=America%20TV"
@@ -258,6 +102,15 @@
             {
                 "canal": "Fox Sports 2 USA | OP2",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Liga%20de%20Naciones%20de%20la%20CONCACAF%3A%20Guayana%20Francesa%20vs%20Belice&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
+            }
+        ]
+    },
+    {
+        "evento": "02:15MLB: Milwaukee Brewers vs. San Diego PadresMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=MLB%3A%20Milwaukee%20Brewers%20vs.%20San%20Diego%20Padres&ch=Disney%2B"
             }
         ]
     },
