@@ -38,9 +38,40 @@
   },
   {
     "titulo": "Armageddon - 1998",
-    "poster": "https://image.tmdb.org/t/p/w300//yYtlk1E28L1kQG6VcazkHhv29Ur.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yYtlk1E28L1kQG6VcazkHhv29Ur.jpg",
     "video": "https://hugh.cdn.rumble.cloud/video/fwe1/16/s8/2/5/J/c/q/5Jcqx.aaa.mp4",
-    "sinopsis": "Un asteroide del tamaño del estado de Texas apunta directamente hacia la Tierra. Los expertos de la NASA tan sólo encuentran posible una solución: Enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta. Para ello recurren a Harry Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el Armageddon."
+    "sinopsis": "Un asteroide del tamaño del estado de Texas apunta directamente hacia la Tierra. Los expertos de la NASA tan sólo encuentran posible una solución: Enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta. Para ello recurren a Harry Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el Armageddon.",
+    "id": "2",
+    "title": "Armageddon",
+    "category": "Acción, Ciencia ficción, Aventura",
+    "categoria": "Acción, Ciencia ficción, Aventura",
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe1/16/s8/2/5/J/c/q/5Jcqx.aaa.mp4",
+    "year": "1998",
+    "tmdb_id": "95",
+    "rating": "6.8",
+    "runtime": "150",
+    "director": "Michael Bay",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Billy Bob Thornton",
+      "Ben Affleck",
+      "Liv Tyler",
+      "Will Patton",
+      "Steve Buscemi",
+      "William Fichtner",
+      "Owen Wilson",
+      "Michael Clarke Duncan",
+      "Peter Stormare",
+      "Ken Hudson Campbell",
+      "Jessica Steen"
+    ],
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+    "description": "Un asteroide del tamaño del estado de Texas apunta directamente hacia la Tierra. Los expertos de la NASA tan sólo encuentran posible una solución: Enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta. Para ello recurren a Harry Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el Armageddon."
   },
   {
     "titulo": "Interestelar - 2014",
