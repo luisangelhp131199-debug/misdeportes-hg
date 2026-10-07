@@ -75,9 +75,40 @@
   },
   {
     "titulo": "2012 - 2009",
-    "poster": "https://image.tmdb.org/t/p/w300//gWE2GIrIqqf1OLV2Talxph11MC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gWE2GIrIqqf1OLV2Talxph11MC.jpg",
     "video": "https://hugh.cdn.rumble.cloud/video/fwe2/26/s8/2/k/E/d/r/kEdry.aaa.mp4",
-    "sinopsis": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo \"venden\" plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información... y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies; y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos."
+    "sinopsis": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo \"venden\" plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información... y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies; y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos.",
+    "id": "3",
+    "title": "2012",
+    "category": "Acción, Aventura, Ciencia ficción",
+    "categoria": "Acción, Aventura, Ciencia ficción",
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/26/s8/2/k/E/d/r/kEdry.aaa.mp4",
+    "year": "2009",
+    "tmdb_id": "14161",
+    "rating": "5.9",
+    "runtime": "158",
+    "director": "Roland Emmerich",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "cast": [
+      "John Cusack",
+      "Amanda Peet",
+      "Chiwetel Ejiofor",
+      "Thandiwe Newton",
+      "Oliver Platt",
+      "Tom McCarthy",
+      "Woody Harrelson",
+      "Danny Glover",
+      "Liam James",
+      "Morgan Lily",
+      "Zlatko Burić",
+      "Beatrice Rosen"
+    ],
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4P71rDf6roxVskbvdcbNayVMpXd.jpg",
+    "description": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo \"venden\" plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información... y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies; y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos."
   },
   {
     "titulo": "Batman: El caballero de la noche - 2008",
