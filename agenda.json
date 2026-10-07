@@ -1,80 +1,5 @@
 [
     {
-        "evento": "05:00Rolex Shanghai Masters / Grandstand 2 |Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMg%3D%3D&title=Rolex%20Shanghai%20Masters%20%2F%20Grandstand%202%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "05:00Rugby: Bordeaux vs. LOURugby",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMw%3D%3D&title=Rugby%3A%20Bordeaux%20vs.%20LOU&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "05:00Rolex Shanghai Masters / Stadium Court |Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=Rolex%20Shanghai%20Masters%20%2F%20Stadium%20Court%20%7C&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "05:00WTA China Open / HSBC Moon (Doubles)Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNA%3D%3D&title=WTA%20China%20Open%20%2F%20HSBC%20Moon%20(Doubles)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "05:05WTA China Open (Round of 16)Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNQ%3D%3D&title=WTA%20China%20Open%20(Round%20of%2016)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "05:05WTA China Open / Lotus Court (Doubles)Tennis",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyNg%3D%3D&title=WTA%20China%20Open%20%2F%20Lotus%20Court%20(Doubles)&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "10:00Tenis – M1000 Shangai – Primera RondaTennis",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "14:00Tenis – M1000 Shangai – Primera RondaTennis",
         "opciones": [
             {
@@ -181,6 +106,32 @@
             {
                 "canal": "TNT Sports Premiun CL HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ%3D%3D&title=Copa%20Chile%3A%20Coquimbo%20Unido%20vs%20Cobreloa&ch=TNT%20Sports%20Premiun%20CL%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "22:30Brasileirão: Internacional vs CorinthiansBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere 2 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMg%3D%3D&title=Brasileir%C3%A3o%3A%20Internacional%20vs%20Corinthians&ch=Premiere%202%20BR"
+            },
+            {
+                "canal": "Premiere 2 BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTI%3D&title=Brasileir%C3%A3o%3A%20Internacional%20vs%20Corinthians&ch=Premiere%202%20BR%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "22:30Brasileirão: Remo vs GrêmioBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere 4 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlNA%3D%3D&title=Brasileir%C3%A3o%3A%20Remo%20vs%20Gr%C3%AAmio&ch=Premiere%204%20BR"
+            },
+            {
+                "canal": "Premiere 4 BR | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ%3D&title=Brasileir%C3%A3o%3A%20Remo%20vs%20Gr%C3%AAmio&ch=Premiere%204%20BR%20%7C%20HD"
             }
         ]
     },
