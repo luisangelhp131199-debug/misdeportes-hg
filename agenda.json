@@ -1,52 +1,19 @@
 [
     {
-        "evento": "14:00Tenis – M1000 Shangai – Primera RondaTennis",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "18:00Torneo de Reserva: Aldosivi vs TigreArgentina",
-        "opciones": [
-            {
-                "canal": "ESPN 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Torneo%20de%20Reserva%3A%20Aldosivi%20vs%20Tigre&ch=ESPN%202"
-            },
-            {
-                "canal": "ESPN 2 | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Torneo%20de%20Reserva%3A%20Aldosivi%20vs%20Tigre&ch=ESPN%202%20%7C%20OP2"
-            },
-            {
-                "canal": "ESPN 2 | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Torneo%20de%20Reserva%3A%20Aldosivi%20vs%20Tigre&ch=ESPN%202%20%7C%20OP3"
-            },
-            {
-                "canal": "ESPN 2 | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Torneo%20de%20Reserva%3A%20Aldosivi%20vs%20Tigre&ch=ESPN%202%20%7C%20HD"
-            }
-        ]
-    },
-    {
         "evento": "19:00Copa de la División Profesional: Guabirá vs The StrongestBolivia",
         "opciones": [
             {
                 "canal": "Entel TV PLUS+",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Guabir%C3%A1%20vs%20The%20Strongest&ch=Entel%20TV%20PLUS%2B"
+            }
+        ]
+    },
+    {
+        "evento": "19:00Premier Padel: Alemania - Secondary Court (Primera Ronda)Tennis",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyOQ%3D%3D&title=Premier%20Padel%3A%20Alemania%20-%20Secondary%20Court%20(Primera%20Ronda)&ch=Disney%2B"
             }
         ]
     },
@@ -80,6 +47,31 @@
             {
                 "canal": "ECUAVISA | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVjZGY%3D&title=Copa%20Ecuador%3A%20Universidad%20Cat%C3%B3lica%20vs%20LDU%20Quito&ch=ECUAVISA%20%7C%20OP3"
+            }
+        ]
+    },
+    {
+        "evento": "21:30MLB: Chicago White Sox vs Cleveland GuardiansMLB Preseason",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1kaXNuZXkyMQ%3D%3D&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203%20%7C%20HD"
             }
         ]
     },
