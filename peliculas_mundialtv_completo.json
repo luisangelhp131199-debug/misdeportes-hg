@@ -186,9 +186,38 @@
   },
   {
     "titulo": "Historias Cruzadas - 2011",
-    "poster": "https://image.tmdb.org/t/p/w300//4YPCRHjHkEx76TpbKvhCOpBexIU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/4YPCRHjHkEx76TpbKvhCOpBexIU.jpg",
     "video": "https://1a-1791.com/video/s8/2/I/m/5/o/Im5os.aaa.mp4",
-    "sinopsis": "Mississippi, años 60. Skeeter es una joven sureña que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminación racial."
+    "sinopsis": "Mississippi, años 60. Skeeter es una joven sureña que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminación racial.",
+    "id": "6",
+    "title": "Historias Cruzadas",
+    "category": "Drama",
+    "categoria": "Drama",
+    "url": "https://1a-1791.com/video/s8/2/I/m/5/o/Im5os.aaa.mp4",
+    "year": "2011",
+    "tmdb_id": "50014",
+    "rating": "8.2",
+    "runtime": "146",
+    "director": "Tate Taylor",
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Emma Stone",
+      "Viola Davis",
+      "Bryce Dallas Howard",
+      "Octavia Spencer",
+      "Jessica Chastain",
+      "Ahna O'Reilly",
+      "Allison Janney",
+      "Anna Camp",
+      "Eleanor Henry",
+      "Emma Henry",
+      "Chris Lowell",
+      "Cicely Tyson"
+    ],
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+    "description": "Mississippi, años 60. Skeeter es una joven sureña que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminación racial."
   },
   {
     "titulo": "Django - 1966",
