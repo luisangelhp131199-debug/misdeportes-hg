@@ -1,66 +1,64 @@
 [
     {
-        "evento": "23:00Brasileirão: Vitória vs ChapecoenseBrasil",
+        "evento": "10:00Tenis – M1000 Shangai – Primera RondaTennis",
         "opciones": [
             {
-                "canal": "Premiere 3 BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlMw%3D%3D&title=Brasileir%C3%A3o%3A%20Vit%C3%B3ria%20vs%20Chapecoense&ch=Premiere%203%20BR"
+                "canal": "ESPN 2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202"
             },
             {
-                "canal": "Premiere 3 BR | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTM%3D&title=Brasileir%C3%A3o%3A%20Vit%C3%B3ria%20vs%20Chapecoense&ch=Premiere%203%20BR%20%7C%20HD"
+                "canal": "ESPN 2 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 2 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4y&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 2 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=Tenis%20%E2%80%93%20M1000%20Shangai%20%E2%80%93%20Primera%20Ronda&ch=ESPN%202%20%7C%20HD"
             }
         ]
     },
     {
-        "evento": "23:30Brasileirão: Botafogo vs Vasco da GamaBrasil",
+        "evento": "18:00Liga 1: Deportivo Moquegua vs CiencianoPerú",
         "opciones": [
             {
-                "canal": "Amazon Prime",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWFtYXpvbl9wcmltZTE%3D&title=Brasileir%C3%A3o%3A%20Botafogo%20vs%20Vasco%20da%20Gama&ch=Amazon%20Prime"
+                "canal": "Liga1MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Deportivo%20Moquegua%20vs%20Cienciano&ch=Liga1MAX"
+            },
+            {
+                "canal": "Liga1Max | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Deportivo%20Moquegua%20vs%20Cienciano&ch=Liga1Max%20%7C%20OP2"
+            },
+            {
+                "canal": "Liga1Max | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Deportivo%20Moquegua%20vs%20Cienciano&ch=Liga1Max%20%7C%20OP3"
+            },
+            {
+                "canal": "Liga1MAX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Deportivo%20Moquegua%20vs%20Cienciano&ch=Liga1MAX%20%7C%20HD"
             }
         ]
     },
     {
-        "evento": "00:00Copa de la División Profesional: Oriente Petrolero vs Universitario de VintoBolivia",
+        "evento": "20:00Liga 1: Atlético Grau vs Los ChankasPerú",
         "opciones": [
             {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Oriente%20Petrolero%20vs%20Universitario%20de%20Vinto&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "00:30Brasileirão: Cruzeiro vs São PauloBrasil",
-        "opciones": [
-            {
-                "canal": "Sportv BR",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXNwb3J0dg%3D%3D&title=Brasileir%C3%A3o%3A%20Cruzeiro%20vs%20S%C3%A3o%20Paulo&ch=Sportv%20BR"
+                "canal": "Liga1MAX",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1MAX"
             },
             {
-                "canal": "Sportv BR HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY%3D&title=Brasileir%C3%A3o%3A%20Cruzeiro%20vs%20S%C3%A3o%20Paulo&ch=Sportv%20BR%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "01:20Primera A: Atlético Nacional vs Deportes TolimaColombia",
-        "opciones": [
-            {
-                "canal": "Win Sports +",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Atl%C3%A9tico%20Nacional%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B"
+                "canal": "Liga1Max | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1Max%20%7C%20OP2"
             },
             {
-                "canal": "Win Sports + | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Atl%C3%A9tico%20Nacional%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B%20%7C%20OP2"
+                "canal": "Liga1Max | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1Max%20%7C%20OP3"
             },
             {
-                "canal": "Win Sports + | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPXdpbnNwb3J0czI%3D&title=Primera%20A%3A%20Atl%C3%A9tico%20Nacional%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B%20%7C%20OP3"
-            },
-            {
-                "canal": "Win Sports + | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Atl%C3%A9tico%20Nacional%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B%20%7C%20HD"
+                "canal": "Liga1MAX | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1MAX%20%7C%20HD"
             }
         ]
     }
