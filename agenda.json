@@ -1,44 +1,5 @@
 [
     {
-        "evento": "19:00Copa de la División Profesional: Always Ready vs Nacional PotosíBolivia",
-        "opciones": [
-            {
-                "canal": "Entel TV PLUS+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ%3D%3D&title=Copa%20de%20la%20Divisi%C3%B3n%20Profesional%3A%20Always%20Ready%20vs%20Nacional%20Potos%C3%AD&ch=Entel%20TV%20PLUS%2B"
-            }
-        ]
-    },
-    {
-        "evento": "20:00Liga 1: Atlético Grau vs Los ChankasPerú",
-        "opciones": [
-            {
-                "canal": "Liga1MAX",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1MAX"
-            },
-            {
-                "canal": "Liga1Max | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1Max%20%7C%20OP2"
-            },
-            {
-                "canal": "Liga1Max | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWxpZ2ExbWF4&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1Max%20%7C%20OP3"
-            },
-            {
-                "canal": "Liga1MAX | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA%3D%3D&title=Liga%201%3A%20Atl%C3%A9tico%20Grau%20vs%20Los%20Chankas&ch=Liga1MAX%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "20:00Liga 2: Tacna Heroica vs Carlos ManucciPerú",
-        "opciones": [
-            {
-                "canal": "Bicolor Premiun",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWV2ZW50b3M%3D&title=Liga%202%3A%20Tacna%20Heroica%20vs%20Carlos%20Manucci&ch=Bicolor%20Premiun"
-            }
-        ]
-    },
-    {
         "evento": "22:30Brasileirão: Santos vs FlamengoBrasil",
         "opciones": [
             {
@@ -60,6 +21,51 @@
             {
                 "canal": "Win Sports | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM%3D&title=Brasileir%C3%A3o%3A%20Santos%20vs%20Flamengo&ch=Win%20Sports%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL: Boston Bruins vs Utah MammothAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=NHL%3A%20Boston%20Bruins%20vs%20Utah%20Mammoth&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL: Carolina Hurricanes vs Vancouver CanucksAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTk%3D&title=NHL%3A%20Carolina%20Hurricanes%20vs%20Vancouver%20Canucks&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL: Montreal Canadiens vs Nashville PredatorsAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=NHL%3A%20Montreal%20Canadiens%20vs%20Nashville%20Predators&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL: Buffalo Sabres vs Dallas StarsAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=NHL%3A%20Buffalo%20Sabres%20vs%20Dallas%20Stars&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00Serie B: Nautico Recife vs NovorizontinoBrasil",
+        "opciones": [
+            {
+                "canal": "Premiere 6 BR",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXByZW1pZXJlNg%3D%3D&title=Serie%20B%3A%20Nautico%20Recife%20vs%20Novorizontino&ch=Premiere%206%20BR"
             }
         ]
     },
@@ -93,6 +99,24 @@
         ]
     },
     {
+        "evento": "23:00NHL: Ottawa Senators vs Philadelphia FlyersAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=NHL%3A%20Ottawa%20Senators%20vs%20Philadelphia%20Flyers&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "23:00NHL: Tampa Bay Lightning vs Minnesota WildAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=NHL%3A%20Tampa%20Bay%20Lightning%20vs%20Minnesota%20Wild&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "23:05Primera A: Atlético Nacional vs Deportes TolimaColombia",
         "opciones": [
             {
@@ -110,6 +134,49 @@
             {
                 "canal": "Win Sports + | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Atl%C3%A9tico%20Nacional%20vs%20Deportes%20Tolima&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "23:30NHL: New York Islanders vs Chicago BlackhawksAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=NHL%3A%20New%20York%20Islanders%20vs%20Chicago%20Blackhawks&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "00:00NHL: St. Louis Blues vs San Jose SharksAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=NHL%3A%20St.%20Louis%20Blues%20vs%20San%20Jose%20Sharks&ch=Disney%2B"
+            }
+        ]
+    },
+    {
+        "evento": "00:00MLB: Chicago White Sox vs Cleveland GuardiansMLB Preseason",
+        "opciones": [
+            {
+                "canal": "ESPN 3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4z&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203"
+            },
+            {
+                "canal": "ESPN 3 | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG4z&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN 3 | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG4z&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203%20%7C%20OP3"
+            },
+            {
+                "canal": "ESPN 3 | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw%3D%3D&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=ESPN%203%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTQ%3D&title=MLB%3A%20Chicago%20White%20Sox%20vs%20Cleveland%20Guardians&ch=Disney%2B"
             }
         ]
     },
@@ -186,6 +253,15 @@
         ]
     },
     {
+        "evento": "01:00NHL: Calgary Flames vs Colorado AvalancheAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEz&title=NHL%3A%20Calgary%20Flames%20vs%20Colorado%20Avalanche&ch=Disney%2B"
+            }
+        ]
+    },
+    {
         "evento": "01:00Liga de Expansión MX: Alebrijes de Oaxaca vs Correcaminos UATMéxico",
         "opciones": [
             {
@@ -216,6 +292,15 @@
             {
                 "canal": "Win Sports + | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy&title=Primera%20A%3A%20Fortaleza%20CEIF%20vs%20Millonarios&ch=Win%20Sports%20%2B%20%7C%20HD"
+            }
+        ]
+    },
+    {
+        "evento": "02:00NHL: Vegas Golden Knights vs Toronto Maple LeafsAmistosos Paises",
+        "opciones": [
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE0&title=NHL%3A%20Vegas%20Golden%20Knights%20vs%20Toronto%20Maple%20Leafs&ch=Disney%2B"
             }
         ]
     },
