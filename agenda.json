@@ -1,101 +1,5 @@
 [
     {
-        "evento": "12:30Formula 1: Singapore Grand Prix - 1st Sprint ShootoutFormula 1",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTM%3D&title=Formula%201%3A%20Singapore%20Grand%20Prix%20-%201st%20Sprint%20Shootout&ch=Disney%2B"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE1&title=Formula%201%3A%20Singapore%20Grand%20Prix%20-%201st%20Sprint%20Shootout&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "12:50Formula 1: Singapore Grand Prix - 2nd Sprint ShootoutFormula 1",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Formula%201%3A%20Singapore%20Grand%20Prix%20-%202nd%20Sprint%20Shootout&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "13:15Formula 1: Singapore Grand Prix - 2nd Sprint ShootoutFormula 1",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTY%3D&title=Formula%201%3A%20Singapore%20Grand%20Prix%20-%202nd%20Sprint%20Shootout&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "13:50Pro League: Al Kholood vs Al-Qadisiyah FCArabia Saudita",
-        "opciones": [
-            {
-                "canal": "FOX Deportes",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Pro%20League%3A%20Al%20Kholood%20vs%20Al-Qadisiyah%20FC&ch=FOX%20Deportes"
-            },
-            {
-                "canal": "FOX Deportes | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Pro%20League%3A%20Al%20Kholood%20vs%20Al-Qadisiyah%20FC&ch=FOX%20Deportes%20%7C%20OP2"
-            },
-            {
-                "canal": "FOX Deportes | OP3",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Pro%20League%3A%20Al%20Kholood%20vs%20Al-Qadisiyah%20FC&ch=FOX%20Deportes%20%7C%20OP3"
-            },
-            {
-                "canal": "FOX Deportes | HD",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw%3D%3D&title=Pro%20League%3A%20Al%20Kholood%20vs%20Al-Qadisiyah%20FC&ch=FOX%20Deportes%20%7C%20HD"
-            }
-        ]
-    },
-    {
-        "evento": "14:55Pro League: Al-Fateh vs Al-Ahli JeddahArabia Saudita",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2 USA",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Pro%20League%3A%20Al-Fateh%20vs%20Al-Ahli%20Jeddah&ch=Fox%20Sports%202%20USA"
-            },
-            {
-                "canal": "Fox Sports 2 USA | OP2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveHNwb3J0czJfdXNh&title=Pro%20League%3A%20Al-Fateh%20vs%20Al-Ahli%20Jeddah&ch=Fox%20Sports%202%20USA%20%7C%20OP2"
-            }
-        ]
-    },
-    {
-        "evento": "16:302. Bundesliga: Eintracht Braunschweig vs Holstein KielAlemania",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTE%3D&title=2.%20Bundesliga%3A%20Eintracht%20Braunschweig%20vs%20Holstein%20Kiel&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "16:302. Bundesliga: Heidenheim vs KaiserslauternAlemania",
-        "opciones": [
-            {
-                "canal": "Fox Sports 2",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveHNwb3J0czI%3D&title=2.%20Bundesliga%3A%20Heidenheim%20vs%20Kaiserslautern&ch=Fox%20Sports%202"
-            },
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTI%3D&title=2.%20Bundesliga%3A%20Heidenheim%20vs%20Kaiserslautern&ch=Disney%2B"
-            }
-        ]
-    },
-    {
-        "evento": "17:00Super Lig: Galatasaray vs KasımpaşaTurquía",
-        "opciones": [
-            {
-                "canal": "Disney+",
-                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTc%3D&title=Super%20Lig%3A%20Galatasaray%20vs%20Kas%C4%B1mpa%C5%9Fa&ch=Disney%2B"
-            }
-        ]
-    },
-    {
         "evento": "17:30Liga Profesional: Aldosivi vs SarmientoArgentina",
         "opciones": [
             {
@@ -150,11 +54,36 @@
         ]
     },
     {
+        "evento": "18:00Pro League: Al-Nassr vs Al DiriyahArabia Saudita",
+        "opciones": [
+            {
+                "canal": "FOX Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Pro%20League%3A%20Al-Nassr%20vs%20Al%20Diriyah&ch=FOX%20Deportes"
+            },
+            {
+                "canal": "FOX Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Pro%20League%3A%20Al-Nassr%20vs%20Al%20Diriyah&ch=FOX%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "FOX Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWZveGRlcG9ydGVz&title=Pro%20League%3A%20Al-Nassr%20vs%20Al%20Diriyah&ch=FOX%20Deportes%20%7C%20OP3"
+            },
+            {
+                "canal": "FOX Deportes | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw%3D%3D&title=Pro%20League%3A%20Al-Nassr%20vs%20Al%20Diriyah&ch=FOX%20Deportes%20%7C%20HD"
+            }
+        ]
+    },
+    {
         "evento": "18:00Eredivisie: PSV vs HeerenveenPaises Bajos",
         "opciones": [
             {
                 "canal": "ESPN 3 MX",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWVzcG4zbXg%3D&title=Eredivisie%3A%20PSV%20vs%20Heerenveen&ch=ESPN%203%20MX"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTg%3D&title=Eredivisie%3A%20PSV%20vs%20Heerenveen&ch=Disney%2B"
             },
             {
                 "canal": "ESPN NL",
@@ -188,6 +117,18 @@
             {
                 "canal": "ESPN 5 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ%3D%3D&title=Bundesliga%3A%20Borussia%20Dortmund%20vs%20Werder%20Bremen&ch=ESPN%205%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTU%3D&title=Bundesliga%3A%20Borussia%20Dortmund%20vs%20Werder%20Bremen&ch=Disney%2B"
+            },
+            {
+                "canal": "Universo",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPXVuaXZlcnNv&title=Bundesliga%3A%20Borussia%20Dortmund%20vs%20Werder%20Bremen&ch=Universo"
+            },
+            {
+                "canal": "Universo | HD",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw%3D%3D&title=Bundesliga%3A%20Borussia%20Dortmund%20vs%20Werder%20Bremen&ch=Universo%20%7C%20HD"
             }
         ]
     },
@@ -205,6 +146,14 @@
             {
                 "canal": "ESPN 4 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG40&title=Ligue%201%3A%20Lens%20vs%20Olympique%20Lyonnais&ch=ESPN%204%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEw&title=Ligue%201%3A%20Lens%20vs%20Olympique%20Lyonnais&ch=Disney%2B"
+            },
+            {
+                "canal": "BeIN Sports Ñ",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWJlaW5zcG9ydGVz&title=Ligue%201%3A%20Lens%20vs%20Olympique%20Lyonnais&ch=BeIN%20Sports%20%C3%91"
             }
         ]
     },
@@ -231,6 +180,10 @@
             {
                 "canal": "ESPN 7 | OP3",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG43&title=Championship%3A%20West%20Ham%20United%20vs%20Queens%20Park%20Rangers&ch=ESPN%207%20%7C%20OP3"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEy&title=Championship%3A%20West%20Ham%20United%20vs%20Queens%20Park%20Rangers&ch=Disney%2B"
             }
         ]
     },
@@ -252,6 +205,22 @@
             {
                 "canal": "ESPN 2 | HD",
                 "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg%3D%3D&title=LaLiga%3A%20M%C3%A1laga%20vs%20Espanyol&ch=ESPN%202%20%7C%20HD"
+            },
+            {
+                "canal": "Disney+",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA%2Fc3RyZWFtPWRpc25leTEx&title=LaLiga%3A%20M%C3%A1laga%20vs%20Espanyol&ch=Disney%2B"
+            },
+            {
+                "canal": "ESPN Deportes",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM%3D&title=LaLiga%3A%20M%C3%A1laga%20vs%20Espanyol&ch=ESPN%20Deportes"
+            },
+            {
+                "canal": "ESPN Deportes | OP2",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20M%C3%A1laga%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP2"
+            },
+            {
+                "canal": "ESPN Deportes | OP3",
+                "url_real": "https://rusticotv.quest/watch/?stream=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA%2Fc3RyZWFtPWVzcG5kZXBvcnRlcw%3D%3D&title=LaLiga%3A%20M%C3%A1laga%20vs%20Espanyol&ch=ESPN%20Deportes%20%7C%20OP3"
             }
         ]
     },
